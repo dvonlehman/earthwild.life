@@ -1,0 +1,389 @@
+{
+  "taxonid": 15419,
+  "scientific_name": "Orcaella brevirostris",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "CETARTIODACTYLA",
+  "family": "DELPHINIDAE",
+  "genus": "Orcaella",
+  "main_common_name": "Irrawaddy Dolphin",
+  "authority": "(Owen in Gray, 1866)",
+  "published_year": 2017,
+  "assessment_date": "2017-08-30",
+  "category": "EN",
+  "criteria": "A2cd+3cd+4cd",
+  "population_trend": "Decreasing",
+  "marine_system": true,
+  "freshwater_system": true,
+  "terrestrial_system": false,
+  "assessor": "Minton, G., Braulik, G.T., Smith, B.D., Sutaria, D., Kreb, D., Reeves, R.",
+  "reviewer": "Taylor, B.L., Notarbartolo di Sciara, G., Hammond, P.S., Jefferson, T.A.",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": null,
+  "elevation_lower": null,
+  "depth_upper": 0,
+  "depth_lower": 50,
+  "errata_flag": true,
+  "errata_reason": "The original version of this assessment was published with an older version of the distribution map. This errata assessment uses the updated distribution map.",
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 15419,
+  "taxonomicnotes": "Dolphins of the genus <em>Orcaella</em> were split into two species by Beasley <em>et al</em>. (2002, 2005), the Irrawaddy Dolphin (<em>Orcaella brevirostris</em>) and the Snubfin Dolphin (<em>O. heinsohni</em>).",
+  "rationale": "Irrawaddy Dolphins occur in south and southeast Asia, limited to shallow coastal waters (usually associated with freshwater inputs), three large river systems, two brackish lagoons or marine appended lakes, and one sound. Where the species has been studied: (1) subpopulation sizes are very small (in the range of 10s to low 100s of individuals) with the single exception of Bangladesh that had a abundance estimated at 5,800 individuals (coefficient of variation (CV) = 40%) in 2007; (2) there have been significant range declines in several areas; and (3) threats, especially incidental mortality in fisheries (bycatch) and habitat degradation, are well documented, severe, pervasive, and potentially increasing. The fragmented distribution of the species in coastal waters near river mouths and in deep pools of large rivers means that the species is exposed to intensive anthropogenic threats because human activities are generally concentrated in these areas. Where the species has been studied, including in Bangladesh, stranding records and reports from local fishermen suggest that incidental mortality in fishing gear, particularly gillnets, is not sustainable. Three riverine Irrawaddy Dolphin subpopulations (Mekong, Ayeyarwady, and Mahakam), one in Songkhla Lagoon, and one in Malampaya Sound are listed as Critically Endangered (CR) on the IUCN Red List.<br/><br/>Moore (2015) estimated that the generation time for a pristine population of Irrawaddy Dolphins (i.e., one with a stable age structure and abundance at carrying capacity) is 20 years (range 16-23) and the best estimate of maximum annual rate of increase is 3.8% (range 2-6%). Moore (2015) also estimated that based on these parameters, three generations (i.e., 60 years) of human-induced mortality rates of 4.4%, 5.0%, and 6.5% per year would lead to declines in population size of 30%, 50%, and 80%, respectively, corresponding to IUCN Red List classifications of Vulnerable (VU), Endangered (EN), and CR, respectively, under criterion A (population size reduction). For example, the deaths of only 4.2 individuals per year from a population of 100 would result in a 50% decline, therefore meeting the criteria for EN (Moore 2015).<br/><br/>The available evidence from studied subpopulations and indications from elsewhere in their range suggest that mortality rates of Irrawaddy Dolphins are consistently at, or above, the rate that would result in a 50% or greater decline in three generations. Examples based on recovered carcasses (see the <em>Threats</em> section below) in the best known Irrawaddy Dolphin subpopulations (all freshwater) indicate a minimum annual mortality of 9.3% for Chilika Lagoon (a mean of 10.3 individuals per year between 2003-2009 in a population estimated at 111 dolphins (Sutaria <em>et al</em>. 2017); 5.7% for the Mahakam River (4.0 individuals per year between 2005 and 2016 in a population estimated at 70 individuals in 2005 (Kreb <em>et al</em>. 2007, and unpub. data)); 3.2% for the Mekong River (3.0 individuals per year in 2001-2005 in a population estimated at 93 dolphins (Beasley <em>et al</em>. 2013)); and 4.3% in the Ayeyarwady River (2.8 individuals per year in 2002-2016 in a population estimated at 65 individuals (Lin in Thomas and Gulland 2017)). Although only the estimates for Chilika Lagoon and the Mahakam River surpass the 5.0% human-induced mortality threshold calculated by Moore (2015), these mortality rates reflect only deaths that were documented and reported and there is a high probability of undetected/unreported deaths, especially in remote areas. Actual mortality rates are almost certainly much higher in most areas. Although the aforementioned examples were freshwater subpopulations, which may be more vulnerable than coastal subpopulations, expert opinion and less comprehensive data sets on Irrawaddy Dolphin mortality in coastal waters suggest that other subpopulations are experiencing similarly high levels of human-caused mortality. For instance, a cetacean stranding network in Bangladesh recorded roughly five Irrawaddy deaths per year between 2007 and 2016, despite the network covering only a very small portion of the species’ range in inland and coastal waters. Irrawaddy Dolphins also appear to be the most frequently by-caught cetacean in coastal fisheries in Sarawak (Peter et al. 2016b).<br/><br/>Irrawaddy Dolphin habitat overlaps strongly with severe threats from growing human activities. The primary factor responsible for population declines in both their freshwater and marine habitat is incidental mortality in small-scale fisheries, especially gillnets. Habitat loss and degradation is also a major contributing threat in many freshwater areas, especially from existing and planned dams in the Mekong and Ayeyarwady rivers, and in coastal estuarine habitat from declining freshwater flows, increasing commercial vessel traffic and pollution. Rigorous data on annual mortality needed to distinguish between VU and EN listings (4.4% and 5.0%, respectively) are not available and, with the exception of a few well studied subpopulations, the data are unlikely to become available in the foreseeable future. However, it is probable that the high mortality and small size of the studied populations will be found to apply to those areas where data are currently non-existent or limited. The severity and pervasiveness of the primary threats give reason to suspect that an EN listing is appropriate according to a population size reduction of ≥50% over the past 60 years, future 60 years, and a time period encompassing 60 years in both the past and the future. Considering the strong evidence that fatal entanglements in fishing gear will only increase in the future along with increasing fishing effort from small-scale fisheries; alternative fishing techniques for replacing gillnets while meeting local fishery needs are not available; and dam construction and coastal development in priority Irrawaddy dolphin habitat are increasing in both magnitude and range, the case for a ≥50% reduction in the next 60 years is particularly compelling.<br/><br/>The Irrawaddy Dolphin qualifies as EN A2cd+3cd+4cd. Criteria A2, A3, and A4 refer to a population size reduction of ≥50% over the past 60 years, future 60 years, and a time period encompassing 60 years in both the past and future, respectively; c refers to declines in the area of occupancy and quality of habitat, and d refers to levels of exploitation which in this case is non-deliberate bycatch in fisheries. The EN classification of the species is reinforced by the fact that five subpopulations have been assessed as CR, as well as the ongoing intensity of bycatch and habitat deterioration throughout the species’ range, without any substantial mitigation.",
+  "geographicrange": "Irrawaddy Dolphins have a discontinuous distribution in coastal waters of the tropical and subtropical Indo-Pacific, and are predominantly associated with freshwater inputs (Stacey and Arnold 1999, Smith 2017). Coastal and estuarine populations occur from Borneo and the central islands of the Indonesian Archipelago north to Palawan, Philippines, and west to the Bay of Bengal, including the Gulf of Thailand. There are also freshwater subpopulations in three large rivers: Ayeyarwady in Myanmar (up to 1,400 km upstream from the river mouth), Mahakam in Indonesia (with a suspected current range between 90 km to 500 km upstream from the river mouth and the area of highest density between 180 and 280 km from the mouth), and Mekong in Cambodia and Lao People's Democratic Republic (a range of less than 200 km between Kampi pool, near Kratie, Cambodia, and Khone Falls, Laos, some 690 km from the river mouth). Within the extent of Irrawaddy Dolphin occurrence in these rivers, their area of occupancy is concentrated in deep pools associated with confluences and above and below rapids. Three other subpopulations inhabit marine-appended brackish water bodies: Chilika Lagoon in India, Songkhla Lagoon in Thailand, and Malampaya Sound in the Philippines.<br/><br/>Although the map accompanying this assessment implies a continuous distribution throughout the coastal areas of the species’ range, subpopulations are known to be fragmented and patchily distributed, with long stretches of coastline where the species is now absent, either due to lack of freshwater inputs or likely local extirpation.&#160; For example, while Irrawaddy Dolphins are present in the coastal waters of the Trat Province, Thailand, they appear to be absent in the neighbouring provinces of Chanthaburi and Rayong in the upper Gulf of Thailand (Hines et al. 2015). Similarly, while populations were documented in Kuching Bay and Similajau in Sarawak, Malaysia, the species was not observed during repeated cetacean surveys off the coast of Miri and the Baram River, where the species is known to have been present historically (Minton <em>et al</em>. 2011, Pilleri and Gihr 1974).",
+  "population": "No range-wide survey has been conducted for this species, nor is there a synoptic estimate of the total number of Irrawaddy Dolphins from local or regional surveys. Statistically rigorous abundance estimates are available for only a few portions of the range. As summarized in Smith (2017) and Thomas and Gulland (2017), listed from largest to smallest, these are: 5,383 (CV = 40%) in open estuarine waters of Bangladesh (Smith <em>et al</em>. 2008); 451 (CV = 10%) in waterways of the Sundarbans mangrove forest in Bangladesh (continuous with the estuarine waters in Bangladesh mentioned above; Smith <em>et al</em>. 2006); 423 averaged over five years of line-transect surveys along the Trat coast in the Gulf of Thailand (Hines <em>et al</em>. 2015); 233 (CV = 22.5%, 95% confidence limits (CL) = 151–360) in Kuching Bay, Sarawak, Malaysia (Minton <em>et al</em>. 2013); 189 (CV = 23%, 95% CL = 122-292) for the Bintulu-Similajau coastline in Sarawak (C. Peter and G. Minton, unpub. data through 2015); 111 (CV = 8%) in Chilika Lagoon, India (Sutaria and Marsh 2011); 77 (CV = 8%; 95% CI = 71-84, D. Kreb, unpub. data) in the Mahakam River in 2016; and 58-72 in the Ayeyarwady River (Smith and Tun 2007). In the Mekong River estimates dropped from 93 individuals in 2007 (95% CL = 86–101; Beasley <em>et al</em>. 2013) to 85 in 2010 (95% CL = 78-91; Ryan <em>et al</em>. 2011), to 80 in 2015 (95% CL 64-100; Phan <em>et al</em>. 2015). The most recent estimate for Malampaya Sound in the Philippines decreased from 77 individuals in 2001 (CV = 27%; Smith <em>et al</em>. 2004a) to 35 in 2012 (CV = 22.9%; 95% CI = 22-55; Whitty 2016). Additionally, an estimate of minimum abundance of Irrawaddy Dolphins in Koh Kong, Cambodia (contiguous with the population on the Trat coast in Thailand), was 69 individuals (95% CI = 53-85) based on the number of photo-identified individuals (47) corrected by the proportion of unmarked individuals (46.9%; Smith <em>et al</em>. 2016). A population of roughly 50 individuals has been documented in Balikpapan Bay, Kalimantan, Indonesia (D. Kreb, unpub. data).<br/><br/>For each of the five of the subpopulations classified as Critically Endangered (CR), and a sixth subpopulation in Chilika Lake, India, the number of reproductively mature individuals is estimated to be less than 50. Limited research and data from additional locations in Borneo, where other presumably isolated subpopulations have been documented, indicate that in contrast to the larger subpopulation in Bangladesh, most parts of the species’ range where suitable habitat occurs likely host very small local subpopulations, such as those in the Sesayap River and estuary in Kalimantan (estimated at 40-96 individuals with seasonal fluctuation; Kreb unpubl. data) and Cowie Bay in Sabah (estimated at 31 individuals; Woan <em>et al</em>. 2013).",
+  "populationtrend": "decreasing",
+  "habitat": "Irrawaddy Dolphins occur in varied habitats. In rivers, they occur almost exclusively in relatively deep (10-50 m) pools located at confluences or above and below rapids. In coastal waters, Irrawaddy Dolphins most commonly occur in areas affected by freshwater inputs and they may enter the lower reaches of rivers (Smith 2017). In the Rajang River in Sarawak, Malaysia, Irrawaddy Dolphins were observed both in the lower reaches of the river and as far as 86 km upriver (Bali <em>et al</em>. 2017). In the coastal areas of Sarawak, Irrawaddy Dolphins were statistically more likely to be observed within 6 km of shore, with a mean water depth of 4.2 m (standard deviation (SD) = 2.4) and salinity of 31.2 ± 2.3 ppt with their distribution shifting inshore during high tide and offshore during low tide (Peter<em> et al.</em> 2016a). In Malampaya Sound, Philippines, 76% of sightings occurred in waters shallower than 6 m (Dolar<em> et al.</em> 2002) with a mean salinity of 28.3 ppt (Smith<em> et al.</em> 2004a). In Chilika Lagoon, 75% of 517 dolphin groups occurred in waters 0.6-2.5 m deep, with a maximum depth of 5.2 m for all groups, while salinity ranged from 1-22 ppt (Sutaria 2009). In coastal waters of Bangladesh, sighting locations had a mean depth of 7.5 m (range 2.7-16.0 m) and a mean salinity of 16.1 ppt (Smith<em> et al.</em> 2008). In Balikpapan Bay, Indonesia, Irrawaddy Dolphins occur in slightly deeper (mean 14.6 m; n = 94; SD = 9.3; range = 2-46 m) and higher salinity (mean 26 ppt; n = 35; SD = 3.1; range = 21-33 ppt) waters (D. Kreb pers. comm. 2017). Irrawaddy Dolphins have been observed in the same areas as Indo-Pacific Finless Porpoises (<em>Neophocaena phocaenoides</em>) in coastal waters of Bangladesh and Myanmar (Smith<em> et al.</em> 2008, Smith and Tun 2008), and their range overlaps those of both Finless Porpoises and Indo-Pacific Humpback Dolphins (<em>Sousa chinensis</em>) in coastal areas of Borneo (Kamaruzzan <em>et al</em>. 2011, Minton <em>et al</em>. 2011). Irrawaddy Dolphins also co-occur with Ganges River Dolphins (<em>Platanista gangetica</em>) in a relatively small portion of their range in the Sundarbans mangrove forest (Smith<em> et al.</em> 2006). In waterways of the Sundarbans mangrove forest, Irrawaddy Dolphin distribution shifts downstream and upstream according to high and low freshwater flow, respectively, and is conditionally dependent (P &lt; 0.05) on low salinity, moderate to high water depths, high temperature and increasing numbers of channel conﬂuences (Smith<em> et al.</em> 2009).<br/><span lang=\"EN-GB\">",
+  "threats": [
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.2",
+      "title": "Wood & pulp plantations",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.2.2",
+      "title": "Agro-industry plantations",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "3.2",
+      "title": "Mining & quarrying",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "4.3",
+      "title": "Shipping lanes",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.4",
+      "title": "Fishing & harvesting aquatic resources",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.4",
+      "title": "Fishing & harvesting aquatic resources",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.4",
+      "title": "Fishing & harvesting aquatic resources",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.4",
+      "title": "Fishing & harvesting aquatic resources",
+      "timing": "Past, Unlikely to Return",
+      "scope": null,
+      "severity": null,
+      "score": "Past Impact",
+      "invasive": null
+    },
+    {
+      "code": "5.4.1",
+      "title": "Intentional use: (subsistence/small scale) [harvest]",
+      "timing": "Past, Unlikely to Return",
+      "scope": null,
+      "severity": null,
+      "score": "Past Impact",
+      "invasive": null
+    },
+    {
+      "code": "5.4.3",
+      "title": "Unintentional effects: (subsistence/small scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.4.4",
+      "title": "Unintentional effects: (large scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.4.6",
+      "title": "Motivation Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.2",
+      "title": "Dams & water management/use",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "7.2.11",
+      "title": "Dams (size unknown)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "9.1",
+      "title": "Domestic & urban waste water",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "9.1.1",
+      "title": "Sewage",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "9.1.2",
+      "title": "Run-off",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "9.3",
+      "title": "Agricultural & forestry effluents",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "9.3.2",
+      "title": "Soil erosion, sedimentation",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "The Irrawaddy Dolphin is listed in Appendix I of the Convention on International Trade in Endangered Species (CITES) as well as the Convention on Migratory Species (CMS).<br/><br/>The Action Plan for the Conservation of Freshwater Populations of Irrawaddy Dolphins (Smith <em>et al</em>. 2007) noted that multiple-use protected areas will play a key role for conserving freshwater subpopulations of Irrawaddy Dolphins. Protected areas could be a particularly effective conservation tool due to the fidelity of the species in freshwater systems to relatively circumscribed areas, as this can facilitate management. The Action Plan also provided details on strategies for mitigating bycatch that included (1) establishing core conservation areas where gillnetting is banned or severely restricted; (2) promoting net attendance rules and providing training on the safe release of entangled dolphins; (3) initiating a program to compensate fishermen for damage caused to their nets by entangled dolphins that are safely released; (4) providing alternative or diversified employment options for gillnet fishermen; (5) encouraging the use of fishing gears that do not harm dolphins by altering or establishing fee structures for fishing permits to make gillnetting more expensive while decreasing the fees for non-destructive gears; and (6) experimenting with acoustical deterrents and reflective nets.<br/><br/>In some countries conservation progress is underway. In Myanmar, the Department of Fisheries is collaborating with the Wildlife Conservation Society (WCS) to implement the Management Plan for the Ayeyarwady Dolphin Protected Area (ADPA) (Thomas and Gulland 2017). In the Mekong River, a River Guard Program administered by the local governments in relevant provinces and supported by WWF-Cambodia has stationed 68 River Guards at 16 different outposts along the Mekong from Kratie to the Cambodian-Lao border to help ensure compliance with laws and regulations designed to protect fisheries and dolphins (Samnang in Thomas and Gulland 2017).<br/><br/>In the Mahakam River, East Kalimantan, Indonesia, conservation efforts have focused on training fishermen to rescue dolphins when they are entangled and raising awareness among communities and government authorities. A local non-governmental organization also encourages alternative livelihoods, for example aquaculture and nature-oriented tourism. Since 2002, there have been eight successful releases of dolphins entangled in nets and three dolphins have been rescued from swamp areas when they were unable to return to the main river. The designation of a protected area (24,000 ha core, 51,000 ha total) is currently in progress and will include core dolphin habitat as well as freshwater swamps (Kreb <em>et al</em>. 2010, Kreb in Thomas and Gulland 2017).<br/><br/>In Bangladesh three wildlife sanctuaries for freshwater dolphins have been in place since 2012 in the eastern Sundarbans. While primarily designed to protect Ganges River Dolphins rather than Irrawaddy Dolphins, the sanctuaries include areas where both species regularly co-occur. In 2014, the Government of Bangladesh declared a 1,738 km² marine protected area in the Swatch-of-No-Ground submarine canyon and adjacent estuarine waters. This includes 233 km² of priority habitat for Irrawaddy Dolphins.",
+  "usetrade": "Hunting or trade is not known to be a major factor explaining population declines of Irrawaddy Dolphins with the exception of Ton Le Sap in Cambodia where intensive hunting by the Khmer Rouge was reported during the 1970s and the species is now extirpated from the lake. Live captures for aquarium display, including export (e.g., to Japan), have taken place in some areas (e.g., Thailand, Myanmar and Indonesia) but are not believed to be frequent at present.",
+  "countries": [
+    {
+      "code": "BD",
+      "country": "Bangladesh",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BN",
+      "country": "Brunei Darussalam",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ID",
+      "country": "Indonesia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "IN",
+      "country": "India",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "KH",
+      "country": "Cambodia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "LA",
+      "country": "Lao People's Democratic Republic",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MM",
+      "country": "Myanmar",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MY",
+      "country": "Malaysia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "PH",
+      "country": "Philippines",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SG",
+      "country": "Singapore",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "TH",
+      "country": "Thailand",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "VN",
+      "country": "Viet Nam",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2017",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2008",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1996",
+      "code": "DD",
+      "category": "Data Deficient"
+    },
+    {
+      "year": "1994",
+      "code": "K",
+      "category": "Insufficiently Known"
+    },
+    {
+      "year": "1990",
+      "code": "K",
+      "category": "Insufficiently Known"
+    },
+    {
+      "year": "1988",
+      "code": "K",
+      "category": "Insufficiently Known"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "13.4",
+      "habitat": "Marine Coastal/Supratidal - Coastal Brackish/Saline Lagoons/Marine Lakes",
+      "suitability": "Suitable",
+      "season": "Resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "5.1",
+      "habitat": "Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+      "suitability": "Suitable",
+      "season": "Resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "9.1",
+      "habitat": "Marine Neritic - Pelagic",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "9.10",
+      "habitat": "Marine Neritic - Estuaries",
+      "suitability": "Suitable",
+      "season": "Resident",
+      "majorimportance": "Yes"
+    }
+  ]
+}

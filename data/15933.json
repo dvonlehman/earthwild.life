@@ -1,0 +1,486 @@
+{
+  "taxonid": 15933,
+  "scientific_name": "Pan troglodytes",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HOMINIDAE",
+  "genus": "Pan",
+  "main_common_name": "Chimpanzee",
+  "authority": "(Blumenbach, 1799)",
+  "published_year": 2016,
+  "assessment_date": "2016-03-24",
+  "category": "EN",
+  "criteria": "A4bcde",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Humle, T., Maisels, F., Oates, J.F., Plumptre, A. & Williamson, E.A.",
+  "reviewer": "Mittermeier, R.A. & Rylands, A.B.",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 2790,
+  "elevation_lower": 0,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": true,
+  "errata_reason": "This errata version of the 2016 assessment was created to attach the correct distribution map.",
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 15933,
+  "taxonomicnotes": "<p>Chimpanzee taxonomy remains an active area of research, particularly in population genetics. Four subspecies are commonly recognised: the Western Chimpanzee (<em>Pan troglodytes verus</em>); the Nigeria-Cameroon Chimpanzee (<em>P. t. ellioti</em>); the Central Chimpanzee (<em>P. t. troglodytes</em>); and the Eastern Chimpanzee (<em>P. t. schweinfurthii</em>)<em>. </em>Genetic data, which include analyses of complete genomes (Prado-Martinez<em> et al.</em> 2013), suggest that the subspecies form two distinctive groups: one group includes <em>P. t. verus</em> and <em>P. t. ellioti</em> and the other group includes <em>P. t. troglodytes </em>and <em>P. t. schweinfurthii</em> (Fünfstück<em> et al</em>. 2015). <em>Pan t. verus</em> and <em>P. t. ellioti</em> separated from one another much earlier than <em>P. t. troglodytes</em> from <em>P. t. schweinfurthii</em>. Each subspecies has experienced markedly different demographic histories since their separation 100,000 years ago, with all punctuated by dramatic reductions in their effective populations size (Gonder<em> et al.</em> 2011, Mitchell<em> et al.</em> 2015, Prado-Martinez<em> et al.</em> 2013). The degree of connectivity between chimpanzee populations in western Nigeria and those in eastern Nigeria and western Cameroon has yet to be adequately examined. Published relationship trees based on the analysis of mitochondrial DNA do not group western Nigerian chimpanzees closely with those of either Upper Guinea or eastern Nigeria (Gonder <em>et al</em>. 2006); however, those analyses were based on a very small number of western Nigerian samples. A more comprehensive analysis using additional samples is urgently needed.</p><p>While taxonomic labelling is often debated and subject to revision, the relative importance of different threats faced by chimpanzees varies across Africa, making a regional approach valuable for conservation purposes.</p>",
+  "rationale": "<p>Although&#160;<em>Pan troglodytes</em>&#160;is the most abundant and widespread of the great apes, and many populations exist in protected areas, the declines that have occurred are expected to continue, satisfying the criteria for an Endangered listing (Oates 2006). Due to high levels of poaching, infectious diseases, and loss of habitat and habitat quality caused by expanding human activities, this species is estimated to have experienced a significant population reduction in the past 20–30 years and it is suspected that this reduction will continue for the next 30–40 years. Due to their slow life history and a generation time estimated to be 25 years, Chimpanzee populations cannot sustain high levels of mortality, whether disease-induced or caused by poaching. The maximum population reduction over a three-generation (75 year) period from 1975 to 2050 is suspected to exceed 50%, hence qualifying this taxon as Endangered under criterion A. Although conservation efforts directed at Chimpanzees and other wildlife have increased significantly in recent years, the assumption that population reductions will continue is a precautionary approach based on the rapid growth of human populations in sub-Saharan Africa, continuing poaching for bushmeat, the commercial bushmeat trade, the arrival of industrial agriculture (which requires clearcutting of forest), corruption and lack of law enforcement, lack of capacity and resources, and political instability in some range states. At the same time, zoonosis and disease outbreaks present significant risks; there is, for example, evidence that <em>Ebolavirus</em> will continue to spread&#160;in some parts of the Chimpanzee's geographic range&#160;(Walsh <em>et al.</em> 2005).</p><p>For more information, see the four <em>Pan troglodytes</em> subspecies accounts.</p>",
+  "geographicrange": "<p>Chimpanzees have by far the widest geographic distribution of any great ape, with a range of over 2.6 million km²<sup> </sup>(derived from IUCN shapefiles). They have a discontinuous distribution from southern Senegal across the forested belt north of the Congo River to western Tanzania and western Uganda, between 13°N and 7°S. The four subspecies recognised here are distributed as follows:</p>  <ul><li><em>Pan t. </em><em>ellioti</em> (Gray 1862) is found only in Nigeria and Cameroon, north of the Sanaga River, and has the smallest geographical range the four Chimpanzee subspecies.</li><li><em>Pan t. schweinfurthii</em> (Giglioli 1872) ranges from the Ubangi River/Congo River in southeast Central African Republic (CAR) and Democratic Republic of Congo (DRC), to Burundi, Rwanda, western Uganda and western Tanzania, with a small, relict population in South Sudan. The Albertine Rift escarpment is a stronghold for this subspecies (Plumptre <em>et al.</em> 2010a).</li><li><em>Pan t. troglodytes</em> (Blumenbach 1799) ranges from Cameroon, south of the Sanaga River, to the Congo River/Ubangi River (DRC).</li><li><em>Pan t. verus</em> (Schwarz 1934) is found in West Africa from Senegal to Ghana, but has almost certainly been extirpated from Benin, Burkina Faso and Togo. More research is needed to determine whether the Chimpanzee population in western Nigeria is allied to <em>P. t. verus</em> or to <em>P. t. ellioti</em>.</li></ul><p>The maximum elevation at which each subspecies has been confirmed is <em>ca</em> 2,000&#160;m asl for <em>P</em>. <em>t</em>. <em>ellioti</em>, 2,790 m for <em>P</em>. <em>t</em>. <em>schweinfurthii</em>, 742 m for <em>P</em>. <em>t</em>. <em>troglodytes</em>, and 1,607&#160;m for <em>P</em>. <em>t</em>. <em>verus</em> (Williamson <em>et al</em>. 2013).</p>",
+  "population": "<p>Great ape population estimates are made using a standard index of abundance: night nest abundance and distribution, sometimes combined with predictive modelling. In 2003, the total Chimpanzee population size was estimated to be 172,700–299,700 (Butynski 2003). Current estimates for each subspecies are:&#160;</p>  <ul>  <li>probably fewer than 6,000–9,000 <em>P. t. </em><em>ellioti</em> (Morgan <em>et al</em>. 2011, J. Oates      pers. comm. 2015)</li>  <li>181,000–256,000 <em>P. t. schweinfurthii</em> (Plumptre <em>et al</em>. 2010a), including      a large population in northern DRC that was formerly considered to be      outside of the species’ known range (Hicks <em>et al</em>. 2014)</li>  <li>approximately 140,000 <em>P. t. troglodytes</em> (Strindberg <em>et al</em>. in prep.)</li>  <li>18,000–65,000 <em>P. </em><em>t. verus </em>(Sop <em>et al</em>. in prep.)</li></ul>  <p><em>Pan t. ellioti</em> is the least numerous subspecies. One of the largest and probably most secure subpopulations is in Gashaka-Gumti National Park, Nigeria, estimated at 900–1,000 individuals (Ogunjemite <em>et al</em>. 2010, Adanu <em>et al.</em> 2011). Other major subpopulations are found in Cameroon in Banyang-Mbo Wildlife Sanctuary (estimated at 500–900 or 800–1,450 individuals, depending on nest-decay parameters used; Greengrass and Maisels 2007), in the proposed Ebo National Park (estimated at 626–1,480 individuals, M. Ndimbe and B. Morgan pers. comm. 2015), and in Mbam and Djerem National Park (at least 500 individuals, Maisels <em>et al</em>. 2009).</p>  <p>The vast majority of <em>P. t. schweinfurthii</em> are found in DRC (173,000–248,000, Plumptre <em>et al</em>. 2010a,&#160;2015). Outside the DRC, there are roughly 5,000 in Uganda (Plumptre <em>et al</em>. 2003a), just over 400 in Rwanda (WCS Rwanda unpubl. data), fewer than 400 in Burundi (Hakizimana and Huynen 2013), and fewer than 2,500 in Tanzania (A. Piel and F. Stewart, pers. comm.). Almost all Chimpanzees in Tanzania are found in the Greater Mahale Ecosystem, and their populations appear to be stable (Piel <em>et al</em>. 2015). Similarly, Chimpanzee numbers in Rwanda’s Nyungwe National Park are relatively stable (Sop <em>et al</em>. 2015). In western Uganda, forest is being lost at many Chimpanzee sites; however, data from the protected areas (Budongo and Bugoma forest reserves, Kibale National Park) indicate that Chimpanzee populations there are relatively stable (Wanyama <em>et al.</em> 2009, Plumptre <em>et al.</em> 2010b).</p>  <p>The forests of central Africa where <em>Pan t. troglodytes</em> occurs are by far the least disturbed in the species’ range. About one third of the subspecies population resides in Gabon and around 40% in Congo, followed by Cameroon (Strindberg <em>et al</em>. in prep.). The area of forest in these countries is very roughly representative of the proportion of Chimpanzees that it holds. A few thousand individuals remain in Equatorial Guinea, and a few hundred in CAR; the size of the populations in Angola (Cabinda) and DRC is unknown.</p>  <p>The <em>P. </em><em>t. verus</em> strongholds are Guinea, Liberia and Sierra Leone (Ham 1998, Kormos, Humle <em>et al</em>. 2003, Brncic <em>et al.</em> 2010, Tweh <em>et al.</em> 2015). The largest population, estimated at 17,700 individuals (WCF 2012), is in the Fouta Djallon in Guinea.</p>  <p>For more details, see the four <em>Pan troglodytes</em> subspecies accounts.</p>",
+  "populationtrend": "decreasing",
+  "habitat": "<p>Chimpanzees are found discontinuously across the forest belt of Africa, occupying primary and secondary moist lowland forest, swamp forest, submontane and montane forest, dry forest, forest galleries in savanna woodland, and farmland (Oates 2011). In West Africa, Chimpanzees are also found in fallow-agricultural matrixes dominated by wild or feral oil palm (Leciak <em>et al.</em> 2005, Brncic <em>et al.</em> 2010, Sousa <em>et al</em>. 2011). They live in multimale-multifemale, fission-fusion communities averaging 35 members. The largest known community has c.150 members (Mitani and Watts 2005). Annual home ranges are smaller in mixed forest than in woodland forest mosaics: one of the smallest known is 6 km² at Budongo in Uganda (Newton-Fisher 2003), while one of the largest is 72 km² at Semliki, also in Uganda (Samson and Hunt 2012). Chimpanzees are omnivorous and opportunistic feeders. Fruit forms about half the diet, typically supplemented with terrestrial herbaceous vegetation, leaves, stems, seeds, flowers, bark, pith, honey, mushrooms, resin, eggs, and animal prey such as insects and medium-sized mammals. They are the most carnivorous of the great apes. Chimpanzees are also proficient tool users. Tools made from plant parts are used to extract bees, ants and termites from their nests (e.g., Fowler and Sommer 2007), and stone and wooden hammers are used to crack nuts (e.g., Boesch and Boesch 1984, Matsuzawa&#160;<em>et al</em>. 2011).</p><p>Life History (as summarised in Williamson <em>et al</em>. 2013): Male and female Chimpanzees reach puberty at 7–8 years of age. Females have a 35-day reproductive cycle. The first parturition is generally at 13–14 years of age, but as early as 9–10 years in one population of western Chimpanzees. Chimpanzees reproduce throughout the year. Gestation is c.230 days. The norm is a single infant, but occasionally twins are born. Offspring are&#160;typically&#160;weaned at 4–5 years of age. The interbirth interval averages 4.6–7.2 years when the preceding infant survives. Females can remain reproductive into their late forties. Maximum life span is unknown, but thought to be <em>ca</em> 50 years. Female Chimpanzees may give birth to as many as nine offspring during their lifetime, but only one third of them survive beyond infancy. Generation time is estimated to be 25 years (Langergraber <em>et al</em>. 2012).</p>",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "11.1",
+      "title": "Habitat shifting & alteration",
+      "timing": "Ongoing",
+      "scope": "Whole (>90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "3.2",
+      "title": "Mining & quarrying",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "4.1",
+      "title": "Roads & railroads",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.3.3",
+      "title": "Unintentional effects: (subsistence/small scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.3.4",
+      "title": "Unintentional effects: (large scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "8.2",
+      "title": "Problematic native species/diseases",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "8.5",
+      "title": "Viral/prion-induced diseases",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "8.5.1",
+      "title": "Unspecified species",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "8.5.2",
+      "title": "Named species",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "<p><em>Pan troglodytes</em> is listed on Appendix I of CITES and as Class A under the African Convention on the Conservation of Nature and Natural Resources. Chimpanzees are protected by national and international laws throughout their range, but enforcement is generally weak. All four subspecies occur in numerous national parks; however, the majority occur outside protected areas (IUCN SSC A.P.E.S. database 2016). Even within protected areas, safe haven is not guaranteed: many protected areas in tropical Africa lack adequate management and suffer from poorly-controlled poaching. Stricter enforcement of wildlife laws and more effective management of what may become the last refuges for many great ape populations are needed urgently.</p><p>Conservation needs for Chimpanzees across Africa fall into several broad areas:</p>  <p></p><ol><li>Effective law enforcement, not only in protected areas, but also in logging, mining and agricultural concessions. Chimpanzees are protected by legislation even where the land is not protected.</li><li>Effective, coordinated land-use planning across the geographic range of the species to avoid the clearing of large areas of Chimpanzee habitat to establish large-scale agriculture, especially oil-palm plantations (IUCN SSC Primate Specialist Group 2014, Wich <em>et al</em>. 2014, Ruysschaert and Rainer 2015). Industrial extraction of other natural resources, namely timber and minerals, should be incorporated into a holistic, spatially-explicit approach. Such planning needs to be done at both national and regional levels. Several of the most important areas for Chimpanzee conservation are transboundary, and thus fall within the remit of national agencies from two or three countries.</li><li>Long-term standardised monitoring of law enforcement efforts and effectiveness, of Chimpanzee abundance throughout their range, and of chimpanzee health. A standardised tool for law enforcement monitoring (SMART: <a href=\"http://www.smartconservationsoftware.org\">www.smartconservationsoftware.org</a>) is already in use across much of the range; standard methods for surveying and monitoring great ape populations that facilitate more accurate and precise monitoring of changes in abundance have been recommended for almost a decade (Kühl <em>et al</em>. 2008 <a href=\"http://www.primate-sg.org/best_practice_surveys\">www.primate-sg.org/best_practice_surveys</a>); and non-invasive diagnosis of a range of pathogens is now possible, for example, detection of <em>Ebolavirus</em> in faeces (Reed <em>et al</em>. 2014).</li><li>Outreach to and awareness-raising among all sectors that deal with land and the protection of natural resources: law enforcement and judiciary; protected area authorities; mining, logging, and agricultural industries; local communities and tour operators. This effort should include information on minimising human impacts, such as avoidance of disease transmission to great apes. Recommendations for logging companies regarding management practices that are compatible with great ape conservation (Morgan and Sanz 2007, Morgan <em>et al.</em> 2013) are available for download: <a href=\"http://www.primate-sg.org/best_practice_logging\">www.primate-sg.org/best_practice_logging</a></li><li>Further research into ways of mitigating the spread and virulence of <em>Ebolavirus</em>, including means of administering vaccines that are non-detrimental to the target species (great apes) and other species that may come into contact with the vaccine, and that will protect a sufficiently large and geographically-appropriate proportion of the great ape population to form a barrier against its spread. Disease prevention guidelines (Gilardi <em>et al</em>. 2015) are available at: <a href=\"http://www.primate-sg.org/best_practice_disease\">www.primate-sg.org/best_practice_disease</a></li><li>Better understanding of the interactions between people and Chimpanzees, and involving local stakeholders in participative management, especially outside or at the periphery of protected areas.</li></ol><p></p>            <p>Maintaining large, well-protected areas of forest will be key to maintaining Chimpanzee populations in the long term, and this can only be done by a combination of the actions detailed above. The IUCN SSC Primate Specialist Group has published regional conservation action plans for each subspecies of Chimpanzee. The most recent of these documents are Kormos <em>et al</em>. (2003), Plumptre <em>et al</em>. (2010a), Morgan <em>et al</em>. (2011) and IUCN (2014); all are available for download at: <a href=\"http://www.primate-sg.org/action_plans\">www.primate-sg.org/action_plans</a><span class=\"MsoHyperlink\"></p>",
+  "usetrade": "<p>Chimpanzees are completely protected by national and international laws in all countries of their range, and it is, therefore, illegal to kill, capture or trade in live Chimpanzees or their body parts.</p>",
+  "countries": [
+    {
+      "code": "AO",
+      "country": "Angola",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BF",
+      "country": "Burkina Faso",
+      "presence": "Possibly Extinct",
+      "origin": "Native",
+      "distribution_code": "Possibly Extinct"
+    },
+    {
+      "code": "BI",
+      "country": "Burundi",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BJ",
+      "country": "Benin",
+      "presence": "Possibly Extinct",
+      "origin": "Native",
+      "distribution_code": "Possibly Extinct"
+    },
+    {
+      "code": "CD",
+      "country": "Congo, The Democratic Republic of the",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CF",
+      "country": "Central African Republic",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CG",
+      "country": "Congo",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CI",
+      "country": "Côte d'Ivoire",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CM",
+      "country": "Cameroon",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GA",
+      "country": "Gabon",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GH",
+      "country": "Ghana",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GN",
+      "country": "Guinea",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GQ",
+      "country": "Equatorial Guinea",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GW",
+      "country": "Guinea-Bissau",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "LR",
+      "country": "Liberia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ML",
+      "country": "Mali",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NG",
+      "country": "Nigeria",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "RW",
+      "country": "Rwanda",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SL",
+      "country": "Sierra Leone",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SN",
+      "country": "Senegal",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SS",
+      "country": "South Sudan",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "TG",
+      "country": "Togo",
+      "presence": "Possibly Extinct",
+      "origin": "Native",
+      "distribution_code": "Possibly Extinct"
+    },
+    {
+      "code": "TZ",
+      "country": "Tanzania, United Republic of",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "UG",
+      "country": "Uganda",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2016",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2008",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2007",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2000",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1996",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1994",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1990",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1988",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1986",
+      "code": "V",
+      "category": "Vulnerable"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.5",
+      "habitat": "Forest - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.8",
+      "habitat": "Forest - Subtropical/Tropical Swamp",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "2.1",
+      "habitat": "Savanna - Dry",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    }
+  ]
+}

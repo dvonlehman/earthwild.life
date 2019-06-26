@@ -1,0 +1,191 @@
+{
+  "taxonid": 39775,
+  "scientific_name": "Nomascus concolor",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HYLOBATIDAE",
+  "genus": "Nomascus",
+  "main_common_name": "Black Crested Gibbon",
+  "authority": "(Harlan, 1826)",
+  "published_year": 2008,
+  "assessment_date": "2008-06-30",
+  "category": "CR",
+  "criteria": "A2cd",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Bleisch, B., Geissmann, T., Timmins, R.J. & Xuelong, J.",
+  "reviewer": "Mittermeier, R.A. & Rylands, A.B. (Primate Red List Authority)",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 2500,
+  "elevation_lower": 500,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": null,
+  "errata_reason": null,
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 39775,
+  "taxonomicnotes": "Formerly, all members of the genus <i>Nomascus</i> were included under this single species (M. Richardson pers. comm.). All currently recognized subspecies of <i>N. concolor</i> were described based on small samples. The reported differences among the taxa are questionable, and further research may show <i>N. concolor</i> to be monotypic (Geissmann 1989, Geissmann <i>et al.</i> 2000).",
+  "rationale": "The species is listed as Critically Endangered as there is an estimate of over 80% decline in the last 45 years (3 generations) due primarily to hunting and habitat loss.",
+  "geographicrange": "The species as a whole occurs discontinuously in southwestern China, northwestern Lao PDR and northern Viet Nam (Geissmann <em>et al</em>. 2000). One thousand years ago, gibbons that may have been crested gibbons (genus <em>Nomascus </em>) were distributed over a large part of southern and central China up to the Yellow River (Geissmann 1995; Geissmann <em>et al</em>. 2000; van Gulik 1967).<br/><br/><em>Nomascus concolor concolor</em> <br/>This taxon occurs in southern China (southwestern Yunnan) and northern Viet Nam (Lao Cai, Yen Bai, Son La, and  Lai Chau provinces) (Geissmann <em>et al</em>. 2000).  It is found between the Song Da (Black) and Song Hong (Red) Rivers, north to 23°45'N and south to about 20°N (Groves 2001). Reported occurrences west of the Black River are unconfirmed (T. Geissmann pers. comm.).<br/><br/><em>Nomascus concolor furvogaster</em> <br/>This taxon occurs in southern China (southwestern Yunnan).  It is found only in a small region near the Myanmar border, west of the Mekong River (23°15'-23°40-N, 99°05'-99°29'E) (Groves 2001).<br/><br/><em>Nomascus concolor jingdongensis</em> <br/>This taxon occurs in southern China (west-central Yunnan).  It is found only in a small region around Wuliang Mountain, between the Mekong and Chuanhe rivers (about 24 to 25°N) (Groves 2001).<br/><br/><em>N. concolor lu</em><br/>This taxon occurs in northwestern Lao PDR. An isolated population, it is known for certain only in a tiny area in on the east bank of the Mekong at about 20°17'-20°25'N (Groves 2001). It is confirmed in Nam Ha National Protected Area, Luang Namtha province, and in the Nam Kan Provincial Protected Area, Bokeo province (Geissmann 2007; Johnson <em>et al.</em> 2005).",
+  "population": "The global population is estimated at approximately 1,300-2,000 individuals (T. Geissmann pers. comm.2006). There are known declines and local population extinctions throughout the species' range (Geissmann <em>et al</em>. 2000, 2003; Ni and Ma 2006). The overall rate of decline is extremely severe.<br/><br/>Density estimates for <em>N. c. concolor</em> and <em>N. c. jingdongensis</em> in Yunnan province (China) range from 0.43 to 0.82 groups/km<sup>2</sup> (Chan <em>et al</em>. 2005), with a mean of 0.6 groups/km<sup>2</sup> (Geissmann pers. comm. 2006). Using an average group size of 5.0 individuals, this would translate into a density of about 3 individuals/km<sup>2</sup> (T. Geissmann pers. comm. 2006). For <em>N. c. lu</em> in Lao PDR, a short survey covering an area of 20 km<sup>2</sup> in the Nam Kan National Biodiversity Conservation Area suggests a density of 0.45 groups/km<sup>2</sup> or 1.6 individuals/km<sup>2</sup>, using a more conservative average group size of 3.4 individuals (T. Geissmann pers. comm. 2006).<br/><br/>Population estimates for the Chinese portion of this species range from about 200 to 260 groups (Jiang <em>et al</em>. 2006). Using an average group size of 5.0 individuals, this would translate into 1,000 to 1,300 individuals. Perhaps the most important subpopulation in China resides in the Wuliang Mountains and numbers about 100 groups (Jiang <em>et al</em>. 2006). There are 98 groups of <em>N. c. jingdongensis</em> (Jiang <em>et al</em>. 2006), with a total of about 490 individuals, if an average groups size of 5 individuals is used. For <em>N. c. furvogaster</em> there are about 26-42 groups remaining (Jiang <em>et al</em>. 2006), which would represent about 130-210 individuals, if an average groups size of 5 individuals is used. A survey in the northern part of Ailao Mountain National Nature Reserve found approximately 45 groups of <em>N. c. concolor</em>, with around 200-250 individuals (X. Jiang pers. comm. 2006). In southern Yunnan there are three areas where this species occurs, in Bajiaohe, Jingping County (2 groups recorded), Jinpingfenshuiling Nature Reserve (only one group recorded), and Huanglianshan Nature Reserve (3 groups recorded) (Ni and Ma 2006). The total population in Yunnan was reported to be 74-106 groups (Jiang <em>et al</em>. 2006), which translates to about 370-530 individuals, if an average groups size of 5 individuals is used.<br/><br/>The Laotian population in the Nam Kan PPA is small. At least 13 distinct groups were recorded in the Nam Kan valley in a survey area of about 6 km<sup>2</sup>, suggesting a density of about 2.2 groups/km<sup>2</sup> (Geissmann 2007). The total population of the Nam Kan could be up to 200 individuals, although this is a very tentative extrapolation (T. Geissman pers. comm. 2006). Five groups were recorded from Nam Ha NPA (Johnson <em>et al.</em> 2005), but there is no population estimate. There are forest blocks in northern Lao PDR where there have not been any surveys for gibbons, and there could be populations in these areas.<br/><br/>In Viet Nam, field surveys carried out by Fauna and Flora International throughout most of the remaining larger forest areas in the historic range of the species in Viet Nam lead to an estimate of less then 100 individuals. The two largest populations may live in Che Tao and Ho Nam Mu forests (Yen Bai and Son La provinces) with about 70 and 20 individuals, respectively (Geissmann <em>et al</em>. 2000). As of 2000, <em>N. concolor</em> in Viet Nam has been confirmed in Nam Pam commune of Muong La District in Son La Province with 15-20 individuals (Tri and Long 2000). This is probably the same population that survives in Che Tao commune of Mu Cang Chai district in Yen Bai Province (Tallents <em>et al.</em> 2000). Another population has been confirmed in Nam Xe commune of Van Ban District in Lao Cai Province. This commune borders Yen Bai Province as well, to the north (Dat <em>et al</em>. 2000). There are known subpopulation extinctions in Viet Nam (Geissmann <em>et al</em>. 2000).",
+  "populationtrend": "decreasing",
+  "habitat": "This species occurs in subtropical and montane evergreen, semi-evergreen and deciduous forest (Geissmann <em>et al</em>. 2000; Jiang <em>et al.</em> 2006). In China it is likely restricted to broadleaved evergreen forests (Geissmann <em>et al</em>. 2000). In Yunnan province, <em>N. c. concolor</em> and <em>N. c. jingdongensis</em> occur at altitudes ranging from 1,900 to 2,700 m (Bleisch and Chen 1991; Jiang <em>et al</em>. 2006), but at other sites in Yunnan the species may also occur at elevations as low as 500 m (Lan 1989a,b). In northern Viet Nam, the species was reported to occur at elevations of 1,600-2,000 m (Dao Van Tien 1983). A survey area in Nam Kan National Biodiversity Conservation Area, Lao PDR, covered an altitudes range of about 440-900 m, but gibbon habitat and gibbons mainly occurred at altitudes above 550 m (Geissmann 2007).<br/><br/>Most gibbon species are mainly frugivorous (Leighton 1987). Field studies on Chinese <em>N. concolor</em>, however, report a lower intake of fruits and flowers (Geissmann <em>et al</em>. 2000) as compared to most other gibbon species except siamangs. On Mount Wuliang (central Yunnan), <em>N. concolor jingdongensis</em> eat more fruit during the rainy season, whereas they eat a higher percentage of leaves and spend more time foraging during the dry season (Sheeran 1993, 1995).<br/><br/>Average group sizes for <em>N. c. concolor</em> and <em>N. c. jingdongensis</em> in Yunnan province also appear to vary strongly according to locality and/or study, ranging from 2.9 to 6.6 individuals (Chan <em>et al.</em> 2005), with a mean of 5.0 individuals (T. Geissmann pers. comm. 2006). This mean value is clearly higher than average group sizes found in other gibbon species (Leighton, 1987). It is unknown whether this high value applies to other populations of this species, such as <em>N. c. lu</em> in Lao PDR, <em>N. c. furvogaster</em> in western Yunnan or <em>N. c. concolo</em>r in Viet Nam. Based on five groups of <em>N. c. lu</em> observed in Nam Kan PPA in Lao PDR, an average group size of 3.6-3.8 individuals was determined (Geissmann 2007).",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3.5",
+      "title": "Motivation Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "This species is listed on CITES Appendix I. In China, about three-quarters of the Wuliang Mountain population's range is protected, much of it within the Wuliang Mountain Nature Reserve and Ailao Mountain Nature Reserve; the species occurs as well in Huanglianshan Nature Reserve, Fenshuilin Nature Reserve, Daxueshan Nature Reserve, Nanguanhe Nature Reserve, Lancangjiang Nature Reserve (Geissmann <em>et al.</em> 2000). In Lao PDR it occurs in two protected areas, Nam Ha National Biodiversity Conservation Area and Nam Kan National Biodiversity Conservation Area. The provincial governor of Luang Namtha province (Lao PDR) in 2004 set very steep fines for wildlife trade and also instigated measures for gun control; both actions, if enforced, should protect the Laotian gibbon populations from opportunistic hunting (Johnson <em>et al.</em> 2005).",
+  "usetrade": null,
+  "countries": [
+    {
+      "code": "CN",
+      "country": "China",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "LA",
+      "country": "Lao People's Democratic Republic",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "VN",
+      "country": "Viet Nam",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2008",
+      "code": "CR",
+      "category": "Critically Endangered"
+    },
+    {
+      "year": "2000",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1996",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1994",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1990",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1988",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1986",
+      "code": "I",
+      "category": "Indeterminate"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.5",
+      "habitat": "Forest - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    }
+  ]
+}

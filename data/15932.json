@@ -1,0 +1,345 @@
+{
+  "taxonid": 15932,
+  "scientific_name": "Pan paniscus",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HOMINIDAE",
+  "genus": "Pan",
+  "main_common_name": "Bonobo",
+  "authority": "Schwarz, 1929",
+  "published_year": 2016,
+  "assessment_date": "2016-03-24",
+  "category": "EN",
+  "criteria": "A4bcd",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Fruth, B., Hickey, J.R., André, C., Furuichi, T., Hart, J., Hart, T., Kuehl, H., Maisels, F., Nackoney, J., Reinartz, G., Sop, T., Thompson, J. & Williamson, E.A.",
+  "reviewer": "Mittermeier, R.A. & Rylands, A.B.",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 700,
+  "elevation_lower": 300,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": true,
+  "errata_reason": "This is an errata version of the 2016 assessment to correct some minor typos and grammatical errors in the <em>Threats</em> and <em>Conservation Actions</em> sections.",
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 15932,
+  "taxonomicnotes": "<p>The Bonobo is also known as the Gracile Chimpanzee; formerly it was known as Pygmy Chimpanzee and Dwarf Chimpanzee. Population genetics suggest that Bonobos have a stable population history (Eriksson <em>et al. </em>2004, Schubert <em>et al.</em> 2013), and that gene flow between populations is constrained by the larger riverine barriers (although Bonobos regularly enter water, they do not swim).</p>",
+  "rationale": "Due to high levels of illegal hunting, and habitat destruction and degradation, <em>Pan paniscus</em> is estimated to have experienced a significant population reduction in the last 15–20 years and it is thought that this reduction will continue for the next 60 years. Currently, by far the greatest threat to the Bonobo's survival is poaching for the commercial bushmeat trade. It has been estimated that nine tons of bushmeat are extracted daily from a 50,000-km² conservation landscape within the Bonobo’s range. Not only is there is a massive demand for bushmeat stemming from the cities, but rebel factions and poorly-paid government soldiers add to that demand, at the same time facilitating the flow of guns and ammunition (Fruth <em>et al</em>. 2013). In some areas, local taboos against eating Bonobo meat still exist, but in others, these traditions are disintegrating due to changing cultural values and population movements. Stricter enforcement of wildlife laws and more effective management are urgently needed.<br/><br/>Habitat loss through deforestation and fragmentation ranks second. Much of the forest loss in this region is caused by slash-and-burn subsistence agriculture, which is most intense where human densities are high or growing. Logging and mining do not yet occur on an industrial scale in the Bonobo’s range, but in future, industrial agriculture is very likely to become a serious threat. Minimising the conversion of intact forest to human-dominated land uses, will be critical for the future survival of Bonobos. Countrywide factors contributing to the decline include the mobility of growing human populations, opening markets, commercial exploitation of natural resources and road construction. As in the past, the survival of Bonobos will be determined by the levels of poaching and forest loss—threats that have been shown to accompany rapid growth in human populations and political instability (Nackoney <em>et al</em>. 2014). Due to their slow life history and a generation time estimated to be 25 years, Bonobo populations cannot withstand high levels of offtake. The population decline over a three-generation (75 year) period from 2003 to 2078 is likely to exceed 50%, hence qualifying this taxon as Endangered under criterion A.<br/><p></p>",
+  "geographicrange": "<p><em>Pan paniscus</em><span class=\"apple-converted-space\"> has a discontinuous range in the low-lying central basin of Equatorial Africa, south of the Congo River. Its range extends from the Lualaba River in the east, to the Kasai/Sankuru rivers in the south, and to the west as far as the Congo River just 300 km north of Kinshasa (Manzano forest) and around Lake Tumba/Lake Mai-Ndombe (Tumba-Ledima Reserve). The potential geographic range is approximately 563,330 km²; however, only 28% (156,211 km²) of this area is suitable for Bonobos (Hickey<span class=\"apple-converted-space\"> <em>et al</em>. 2013).&#160;Four geographically-distinct Bonobo strongholds have been identified (IUCN and ICCN 2012):</span></p><ul><li>The ‘northern block’ (Maringa-Lopori-Wamba) <span lang=\"EN-US\">includes the Luo Scientific Reserve, the Lomako-Yokokala Faunal Reserve, and the Kokolopori Bonobo Reserve with community-level protection;</li><li>The ‘eastern block’ (Tshuapa-Lomami-Lualaba)&#160;includes&#160;the Sankuru Natural Reserve;</li><li>The ‘southern block’ (Salonga) – the 36,000-km² Salonga National Park (SNP) was the first protected area created that harbours bonobos;</li><li>The ‘western block’ (Lac Tumba-Lac Mai Ndombe) <span lang=\"EN-US\">includes<span lang=\"EN-US\">&#160;the Tumba-Lediima Natural Reserve.</span></li></ul><p></p><p>               Additional surveys are needed to better determine the species’ overall distribution and abundance. </p><p></p>",
+  "population": "The size of the Bonobo population is uncertain because only 30% of its historic range has been surveyed. Estimates from the four known Bonobo strongholds, based around protected areas, suggest a minimum population of 15,000–20,000 individuals (IUCN and ICCN 2012, IUCN SSC A.P.E.S. database 2016). Although Hickey <em>et al</em>. (2013) compiled and analysed all Bonobo survey data collected between 2003 and 2010, the survey coverage was too patchy to allow the total number of Bonobos to be estimated.<br/><br/>Sop <em>et al</em>. (in prep.) used spatial modelling to investigate trends in Bonobo nest encounter rates on recce and standard line transect surveys carried out in two different periods. Data were available from eight sites, covering a total area of 16,500 km². Site-specific change estimates were weighted according to population size, and then change in nest encounter rates between different years was used as a proxy for Bonobo population change. Rate of change was estimated using two approaches: site-level Generalized Linear Models (GLMs); and a simple exponential population change model (ExpM). Sop <em>et al</em>. estimated an annual decline of 5.95% with a total decline of 54.9% between 2003 and 2015 (95% confidence interval: -17.6% to +6.4% and -18% to +0.001% for the GLM and ExpM, respectively). Under the same conditions, the expected decline in abundance over one, two and three generations (25, 50 and 75 years respectively) would be 85.6%, 97.9% and 99.7%, respectively. However, not all sites experienced significant declines in Bonobo abundance. The Lokofa Sector of Salonga National Park, for example, has ecoguards deployed throughout and was the best protected of the eight sites in the analysis (WCS 2015). Although Sop <em>et al</em>.’s assessment incorporated data from both protected and non-protected areas, the total coverage was limited by data availability. In addition, the preliminary model had limitations with regard to the representativeness of sites and data availability, such as disproportionate sampling effort between years; and lack of data on seasonality, nest production, re-use and decay rates. If few nests are located and sample size is low, then precision tends to be poor, leading to weak detection of trends. Although a drop in abundance between the two time periods was detected, the small number of paired samples did not produce population sizes. The range-wide data required will eventually show areas considered to be suitable, but from which Bonobos are absent, and perhaps presence of Bonobos in areas not yet surveyed. Despite uncertainty around the modelled rate of decline, a strong negative trend is apparent in Sop <em>et al</em>.’s analysis. Even with an annual rate of decline of only 1%, total losses would exceed 50% over three generations, underscoring the need for monitoring of Bonobo populations and threats.<br/><p></p>",
+  "populationtrend": "decreasing",
+  "habitat": "The geographic range of <em>Pan paniscus</em> is characterised by undulating terrain with elevations between 300 and 700 m asl and a humid climate (Fruth <em>et al</em>. 2013). Bonobos inhabit closed, moist, mixed, mature and secondary forests as well as forest-savannah mosaics (<em>ibid</em>.). In the eastern and southern parts of their range, Bonobos occupy a mosaic of moist tropical forest, dry forest, savannah woodland, marshy grassland and swamp forest, yet they also require access to relatively-undisturbed mature forests. If available, Bonobos prefer primary forests and seasonally-inundated swamp forests, foraging in small streams and breast-deep ponds (Narat 2014, Serckx 2014).<br/><br/>Bonobos are diurnal and semi-terrestrial. They live in multimale-multifemale, fission-fusion communities, usually made up of 30–80 individuals. A single community occupies a home range of 20–60 km², and there is extensive overlap between the ranges of different communities (Fruth <em>et al</em>. 2013). Bonobos are omnivorous; over 50% of their diet is comprised of fruits and seeds, which are supplemented with leaves, stems, shoots, pith, bark, flowers, truffles, fungus, and honey (Hohmann <em>et al</em>. 2006). They appear to be more dependent on terrestrial herbaceous vegetation, including aquatic plants, than chimpanzees. Bonobos have occasionally been documented hunting and eating vertebrates (e.g., duikers, primates; Hohmann and Fruth 2008) and invertebrates (e.g., termites, caterpillars; Kano 1992). Bonobos build new nests to sleep in each night and sometimes make day nests in trees at heights of 5–50 m (Fruth 1995). It has been reported that Bonobos also make ground nests (Kano 1983, Guislain and Reinartz pers. comm). Their role as seed dispersers is critical for forest regeneration (Tsuji <em>et al</em>. 2010, Beaune <em>et al</em>. 2013).<br/><br/>There is no birth season. Gestation is about eight months. Interbirth interval at Wamba (1976–1996) averages 4.8 years, and females average 0.18 offspring per year of their adult life. Physical maturation is slow with infants being weaned shortly before birth of the next offspring. Infant and juvenile mortality is low, with 73% of offspring surviving to age six (Furuichi <em>et al</em>. 1998). Females migrate aged 6–13 years, settling into a new community when they start cycling at 9–12 years. They produce their first offspring at 13–14 years of age (Furuichi <em>et al</em>. 2012). One generation is estimated to be 23–25 years (Myers Thompson 1997, T. Furuichi pers. comm. 2007, Langergraber <em>et al</em>. 2012).<br/><p></p>",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "11.1",
+      "title": "Habitat shifting & alteration",
+      "timing": "Ongoing",
+      "scope": "Whole (>90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "2.3",
+      "title": "Livestock farming & ranching",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.3",
+      "title": "Livestock farming & ranching",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "2.3.2",
+      "title": "Small-holder grazing, ranching or farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "2.3.3",
+      "title": "Agro-industry grazing, ranching or farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "3.2",
+      "title": "Mining & quarrying",
+      "timing": "Future",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.1.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.3.3",
+      "title": "Unintentional effects: (subsistence/small scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.3.4",
+      "title": "Unintentional effects: (large scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "6.2",
+      "title": "War, civil unrest & military exercises",
+      "timing": "Past, Likely to Return",
+      "scope": "Majority (50-90%)",
+      "severity": "Rapid Declines",
+      "score": "Past Impact",
+      "invasive": null
+    },
+    {
+      "code": "6.3",
+      "title": "Work & other activities",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "8.5",
+      "title": "Viral/prion-induced diseases",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "8.5.1",
+      "title": "Unspecified species",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "<p><em>Pan paniscus</em> is listed on Appendix I of CITES and as Class A under the African Convention on the Conservation of Nature and Natural Resources. Bonobos are protected by national and international laws throughout their range, and the majority are found in national parks (IUCN SSC A.P.E.S. database 2016). However, most protected areas lack resources and suffer from poorly-controlled poaching, and enforcement is generally weak.</p><p>An IUCN and ICCN (2012) Bonobo conservation strategy (<a href=\"http://www.primate-sg.org/bonobo\">http://www.primate-sg.org/bonobo</a>)&#160;outlines five intervention strategies with objectives and conservation actions centred on the Bonobo&#160;‘strongholds’,&#160;which are to be implemented by 2022:</p><p></p><ol><li><strong>Strengthening institutional capacity.&#160;</strong>One objective under this strategy is the creation of new protected areas. Since SNP was established in 1970, an additional 35,580 km² supporting Bonobos has been officially designated. The Iyondji Community Bonobo Reserve in the ‘northern block’ was created in 2012 (Sakamaki <em>et al.</em> 2012). The establishment of LNP, currently a provincial park with a ban on all hunting, will add 8,880 km² of protected habitat to the Bonobo’s range (Doumenge <em>et al</em>. 2015). Once LNP is officially gazetted, protected areas harbouring Bonobo populations will total more than 78,080 km². Protected areas, however, will not curtail poaching as long as law enforcement is ineffective, thus the objectives of eliminating poaching, monitoring and controlling the bushmeat trade, and eliminating the circulation of weapons and ammunition in protected areas are crucial. Considerable efforts have been made in SNP, with recent improvements in guard numbers, education and equipment. The government’s ‘Operation Bonobo’ aims to confiscate military weapons that have been in circulation since 2012, carry out joint FARDC and ICCN patrols, and liberate the parts of SNP under the control of poachers. A specially-trained ‘<em>Corps en charge de la sécurisation des Parcs Nationaux</em>’ will be in charge of anti-poaching in all national parks. However, law enforcement in the Bonobo’s range as a whole is still fragmentary, and conservation efforts are hampered by the vastness of the areas to be patrolled, as well as corruption and isolation, and persistent political and economic instability. NGOs and research projects with bilateral investment provide greater assurance of active and permanent on-the-ground enforcement, and are working to strengthen ICCN’s limited capacity throughout DRC.</li><li><strong>Consultation and collaboration with local actors.&#160;</strong>Here the main objective is to integrate conservation issues into national development plans, land-use and macro-zoning plans, and implement sustainable subsistence activities at key sites. In an attempt to transfer responsibility for&#160;managing natural&#160;resources to local communities, WWF began sensibilisation activities in the Lac Tumba and Salonga-Lukenie-Sankuru landscapes and around southern block of SNP, and assisted stakeholders to establish local development and conservation committees (<em>Comités locaux de développement et de conservation</em>).&#160;</li><li><strong>Awareness building and lobbying.&#160;</strong>Objectives include developing a nationwide communications strategy, undertaking awareness-building activities at key sites, sensitising urban communities and private sector operators, and lobbying government administration at national and provincial levels. In 1995, USAID established the 25-year Central Africa Regional Programme for the Environment (CARPE) to increase local, national and regional capacity and participation in natural resource management, and strengthen conservation policy development and implementation to reduce biodiversity loss. Recently, CARPE established two distinct but interdependent projects:&#160;an Environmental Monitoring and Policy Support (EMAPS) project intended to boost the quality and scope of conservation policy-making, and forest monitoring, analysis and information dissemination; and CAFEC (see below; USAID 2014). Smaller organisations are conducting conservation education programmes in areas adjacent to Bonobo habitat as well as urban centres, such as Kinshasa or Kisangani, where demand for bushmeat is high. For example, Lola ya Bonobo in Kinshasa welcomes more than 20,000 visitors per annum, half of them school children. Such education-outreach activities can influence local attitudes to wildlife (ABC 2014).</li><li><strong>Research and monitoring activities.&#160;</strong>The primary objective here is to develop a clear framework for monitoring Bonobo populations and the threats to Bonobos, which is necessary to track changes in population size and distribution, to assess the level and location of threats, and ultimately to assess progress towards the Goal and Vision of the 2012 conservation strategy. The Central Africa Forest Ecosystems Conservation (CAFEC) project, and the SCAEMPS programme (Strengthening Central Africa Environmental Management and Policy Support) were established under CARPE. CAFEC supports the sustainable management of targeted forest landscapes, which include most of the landscapes where Bonobos occur, and involves targeted, site-based activities. SCAEMPS is a regional ‘quality control’ programme, ensuring that standardised, state of the art methods of monitoring wildlife, law enforcement (such as SMART&#160;<a href=\"http://www.smartconservationsoftware.org/\">http://www.smartconservationsoftware.org</a>), and livelihoods and governance are used across CARPE landscapes, and that databases are established to store the data collected. Supported by CARPE and other donors, ICCN and international NGOs have implemented surveys in about 40% of SNP. A three-year co-management agreement for the future monitoring and management of SNP was signed in 2015, focusing on the education, training and support of guards. Development of cost-efficient methods for biomonitoring (camera traps, drones) is underway. Development of a disease prevention plan to minimise human-Bonobo disease transmission, and establish an early detection mechanism and an emergency intervention plan to address potentially catastrophic disease outbreaks is not yet underway.</li><li><strong>Sustainable funding.&#160;</strong>Here, the objective is to evaluate funding needs for Bonobo conservation and create sustainable sources of funding. In the last 10 years,&#160;government donors (EU, KfW, USAID) have provided considerable conservation finance to support biodiversity conservation, park management, education or other developmental aid, rather than species-specific activities.&#160;While Bonobos will benefit from general support, a number of smaller donors (Arcus Foundation, Beneficia Foundation, USFWS, zoological gardens) are sponsoring the smaller NGOs and distinct projects focused on Bonobo conservation. Monetary support has slowly increased over time; however, the extent to which Bonobo populations outside protected areas is benefitting needs to be assessed. Fortunately, the Bonobo population does not need to be reinforced with individuals bred in captivity. In 2009 and 2011, Lola ya Bonobo, where intake rates and breeding have led to spatial constraints, released rehabilitated Bonobos back into the wild. The released individuals adapted easily to their new environment, became fully independent and reproduced successfully. Despite this success and the repopulation of a small area of former Bonobo habitat, reintroduction of great apes is controversial and often viewed as a mechanism for managing sanctuary populations (ABC 2014, C. André pers. comm.). Even more contentious are the potential ramifications for resident wild Bonobos, despite careful planning and selection of the site, and diligent preparation of the individual Bonobos released following IUCN guidelines for the reintroduction of great apes (Beck <em>et al</em>. 2007).</li></ol><p></p><p>In sum, for protection of Bonobos to be effective, commercial poaching must be halted, intensification rather than expansion of local agriculture&#160;must be supported, and local industries must be actively persuaded to support rather than subvert conservation objectives. The most urgent conservation measures needed are those that enhance Bonobo survival <em style=\"font-family: 'Times New Roman';\">in situ</em>: effective law enforcement; long-term project presence on the ground; population monitoring; and education at all levels of society.</p>",
+  "usetrade": "<p>Killing or capture of Bonobos for any purpose is against national and international laws.</p>",
+  "countries": [
+    {
+      "code": "CD",
+      "country": "Congo, The Democratic Republic of the",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2016",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2008",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2007",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2000",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1996",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1994",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1990",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1988",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1986",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1965",
+      "code": null,
+      "category": "\"Status inadequately known-survey required or data sought\""
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.8",
+      "habitat": "Forest - Subtropical/Tropical Swamp",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    }
+  ]
+}

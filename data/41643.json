@@ -1,0 +1,143 @@
+{
+  "taxonid": 41643,
+  "scientific_name": "Nomascus hainanus",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HYLOBATIDAE",
+  "genus": "Nomascus",
+  "main_common_name": "Hainan Gibbon",
+  "authority": "(Thomas, 1892)",
+  "published_year": 2008,
+  "assessment_date": "2008-06-30",
+  "category": "CR",
+  "criteria": "A2acd; B1ab(iii,v)+2ab(iii,v); C2a(ii); D",
+  "population_trend": "Stable",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Geissmann, T. & Bleisch, W.",
+  "reviewer": "Mittermeier, R.A. & Rylands, A.B. (Primate Red List Authority)",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 1200,
+  "elevation_lower": 650,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": null,
+  "errata_reason": null,
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 41643,
+  "taxonomicnotes": "<i>Nomascus hainanus</i> has been variously considered either a species in its own right or as a subspecies of <i>N. concolor</i> or <i>N. nasutus</i>; it is here recognized as a distinct species based on differences in vocalizations and fur coloration (T. Geissmann pers. comm. 2006).",
+  "rationale": "Listed as Critically Endangered because of an observed decline of at least 80% over the past 45 years (three generations) due primarily to hunting and habitat loss; and because its extent of occurrence is less that 100 km² and its area of occupancy is less than 10 km², all individuals are in a single subpopulation, and there has been a continuing decline in the number of locations and the number of mature individuals; and because its population size is less than 250 mature individuals, with all individuals in a single subpopulation, and it is experiencing a continuing decline; and because its population size is less than 50 mature individuals.",
+  "geographicrange": "This species is endemic to Hainan Island, China (Chan <em>et al.</em> 2005). It is currently confined to the Bawangling Nature Reserve on the western side of the island of Hainan (Chan <em>et al. </em>2005). Before the 1960s it was widely distributed across the island.",
+  "population": "In the late 1950s, the population was estimated to be over two thousand individuals (Liu <em>et al.</em> 1984). In 1993 there were three groups with less than 20 individuals (Geissmann <em>et al.</em> 2000). During a comprehensive survey in 2003, only 13 individuals were recorded, consisting of two groups, in addition to two solitary individuals (Chan <em>et al.</em> 2005; Geissmann 2005b). Since 2003 an intensive monitoring work showed that the population of Hainan Gibbon has increased in the past five years. The two groups have produced newborn infants every two years, as previously noted (Liu <em>et al</em>. 1989), while a single individual departed from each group during the same period. These changes brought the composition of the two groups to nine and six individuals respectively. At present the there could be also up to five solitary individuals, reaching so a total of 20 individuals (Fellowes <em>et al</em>. 2008).",
+  "populationtrend": "stable",
+  "habitat": "This species inhabits remnant forest. It is diurnal, arboreal, and mostly frugivorous (Geissmann <em>et al</em>. 2000). The most difficult time for the gibbons to find food in Bawangling Nature Reserve is between February and April, when only seven of 40 known food-plant species are available for the gibbons (Chan <em>et al.</em> 2005). The species occurs at altitudes ranging from 650 to 1,200 meters (Chan <em>et al</em>. 2005; Geissmann <em>et al</em>. 2000) but in the past probably preferred lowland forest.<br/><br/>Group size has been reported to range from 4-8 individuals, with an average of 5.3-5.5 individuals, depending on the year of the study (Geissmann <em>et al</em>. 2000). Home range size ranges from 100 to 500 ha (Liu and Tan 1990; Liu <em>et al</em>. 1989; Zhou pers. comm. 2006), with an average of about 360 ha (Liu <em>et al</em>. 1989).",
+  "threats": [
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Past, Unlikely to Return",
+      "scope": null,
+      "severity": null,
+      "score": "Past Impact",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Past, Unlikely to Return",
+      "scope": null,
+      "severity": null,
+      "score": "Past Impact",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Past, Unlikely to Return",
+      "scope": null,
+      "severity": null,
+      "score": "Past Impact",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Past, Unlikely to Return",
+      "scope": null,
+      "severity": null,
+      "score": "Past Impact",
+      "invasive": null
+    },
+    {
+      "code": "5.3.5",
+      "title": "Motivation Unknown/Unrecorded",
+      "timing": "Past, Unlikely to Return",
+      "scope": null,
+      "severity": null,
+      "score": "Past Impact",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "This species is listed on CITES Appendix I. As far as known it is entirely confined to Bawangling Nature Reserve in Hainan Island (Chan <em>et al</em>. 2005; Geissmann <em>et al</em>. 2000) and is the most critically endangered primate in the world (Geissmann 2005a). There is suitable gibbon habitat outside of the known Nature Reserve, and there is a need to survey for any surviving individuals or groups not yet accounted for, especially in Diaoluoshan Nature Reserve, Yinggelin Nature Reserve, and Jianfenglin Nature Reserve (B. Chan and T. Geissmann pers. comm. 2006).<br/><br/>In terms of the Bawangling population, there should be intensive monitoring of the remaining two groups, and survey of the remaining subadults (Chan <em>et al</em>. 2005; Fellowes <em>et al</em>. 2008). There is a need for continued gun confiscation in the area, which has already been done once in the area (W. Bleisch pers. comm. 2006). The most important thing is to protect all of the remaining habitat and individuals. Captive breeding does not appear to be a wise strategy for this species because (1) there are no captive individuals, (2) earlier attempts to capture wild gibbons alive has not been very successful and may reduce the viability of the few remaining individuals, and (3) captive breeding of crested gibbons has not been highly successful.",
+  "usetrade": null,
+  "countries": [
+    {
+      "code": "CN",
+      "country": "China",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2008",
+      "code": "CR",
+      "category": "Critically Endangered"
+    },
+    {
+      "year": "2003",
+      "code": "CR",
+      "category": "Critically Endangered"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    }
+  ]
+}

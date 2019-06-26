@@ -1,0 +1,623 @@
+{
+  "taxonid": 219,
+  "scientific_name": "Acinonyx jubatus",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "CARNIVORA",
+  "family": "FELIDAE",
+  "genus": "Acinonyx",
+  "main_common_name": "Cheetah",
+  "authority": "(Schreber, 1775)",
+  "published_year": 2015,
+  "assessment_date": "2014-05-28",
+  "category": "VU",
+  "criteria": "A2acd; C1",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Durant, S., Mitchell, N., Ipavec, A. & Groom, R.",
+  "reviewer": "Nowell, K., Hunter, L., Breitenmoser-Würsten, C., Lanz, T. & Breitenmoser, U.",
+  "aoo_km2": null,
+  "eoo_km2": "18760352.3799",
+  "elevation_upper": 4000,
+  "elevation_lower": 0,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": null,
+  "errata_reason": null,
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 219,
+  "taxonomicnotes": "<p>Taxonomy is currently under review by the IUCN SSC Cat Specialist Group.<br/><br/>Formerly included in a monophyletic group, the subfamily Acinonychinae (e.g., Wozencraft 1993), molecular evidence now clusters the Cheetah with the Puma&#160;<em>Puma concolor</em>&#160;and Jaguarundi&#160;<em>P. yagouaroundi</em>&#160;in the tribe Acinonychini, diverging some 6.9 million years ago (Johnson<em>&#160;<em><em>et al.</em></em>&#160;</em>2006, O'Brien and Johnson 2007). A close relationship between these three species is in agreement with earlier studies (Johnson and O’Brien 1997, Bininda-Emonds&#160;<em><em><em>et al.</em></em> </em>1999, Mattern and MacLennan 2000).&#160;</p><br/>Krausman and Morales (2005) list five Cheetah subspecies:&#160;<br/><br/><em>A. j. hecki</em>&#160;Hilzheimer, 1913: Northwest Africa&#160;<br/><em>A. j. fearsoni</em>&#160;(Smith, 1834): East Africa&#160;<br/><em>A. j. jubatus</em>&#160;(Schreber, 1775): Southern Africa&#160;<br/><em>A. j. soemmerringi</em>&#160;(Fitzinger, 1855): Northeast Africa&#160;<br/><em>A. j. venaticus</em>&#160;(Griffith, 1821): North Africa to central India&#160;<br/><br/>Only&#160;<em>A. j. jubatus</em>&#160;and&#160;<em>A. j. raineyii&#160;</em>have been compared using genetic analysis, and found to be extremely similar, but the subspecies distinction was still retained (O’Brien&#160;<em><em>et al.</em></em> 1987).&#160;<br/><br/>The subspecies&#160;<em>A. j. venaticus</em>, commonly called the Asiatic Cheetah, is considered by Nowell and Jackson (1996) to survive only in Iran. They place the eastern limit of its range in Arabia. However, the review by Krausman and Morales (2005) included Cheetahs from the northern Sahara in <em>venaticus</em>. The type locality of&#160;<em>A. j. venaticus</em>&#160;(=<em>Felis venatica</em>&#160;[Griffith, 1821]) is unknown (Krausman and Morales 2005). At a November 2006 meeting of the North African Region Cheetah Action Group (NARCAG), Belbachir (2007) recommended genetic studies to clarify whether the Cheetahs of Algeria (which probably has the largest Saharan Cheetah population) should be classified as&#160;<em>A. j. hecki</em>&#160;or&#160;<em>A. j. venaticus</em>. Presently&#160;<em>A. j. venaticus</em>&#160;is considered restricted to Asia.&#160;<br/><br/>The English name is derived from the Hindi Chita, meaning \"spotted one\". The generic name&#160;<em>Acinonyx</em>&#160;is a reference to its non-retractile claws (Caro 1994).",
+  "rationale": "<p>The known Cheetah population is roughly 6,700 adult and adolescent animals distributed across 29 subpopulations. These estimates are very approximate, and are derived from largely expert assessment and from the extent of known resident Cheetah range multiplied by density, however, they constitute the best available information. The global population estimate can be broken down regionally into an estimated 4,190 adults in Southern Africa (IUCN SSC 2007a, in prep.); 1,960 adults in Eastern Africa (IUCN SSC 2007b); 440 adults in Western, Central and Northern Africa (IUCN SSC 2012); and 80 adults in Iran (Hunter <em>et al. </em>2007, Iranian Cheetah Society 2013). &#160;There is only a single subpopulation with an estimated size of more than 1,000 individuals, and only one additional subpopulation larger than 500, the remaining 27 known subpopulations are estimated to hold less than 500 individuals. Additional areas where Cheetah status is poorly known are unlikely to raise the total to over 10,000.<br/><br/>Generation time for a Cheetah is estimated at 4.9 years using the formula GL = Rspan*z +AFR (Pacifici<em>&#160;et al. </em>2013). AFR =age at first reproduction 2 years (Durant <em>et al.</em> 2004); Rspan = reproductive lifespan, which is the age at last reproduction 12 years (Durant <em>et al.</em> 2004) - age of first reproduction 2 years = 10 years; z = 0.29, and is a constant “depending on survivorship and relative fecundity of young vs. old individuals in the population” (IUCN Standards and Petitions Subcommittee 2014), calculated as the slope of the linear regression between GL and Rspan for 221 mammalian species (Pacifici <em>et al.</em> 2013). Three Cheetah generations are thus approximately 15 years.<br/><br/>Because of the difficulty in estimating density for a wide ranging scarce carnivore like the Cheetah, there is little accurate information on population decline. In Africa we estimate that known resident Cheetah range today occupies 2,709,054 km<sup>2</sup>, while historic range was 25,344,648 km<sup>2</sup> - a decline of 89%. This decline in range is primarily due to habitat loss and fragmentation; killing and capture of Cheetahs due to livestock depredation; and loss of prey (IUCN SSC 2007a, b, 2012). Illegal trade is likely to have a big impact in some areas, notably the Horn of Africa (Nowell 2014).<br/><br/>If we assume the bulk of this decline was exponential at a fixed percentage per year and started 100 years ago (at the onset of rapid anthropogenic environmental change), then this amounts to a loss of range of 2.26% per year. This constant rate of decline results in an estimated resident range of 3,643,882 km<sup>2</sup> in 1999, three Cheetah&#160;generations ago (15 years). This results in an estimated decline of 29% resident range over the last three Cheetah generations.<br/><br/>While some of unknown range and probable range may contain Cheetah, which would increase the estimated resident's range, this is unlikely to make a substantial change. If probable resident range is included with resident range (total 4,804,254 km<sup>2</sup>), this results in a 22% decline from historical range over the last three Cheetah generations.<br/><br/>However, it is unlikely that the rate of decline in Cheetah range has remained constant over the last 100 years. Drivers of decline, such as conflict, loss of prey, habitat change, are likely to have decreased disproportionately with range occupancy (Lindsey <em>et al.</em> 2011, Durant<em> et al.</em> 2014), resulting in a recent acceleration in range collapse. Thus, a decline of at least 30% in abundance and extent of occurrence is strongly suspected over the last three Cheetah generations, and a decline of at least 10% is likely over the next three generations.<br/><br/>Subspecies in Iran (<em>A. j. venaticus</em>) and northwest Africa (<em>A. j. heckii</em>) are listed as Critically Endangered. &#160;The Cheetah is also assessed as Critically Endangered in the region of North and West Africa.</p>",
+  "geographicrange": "Cheetahs have disappeared from vast tracts of their historic range. In Africa they are now known to persist in only 10% of their historic range (IUCN SSC 2007a, b, 2012, in prep.), while their distribution in Asia is limited to the central deserts of Iran.<br/><br/>In Africa, Southern and Eastern Africa are the species strongholds, but there has been significant range loss across all regions. In Eastern Africa Cheetahs are known to occur in only 6% of their historical range in (310,586 km<sup>2</sup>), and possibly occur in another 892,658 km² (IUCN/SSC 2007a). Significant Cheetah range occurs in the transboundary areas between northern Tanzania and southern Kenya. Almost the entire southern boundary of Ethiopia is recorded as resident Cheetah range with connectivity into South Sudan and this population almost certainly extends into northern Kenya. Important subpopulations of Cheetah survive elsewhere in Tanzania, Kenya and Ethiopia, as well as in South Sudan and northern Uganda but are notably fragmented across the region. Their status in Eritrea, Djibouti, Somalia and Sudan is unknown.<br/><br/>In southern Africa Cheetahs are known to occur in 22% of their historical range (1,223,388 km<sup>2</sup>), and possibly occur in another 403,627 km<sup>2</sup> (IUCN SSC in prep.). Most of the Cheetahs surviving in this region are in a single transboundary population stretching across Namibia, Botswana, south-western Angola, northern South Africa, south-western Mozambique and southern Zambia. Important populations also survive elsewhere in Zambia, Zimbabwe and Mozambique (IUCN SSC 2007b, Purchase <em>et al.</em> 2007). There are some reliable observations of cheetah from south-eastern Angola (Anon. 2010), close to the Namibia and Zambia borders. Cheetahs have been extirpated from Malawi (Purchase and Purchase 2007).<br/><br/>Cheetahs have declined particularly markedly in western, central and northern Africa (IUCN SSC 2012, Durant<em> et al. </em>2014). The subspecies found in northwest Africa,<em> A. j. hecki,</em> is listed as Critically Endangered; see subspecies account for detailed information. Cheetah now occur in 10% of their historical range (1,053,746 km<sup>2</sup>), and possibly occur in another 920,520 km<sup>2</sup>. Much of this range is within the Sahara, where Cheetah occur at very low densities, estimated as 2.3 individuals per 10,000 km<sup>2</sup> (Belbachir <em>et al. </em>2015). There are five known Cheetah subpopulations in this region (IUCN SSC 2012): south-central Algeria, stretching through to north-eastern Mali, and possibly into western Libya (Belbachir <em>et al. </em>2015); two connected subpopulations around the Termit massif in Niger; the WAP complex of protected areas in northern Benin, south-eastern Burkina Faso and south-western Niger; and south-eastern Chad and north-eastern Central African Republic (CAR). Cheetah have been extirpated from their historical range in Western Sahara, Senegal, Nigeria, Mauritania, Tunisia, Guinea, Ivory Coast, Cameroon, DRC and Ghana. The last reliable Cheetah sighting in Cameroon was in the 1970s (de Iongh <em>et al</em>. 2011), and no tracks were found in an extensive search of the Benoue Complex in 2007 and 2010, which was their last refuge in the country (Croes <em>et al.</em> 2011). Recent extensive surveys for Lion in the best protected areas in the Democratic Republic of the Congo, Côte d'Ivoire, Guinea, Senegal, Ghana and Nigeria found no evidence of Cheetah (Henschel<em> et al. </em>2014a, b). It is also unlikely any Cheetah survive in Egypt. Reports from hunters suggest that cheetah may persist in south-western Libya (IUCN SSC 2012), but the status of Cheetah from much of southern Libya, northern Niger, Chad and CAR remains unknown.<br/><br/>In Asia, the Cheetah has been extirpated from nearly all of its range. Its historic range extended from the shores of the Mediterranean and the Arabian Peninsula, north to the northern shores of the Caspian and Aral Seas, and west through Uzbekistan, Turkmenistan, Afghanistan, and Pakistan into central India (Nowell and Jackson 1996, Habibi 2003, Mallon 2007). One reason for their extirpation across most of their Asian range is thought to have been the live capture of cheetahs, which were then trained to hunt deer and gazelle as sport for the aristocracy (Divyabhanusingh 1995). Other key causes of the disappearance of Cheetah from the region are likely to have been depletion of wild prey, especially gazelles, the direct killing of Cheetahs, and anthropogenic change and fragmentation of their habitat (Mallon 2007). The Asiatic Cheetah (<em>A. j. venaticus</em>) is now known to survive only in Iran, where it is Critically Endangered. Persistence in Pakistan is unlikely (Husain 2001). Habibi (2003) considers it extinct in Afghanistan, although a Cheetah skin of unknown origin was found in a marketplace in western Afghanistan in 2007 (L. Hunter pers. comm.). More detail can be found in the subspecies account for <em>A. j. venaticus</em>.",
+  "population": "Where possible population estimates are based on expert information from in-depth surveys and monitoring. This was particularly the case in the southern Africa estimates (IUCN SSC 2007a, b, 2012, in prep). Where expert based information was not available, population estimates were derived from applying density estimates from comparable areas to resident range as mapped during conservation strategy workshops. Density estimates were conservative, since many sites where abundance is unknown are likely to face higher pressures than sites where there is better information on abundance. Four density estimates were used:<br/><br/>1) For well managed protected areas density was estimated at one individual per 100 km<sup>2</sup>, slightly higher than Kruger National Park, but lower than the volcanic savannas of the Serengeti ecosystem (Bowland 1995, Durant <em>et al.</em> 2011);<br/>2) For areas that are largely unprotected or are under threat density was estimated at 0.25 individuals per 100 km<sup>2</sup>, corresponding to the lower bound on the density range found on Namibian farmlands (Marker 2002);<br/>3) For the Sahara density was estimated at one individual per 4,000 km<sup>2</sup>, using the only available estimate in this habitat from the Algerian Sahara (Belbachir <em>et al.</em> 2015); and<br/>4) For two subpopulations in west and central Africa density was estimated at one individual per 1,000 km<sup>2</sup>, consistent with a density higher than that found in the desert, but lower than that found in Namibian farmlands, in line with elevated pressures and direct threats in these regions.<br/><br/>The population estimates so derived for Cheetah as presented here, including the expert based estimates, should be treated with extreme caution and are provided as an indication only. Density and abundance estimates for Cheetah are imprecise, and a small change in mean density estimation could result in a large overall change in population estimates. Population estimates refer to adults and independent adolescents only, and do not include cubs.<br/><br/>Southern Africa is the Cheetah’s regional stronghold, holding a rough estimate of 4,190 adults and independent adolescents distributed across ten subpopulations (IUCN SSC 2007b; Marnewick <em>et al.</em> 2007; Purchase 2007a, b; Purchase <em>et al.</em> 2007, Purchase and Purchase 2007; Williams 2007; Chilufya and Purchase 2011; Andresen <em>et al.</em> 2012; IUCN SSC in prep.). The largest of these subpopulations supports an estimated 3,940 individuals, comprising the majority of the regional population, which is spread across a large transboundary landscape covering Botswana, Namibia, northern South Africa, south-western Zambia and south-western Mozambique.<br/><br/>The other nine subpopulations are much smaller: 60 individuals in Kafue National Park, Zambia; 50 in and around Hwange National Park; 46 in Gonarezhou National Park and Save Conservancy; 40 spread across three conservancies in southern Zimbabwe; 20 in Liuwa Plains, Zambia; 12 in Mana Pools; 10 in Bahine National Park; four in Rhino Conservancy Zimbabwe and three in Matusadona, Zimbabwe. The latter subpopulation has decreased substantially after a reintroduction of Cheetah in the mid 1990s and may indicate long term viability of Cheetah populations in small areas (Purchase 1998, Purchase and du Toit 2000, Purchase <em>et al.</em> 2006). A large proportion of the estimated subpopulation in the region lives outside protected areas, in lands ranched primarily for livestock but also for wild game (IUCN SSC 2007b, Purchase <em>et al.</em> 2007). Larger competitors, such as Lions and Spotted Hyenas, have been extirpated from much of this range. There are also around 293 Cheetahs in an intensively managed meta-population distributed across small fenced reserves in South Africa (van der Merwe and K. Marnewick pers comms.) that we have excluded from the overall population estimates.<br/><br/>The Eastern Africa Cheetah population is estimated at 2,572 adults and independent adolescents distributed across 15 subpopulations (IUCN SSC 2007a). Only four of these subpopulations are estimated to number 200 animals or more. In descending order of estimated population size the 15 subpopulations are: 710 individuals in the Serengeti/Mara/Tsavo landscape in Kenya and Tanzania; 450 in the Laikipia/Samburu landscape in Kenya; 250 in the Omo Mago/Borena protected areas and buffer zones in Ethiopia; 200 in the Ruaha landscape in Tanzania; 190 in Boma National Park in South Sudan; 150 in the Katavi-Ugalla landscape in Tanzania; 130 in Southern National Park in South Sudan; 110 in the Ogaden landscape in Ethiopia; 100 in the Maasai steppe in Tanzania; 70 in each of the Blen-Afar National Park in Ethiopia and Badingilo National Park in South Sudan; 60 in Radom National Park in South Sudan; 40 in the Afar landscape in Ethiopia; 30 in the Yangudi Rassa landscape in Ethiopia; and 12 in the Kidepo National Park in Uganda and bordering areas in South Sudan (IUCN SSC 2007a). A large proportion of Cheetah range in Eastern Africa is outside protected areas, on lands that are largely occupied by traditional pastoralist communities (IUCN SSC 2007a).<br/><br/>The number of known resident Cheetahs in western, central and northern Africa &#160;is estimated at 446 adults and independent adolescents distributed across four populations (IUCN SSC 2012). These are: 217 individuals in Bahr/Salamat landscape in Chad and CAR; 201 in the Adrar des Ifhogas/Ahaggar/AjjarTassili landscape in Algeria and Mali; 23 in the WAP complex in Benin, Niger and Burkina Faso; 4 in Air et Tenere connected to another 1-2 individuals in the Termit Massiff, both in Niger. As in the other regions, a large proportion of Cheetah range in this region is outside protected areas, on lands that are largely occupied by traditional sedentary and semi-nomadic pastoralist communities (IUCN SSC 2012, Belbachir <em>et al.</em> 2015).<br/><br/>In Asia, Cheetahs are now confined to Iran, where the subspecies <em>Acinonyx jubatus venaticus</em> is estimated at 60-100 (Hunter <em>et al.</em> 2007c) and listed as Critically Endangered.<br/><br/>The total known Cheetah population is therefore very provisionally estimated at around 6,674 adults and independent adolescents. Thus the population is extremely unlikely to exceed 10,000 mature individuals, meeting the criteria for Vulnerable. The effective population size (the estimated percentage of the population contributing to the gene pool through reproductive success) using data from a long term study population of Cheetah in the Serengeti ecosystem is estimated at &#160;2,937 or, if skewed female heritability is taken into account, this is reduced to 1,001 (Kelly 2001). While Cheetah female reproductive success is highly skewed, genetic analysis showed that female Cheetahs mated with multiple males, many from outside the study area, with 43% of litters having mixed paternity (Gottelli <em>et al.</em> 2007). This suggests that male reproductive success may be less skewed than expected, but it also underscores the importance of Cheetah mobility in their ecology and conservation.<br/><br/>The low density of the Cheetah across their range means they need large areas of connected habitat for their survival. The facts that the majority of known Cheetah range (76%) is on unprotected lands, and that their populations are extremely fragmented are causes for concern.",
+  "populationtrend": "decreasing",
+  "habitat": "In Africa, Cheetahs are found in a wide range of habitats and ecoregions, ranging from dry forest and thick scrub through to grassland and hyperarid deserts, such as the Sahara (IUCN SSC 2007a, b, 2012; Durant <em>et al.</em> 2014). They are only absent from tropical and montane forest, although there are reports of Cheetah at altitudes of 4,000 m on Mt Kenya (Young and Evans 1993). In Iran, Cheetah habitat consists of desert, much of it with an annual precipitation of less than 100 mm. There, the terrain in which Cheetah are found ranges from plains and saltpans to eroded foothills, and rugged desert ranges that rise to an elevation of up to 2,000-3,000 m (Hunter <em>et al.</em> 2007c), a landscape not dissimilar to the mountains of the Algerian Sahara (Belbachir <em>et al.</em> 2015). Cheetah appear to show relatively low habitat selectivity compared with other carnivores (Durant <em>et al.</em> 2010a), although there is variation between females of differing reproductive status (Pettorelli<em> et al.</em> 2009).<br/><br/>Cheetahs are the fastest land mammals, and have been documented as reaching speeds up to 103 km per hour (29 meters per second) (Sharp 1997). However, in real hunting situations, where Cheetah may be slowed down because of weaving prey and the need to circumvent obstacles, actual speeds may be much lower than this (Wilson <em>et al.</em> 2013a, b). Cheetahs make use of their high speeds to catch their prey, but they are unable to sustain top speeds for much more than a few hundreds of metres. They take a wide variety of prey, principally small- to mid-sized ungulates, especially gazelle, kob and impala. But their prey can range from ground-dwelling birds and small mammals, such as hares, up to large ungulates such as wildebeest, kudu or eland (Purchase and du Toit 2000, Broomhall <em>et al. </em>2003, Mills <em>et al. </em>2004, Cooper <em>et al. </em>2007, Hilborn <em>et al.</em> 2012). In Iran opportunistic recovery of Cheetah kills and analysis of scat suggests that gazelle, wild sheep <em>Ovis orientalis</em>, Persian Bbex <em>Capra aegagrus</em> and Cape Hares <em>Lepus capensis</em> are key prey species, although livestock comprises a substantial proportion of the diet (Hunter <em>et al.</em> 2007c, Farhadinia <em>et al.</em> 2012).<br/><br/>Cheetahs, unlike many other African predators, rarely scavenge. In areas with high densities of large carnivore competitors, cheetah can lose up to around 10% of their kills to kleptoparasitism, particularly to lions and spotted hyaenas (Hunter <em>et al.</em> 2007a), and tend not to remain long with their kills, abandoning the carcass once they have eaten their fill (Hunter <em>et al.</em> 2007b). They also tend to be primarily active during the day, a strategy that may help to reduce competition (Caro 1994). There is some evidence that nocturnal activity is linked to the lunar cycle (Broekhuis <em>et al.</em> 2014), consistent with a hypothesis that the need to use visual cues to avoid competitors is a key driver of diurnal behaviour. In contrast, in areas where competition is less fierce, such as South African farmland and the Sahara, Cheetah have been recorded as being primarily nocturnal (Marnewick <em>et al.</em> 2006, Belbachir <em>et al.</em> 2015), although it is difficult to know whether this is due to a lower number of competitors or an increase in human activity in these areas.<br/><br/>Cheetahs have a social organization that is unique among felids (Durant <em>et al. </em>2007, Durant <em>et al.</em> 2010b). Females are solitary or accompanied by dependent young, and males are either solitary or live in stable coalitions of two or three (Caro 1994, Broomhall<em> et al. </em>2003, Marnewick <em>et al.</em> 2006). Most coalitions consist of brothers, but unrelated males may also be members of the group (Caro and Collins 1987). Unlike the coalitions formed by male lions, where a single male from the coalition will guard and mate with a female throughout oestrus, female Cheetahs appear to mate with as many males as possible, and show no mate fidelity (Gottelli <em>et al.</em> 2007).<br/><br/>In areas where prey is migratory (such as the Serengeti Plains), female Cheetahs follow the herds, while male coalitions establish small territories (average 30 km<sup>2</sup>) which are centred on areas attractive to females (Durant <em>et al.</em> 1988, Caro 1994). However, in areas where prey is non-migratory, male and females may have overlapping ranges that can be more similar in size (Broomhall <em>et al. </em>2003). On Namibian farmlands, where prey is also non-migratory, both Cheetah sexes have very large home ranges (average 1,642 km<sup>2</sup>); however, intensively used core areas were just 14% of the total home range. The reasons for such large home ranges are unclear, and were apparently not the result of reduced prey availability (Marker 2002). It has been hypothesised that the Cheetah’s unique social system and ranging patterns originally evolved as a strategy to remain mobile in the presence of larger and stronger competitors, enabling the species to avoid direct competition in a spatio-temporal heterogeneous landscape (Durant 1998, 2000a, b). This is supported by recent evidence of risk avoidance by cheetah in Botswana and South Africa (Broekhuis <em>et al. </em>2013, Rostro-Garcia <em>et al.</em> 2015).<br/><br/>In the wild Cheetah have been recorded as living a maximum of 14 years and five months for females and 10 years for males, however females have not been recorded as having cubs beyond 12 years (Durant <em>et al.</em> 2010b). Cheetahs give birth to their first litter at two years after a three-month gestation (Caro 1994). The cubs are kept in a lair for the first two months of their life, during which time their mother leaves to hunt every morning and returns at dusk (Laurenson 1994). Cheetah cub mortality can be high. In the Serengeti 95% of cubs died before independence, mostly because of predation (Laurenson 1994, 1995). Most of this mortality happened in the first few months, and mothers were able to conceive quickly after losing their cubs (Laurenson <em>et al.</em> 1992). Elsewhere cub mortality is reported to be nowhere much lower, although information on survivorship during the denning period is rarely available. In the Kgalagadi Transfrontier Park cub survival from birth to independence was 35.7%, substantially higher than that found in the Serengeti, but most of the mortality could also be ascribed to predation (Mills and Mills 2014). Lions, Spotted Hyaenas and Leopards are key predators of Cheetah cubs, although smaller predators such as Honey Badgers, jackals and Secretary Birds also play a role.<br/>&#160;<br/>If cubs survive, they will stay with their mother for an average of 18 months, after which they will roam with their littermates for a further six months (Caro 1994). At this time, females split from their siblings and go on to produce their first litter, while surviving males will stay together for life. Single males may meet and join up with unrelated males to form a coalition. In the Serengeti mean annual mortality for females and males is respectively 0.32 and 0.61 for 1-2 year olds; and 0.15 and 0.31 for adults (Durant <em>et al.</em> 2004). On Namibian farmlands, adult mortality is similar to that in the Serengeti, but mortality of juveniles is much lower, probably due to the lack of other large predators (Marker <em>et al. </em>2003c, Durant <em>et al. </em>2004). It is difficult to discern the causes of mortality, but in the Serengeti adult Cheetahs have been killed by Lions; by their prey when hunting; and one individual died from encephalitis (Durant <em>et al. </em>2010b). Male cheetahs are killed by other males, probably during territorial disputes (Caro 1994).<br/><br/>In comparison with other big cats, Cheetahs occur at relatively low densities (10-30% of typical densities for Lions, Leopards, Tigers and Jaguars in prime habitat: Durant 2007). The highest density recorded for Cheetah, not including small and highly managed fenced reserves in South Africa, is in the Serengeti National Park, where densities range up to 2.5 per 100 km<sup>2</sup> (Durant <em>et al.</em> 2011), but seasonally cheetahs can congregate at densities up to 40 per 100 km<sup>2</sup> (Caro 1994), which can give a misleading impression of over-inflated densities. Caro (1994) attributes relatively low Cheetah densities in the herbivore rich Serengeti to interspecific competition (especially with larger species such as Lions and hyenas that can kill Cheetah cubs), but on Namibian farmlands and in the Sahara where there are no competitors, Cheetahs still occur at low densities (0.2 per 100 km<sup>2</sup>) (Marker 2002) and 0.23 per 10,000 km<sup>2</sup> (Belbachir<em> et al. </em>2015), respectively. In such environments cheetah may be limited by prey rather than competitors. Clearly, Cheetah can coexist alongside other competitors, and have developed avoidance strategies to minimize the loss of kills and cubs where competitor densities are high (Durant 1998, 2000a, c; Broekhuis<em> et al.</em> 2013, Rostro-Garcia <em>et al.</em> 2015), while in other environments impacts of competitors may be much lower (Mills and Mills 2014).",
+  "threats": [
+    {
+      "code": "2.3",
+      "title": "Livestock farming & ranching",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3.1",
+      "title": "Nomadic grazing",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3.2",
+      "title": "Small-holder grazing, ranching or farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3.3",
+      "title": "Agro-industry grazing, ranching or farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "4.1",
+      "title": "Roads & railroads",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "6.1",
+      "title": "Recreational activities",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "6.2",
+      "title": "War, civil unrest & military exercises",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "8.2",
+      "title": "Problematic native species/diseases",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "8.2",
+      "title": "Problematic native species/diseases (Bacillus anthracis)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": "Bacillus anthracis"
+    },
+    {
+      "code": "8.2.1",
+      "title": "Unspecified species",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "8.2.2",
+      "title": "Named species (Bacillus anthracis)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": "Bacillus anthracis"
+    }
+  ],
+  "conservationmeasures": "The low density of Cheetah throughout their range, means they require conservation action on a scale that is seldom seen in terrestrial conservation. This includes transboundary cooperation, land use planning across large landscapes to maintain habitat connectivity, and human wildlife conflict mitigation (IUCN SSC 2007a, b, 2012). Most Cheetah range (76%) is on unprotected lands where they are often persecuted in retaliation for livestock or game depredation.<br/><br/>The species is listed on Appendix I of CITES, Appendix 1 of CMS and is protected under national legislation throughout most of its extant and some of its former range (Nowell and Jackson 1996; IUCN SSC 2007a, b, 2012). However, a number of countries permit Cheetahs to be killed in defence of life and livestock, as part of their problem animal control regulations (Purchase <em>et al. </em>2007). There is very rarely any systematic monitoring of how many animals are killed in this way. Moreover, in some countries the retention of Cheetah parts, such as skin, may be permitted in these operations, which may provide additional incentives for animal removals.<br/><br/>In Africa, nearly all range states are actively involved with the Range Wide Conservation Program for Cheetah and African Wild Dogs (RWCP), which has supported them in the development of regional strategies and national conservation action plans using the IUCN SSC strategic planning process (IUCN SSC 2008). Cheetah and Wild Dog are combined in this process because of their similar low densities, large space needs and ecological requirements. This also increases leverage for conservation action by way of delivering impacts for two threatened species for the price of one. There are three regional strategies in place for Africa covering all of Cheetah range: Eastern Africa (IUCN SSC 2007a); Southern Africa (IUCN SSC 2007b); and Western, Central and Northern Africa (IUCN SSC 2012).<br/><br/>As well as providing a regional framework, these strategies also provide a framework for national conservation action planning. They are used within national conservation action planning workshops that allow broad regional commitments to be tailored to the specific policy and legislative environments within each range state. National conservation action plans are in place for most range states (dates of the planning workshop in brackets): Kenya (2007), Botswana (2007), Ethiopia (2010), South Sudan (2009), Zambia (2009), Zimbabwe (2009), South Africa (2009), Benin (2014), Niger (2012); Chad (2015); Tanzania (2013); Mozambique (2010); Namibia (2013). In addition, Cheetah are covered in Uganda’s Large Carnivore National Conservation Action Plan (2010). These 15 action plans cover all or part of 26 of the 27 known Cheetah subpopulations and 67% of known Cheetah range (the majority of remaining range is in Algeria). Each national conservation action plan is published by the range state wildlife authority and represents each state’s commitment to Cheetah (and Wild Dog) conservation.<br/><br/>The strategies and action plans provide a road map for reversing ongoing declines in Cheetah populations using a holistic approach that addresses both the proximate threats as well as the ultimate drivers of these threats (see Threats). While there are some differences between individual plans and strategies, they broadly all address objectives to improve national capacity for Cheetah conservation and management; raise awareness of and political commitment to cheetah conservation; promote human Cheetah coexistence; improve land use planning and reduce habitat fragmentation; improve policy and legislation; and address Cheetah conservation information needs. Local and national projects and NGOs are critical to this process, as well as governments, and the implementation of the plans and strategies is overseen by three regional co-ordinators. There are also a number of different projects and/or NGOs established across southern and eastern Africa that are either dedicated specifically to the conservation and research of Cheetah, or to the guild of large carnivores. Many of these projects carry out important site-based conservation activities that benefit Cheetah, and some also provide support for capacity development of national wildlife authorities. There are no long-term initiatives in northern, western or central Africa, but there are some new developments in this region.<br/><br/>In Iran, the Asiatic Cheetah is completely protected. The main protected areas for this species are Kavir National Park, Khar Touran National Park, Naybandan Wildlife Refuge, Bafgh Protected Area and Dar Anjir Wildlife Refuge (Hunter <em>et al. </em>2007c). The UNDP have established a program of work to support conservation of the Asiatic Cheetah, and a conservation planning workshop took place in 2008, leading to an action plan. In 2009, the Afghan Government placed Cheetah on the country’s Protected Species List, meaning all hunting and trading of this species within Afghanistan is now illegal, although it is thought to be extinct in the country.<br/><br/>The IUCN SSC Cat Specialist Group maintains a Cheetah Conservation Compendium with a reference library and detailed country information (<a href=\"http://www.catsg.org\">www.catsg.org</a>) which provides a useful resource for publications relating to all aspects of Cheetah ecology and conservation.",
+  "usetrade": "Historical capture and trade in live Cheetah has been reported as a key cause of their disappearance from much of their range in Asia. A recent resurgence in an illegal international trade in live Cheetah has been of sufficient global concern to gain the attention of CITES (CITES 2013). Live Cheetah are caught and traded illegally to the pet trade and they are also hunted for their skin. CITES allows a legal quota for “live specimens and trophy hunting” of Cheetah in Namibia, Zimbabwe and Botswana &#160;(CITES 1992). From 2002-2011, legal trade in wild Cheetah specimens averaged 153 per year (mainly hunting trophies from Namibia), and 88 for captive-bred live animals (mainly from South Africa) (Nowell 2014). Official records show that, on average, only three confiscations of illegally traded live Cheetahs are reported to CITES per year, however, this is an underestimate of the real trade (Nowell 2014). Most of these Cheetahs are destined for the pet trade market in the Gulf States. These consumer countries (Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and the UAE) are Party to CITES and prohibit wild Cheetah imports. Cheetah skins are also traded, often alongside leopard skins, within Africa and to Asia. As most Cheetah subpopulations are small, even a low level of illegal trade could be threatening wild populations.<br/><br/>East Africa is the region where illegal trade in live Cheetahs is likely to have the greatest negative impact on wild populations. Most countries in East Africa have registered their concerns about illegal trade in their national Cheetah conservation action plans. Trade in live Cheetahs has been ongoing for some time (for example, between 1998-2002, 39 Cheetah cubs smuggled primarily out of Somalia were confiscated by Customs authorities of the United Arab Emirates). Between 2011-13 over 40 Cheetah confiscations were reported, primarily in the semi-autonomous region of Somaliland, with many more observations and second-hand reports of illegal trade in cubs (Nowell 2014). A high mortality rate (70%) has been reported from the known outcomes of confiscations of cubs in Somaliland and Ethiopia. Although the exact origin of Cheetah in the trade is unclear, information from interdictions and interviews with traders suggests that the animals are opportunistically collected from ethnic Somali regions, including parts of Ethiopia and Kenya, and occasionally beyond.<br/><br/>The primary destination of live Cheetahs from this region are the Gulf States, and the primary means of transport is by boat out of the Somali regions, to the coast of Yemen, and then across Yemeni borders by vehicle (Nowell 2014). Dozens of news articles and hundreds of social media images and videos suggest that private ownership of Cheetahs (and other big cats) is popular throughout the Gulf region. However, many of these Cheetahs are likely to be kept in inappropriate conditions, and their survivorship is likely to be low. For instance, one study including 61 captive Cheetahs in the United Arab Emirates has shown that owners have little idea of a Cheetah dietary needs; diets of pure poultry were contributing to ‘Cheetah myelopathy’, i.e. ataxia, hind limb paralysis and paresis due to degenerative lesions in the spinal cord (Kaiser<em> et al. </em>2014).<br/><br/>Range states from North, West and Central Africa also consider illegal trade to be a significant threat. Although there are no known confiscations of Cheetahs (live or otherwise) from this region and few observations of illegal trade and possession (but see Djagoun <em>et al. </em>(2013)), it is likely that Cheetah get absorbed into a widespread illegal market for big cat skins used for traditional ceremonial purposes and médico-magiques. Throughout the region, fakes are abundant and are much more commonly observed than genuine big cat parts and items, which may be indicative of a demand for genuine products. In Sudan, traditional men’s shoes (markoob) made of spotted cat fur are sufficiently in demand as luxury items to be considered a threat to Cheetah populations in neighbouring countries (Nowell 2014).<br/><br/>Southern Africa is the only region where there is a legal trade in trophies under CITES Appendix I quota from Namibia, Zimbabwe and Botswana (CITES 1992). South Africa is the only Cheetah range state to have CITES registered commercial captive-breeding operations, and is the world’s largest legal exporter of live Cheetahs. Cheetah experts suspect that some less reputable facilities in South Africa may be illegally trading, nationally and internationally, in live-captured wild animals using the presence of a legal trade as a cover (Nowell 2014). Researchers have interviewed dozens of observers in recent years – primarily farmers and also conservation officials – who have reported illegal international movement of live-captured wild Cheetahs between Botswana, Namibia and South Africa.<br/><br/>In Iran there are occasional reports of capture of live Cheetah (Jowkar <em>et al</em>. 2008), however there is no evidence of any systematic trade in live cheetah or in Cheetah parts. Nonetheless, even a tiny trade could have an impact on this Critically Endangered subpopulation.",
+  "countries": [
+    {
+      "code": "AF",
+      "country": "Afghanistan",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "AO",
+      "country": "Angola",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BF",
+      "country": "Burkina Faso",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BI",
+      "country": "Burundi",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "BJ",
+      "country": "Benin",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BW",
+      "country": "Botswana",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CD",
+      "country": "Congo, The Democratic Republic of the",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "CF",
+      "country": "Central African Republic",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CI",
+      "country": "Côte d'Ivoire",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "CM",
+      "country": "Cameroon",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "DZ",
+      "country": "Algeria",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "EH",
+      "country": "Western Sahara",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "ER",
+      "country": "Eritrea",
+      "presence": "Possibly Extinct",
+      "origin": "Native",
+      "distribution_code": "Possibly Extinct"
+    },
+    {
+      "code": "ET",
+      "country": "Ethiopia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GH",
+      "country": "Ghana",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "GN",
+      "country": "Guinea",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "GW",
+      "country": "Guinea-Bissau",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "IL",
+      "country": "Israel",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "IN",
+      "country": "India",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "IQ",
+      "country": "Iraq",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "IR",
+      "country": "Iran, Islamic Republic of",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "JO",
+      "country": "Jordan",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "KE",
+      "country": "Kenya",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "KW",
+      "country": "Kuwait",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "KZ",
+      "country": "Kazakhstan",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "MA",
+      "country": "Morocco",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "ML",
+      "country": "Mali",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MR",
+      "country": "Mauritania",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "MW",
+      "country": "Malawi",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "MZ",
+      "country": "Mozambique",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NA",
+      "country": "Namibia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NE",
+      "country": "Niger",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NG",
+      "country": "Nigeria",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "PK",
+      "country": "Pakistan",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "RW",
+      "country": "Rwanda",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "SA",
+      "country": "Saudi Arabia",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "SL",
+      "country": "Sierra Leone",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "SN",
+      "country": "Senegal",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "SS",
+      "country": "South Sudan",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SY",
+      "country": "Syrian Arab Republic",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "SZ",
+      "country": "Eswatini",
+      "presence": "Extant",
+      "origin": "Reintroduced",
+      "distribution_code": "Reintroduced"
+    },
+    {
+      "code": "TD",
+      "country": "Chad",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "TJ",
+      "country": "Tajikistan",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "TM",
+      "country": "Turkmenistan",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "TN",
+      "country": "Tunisia",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "TZ",
+      "country": "Tanzania, United Republic of",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "UG",
+      "country": "Uganda",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "UZ",
+      "country": "Uzbekistan",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "ZA",
+      "country": "South Africa",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ZM",
+      "country": "Zambia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ZW",
+      "country": "Zimbabwe",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2015",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "2008",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "2002",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1996",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1994",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1990",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1988",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1986",
+      "code": "V",
+      "category": "Vulnerable"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "2.1",
+      "habitat": "Savanna - Dry",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "3.5",
+      "habitat": "Shrubland - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "4.4",
+      "habitat": "Grassland - Temperate",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "4.5",
+      "habitat": "Grassland - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "8.1",
+      "habitat": "Desert - Hot",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "8.2",
+      "habitat": "Desert - Temperate",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    }
+  ]
+}

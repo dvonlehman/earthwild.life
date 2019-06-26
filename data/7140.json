@@ -1,0 +1,362 @@
+{
+  "taxonid": 7140,
+  "scientific_name": "Elephas maximus",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PROBOSCIDEA",
+  "family": "ELEPHANTIDAE",
+  "genus": "Elephas",
+  "main_common_name": "Asian Elephant",
+  "authority": "Linnaeus, 1758",
+  "published_year": 2008,
+  "assessment_date": "2008-06-30",
+  "category": "EN",
+  "criteria": "A2c",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Choudhury, A., Lahiri Choudhury, D.K., Desai, A., Duckworth, J.W., Easa, P.S., Johnsingh, A.J.T.,  Fernando, P., Hedges, S., Gunawardena, M., Kurt, F., Karanth, U., Lister, A., Menon, V., Riddle, H., Rübel, A. & Wikramanayake, E. (IUCN SSC Asian Elephant Specialist Group)",
+  "reviewer": "Hedges, S. & Desai, A. (Asian Elephant Red List Authority)",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 3000,
+  "elevation_lower": 0,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": null,
+  "errata_reason": null,
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 7140,
+  "taxonomicnotes": "While subspecies taxonomy of <em>Elephas maximus</em> has varied among authors, the most recent treatment (Shoshani and Eisenberg 1982) recognizes three subspecies: <em>E. m. indicus</em> on the Asian mainland, <em>E. m. maximus</em> on Sri Lanka, and <em>E. m. sumatranus</em> on the Indonesian island of Sumatra. Borneo's elephants have traditionally been included in <em>E. m. indicus</em> (Shoshani and Eisenberg 1982) or <em>E. m. sumatranus</em> (Medway 1977; but see Fernando <em>et al</em>. 2003 and Cranbrook <em>et al</em>. 2008 for discussion of whether the elephants of Borneo are indigenous to the island). These subspecies designations were based primarily on body size and minor differences in coloration, plus the fact that <em>E. m. sumatranus</em> has relatively larger ears and an extra pair of ribs (Shoshani and Eisenberg 1982). The Sri Lankan subspecies designation is weakly supported by analysis of allozyme loci (Nozawa and Shotake 1990), but not by analysis of mitochondrial DNA (mtDNA) sequences (Hartl <em>et al</em>. 1996, Fernando <em>et al</em>. 2000, Fleischer <em>et al</em>. 2001). However, current patterns of mtDNA variation suggest that the Sumatran subspecies is monophyletic (Fleischer <em>et al</em>. 2001), and consequently this taxon could be defined as an evolutionarily significant unit (ESU). This suggests that Sumatran elephants should be managed separately from other Asian elephants in captivity, and is also an argument for according particularly high priority to the conservation of Sumatran elephants in the wild. The status of evolutionarily significant unit has also been suggested for the Bornean elephants (Fernando <em>et al</em>. 2003). Two other proposed subspecies <em>E. m. asurus</em> and <em>E. m. rubridens</em> are extinct. A definitive subspecific classification awaits a detailed range-wide morphometric and genetic study.",
+  "rationale": "Listed as Endangered (EN) because of a population size reduction inferred to be at least 50% over the last three generations, based on a reduction in its area of occupancy and the quality of its habitat. Although there are few accurate data on historical population size, from what is known about trends in habitat loss/degradation and other threats including poaching, an overall population decline of at least 50% over the last three generations (estimated to be 60–75 years, based on a generation time estimated to be 20–25 years) seems realistic.",
+  "geographicrange": "Asian elephants formerly ranged from West Asia along the Iranian coast into the Indian subcontinent, eastwards into South-east Asia including Sumatra, Java, and Borneo, and into China at least as far as the Yangtze-Kiang. This former range covered over 9 million km² (Sukumar 2003). Asian elephants are now extinct in West Asia, Java, and most of China The western populations (<em>Elephas maximus asurus</em>) were probably extinct by 100 BC, and the main Chinese populations (sometimes referred to as <em>E. m. rubridens</em>) disappeared sometime after the 14th century BC. Even within its surviving range in South and South-east Asia, the species has been in retreat for hundreds if not thousands of years, and generally survives only in highly fragmented populations (Olivier 1978; Sukumar 2003; Blake and Hedges 2004).<br/><br/>Asian elephants still occur in isolated populations in 13 states, with a very approximate total range area of 486,800 km² (Sukumar 2003; but see Blake and Hedges 2004). The species occurs in Bangladesh, Bhutan, India, Nepal, and Sri Lanka in South Asia and Cambodia, China, Indonesia (Kalimantan and Sumatra) Lao PDR, Malaysia (Peninsular Malaysia and Sabah), Myanmar, Thailand, and Viet Nam in South-east Asia. Feral populations occur on some of the Andaman Islands (India).<br/><br/>The elephants of Borneo were believed to be feral descendants of elephants introduced in the 14th–19th centuries (Shoshani and Eisenberg, 1982; Cranbrook <em>et al</em>., 2008); however, recent genetic evidence suggests they are indigenous to the island (Fernando <em>et al</em>., 2003; but see Cranbrook <em>et al</em>., 2008). <br/><br/>The species was once found throughout Sri Lanka, but today elephants are restricted mostly to the lowlands in the dry zone where they are still fairly widespread in north, south, east, north-western, north-central and south-eastern Sri Lanka; but with the exceptions of small remnant populations in the Peak Wilderness Area and Sinharaja Area, elephants are absent from the wet zone of the country. The species continues to lose range to development activities throughout the island. <br/><br/>Once widespread in India, the species is now restricted to four general areas: northeastern India, central India, northwestern India, and southern India. In northeastern India, the elephant range extends from the eastern border of Nepal in northern West Bengal through western Assam along the Himalaya foothills as far as the Mishmi Hills. From here it extends into eastern Arunachal Pradesh, the plains of upper Assam, and the foothills of Nagaland. Further west, it extends to the Garo Hills of Meghalaya through the Khasi Hills, to parts of the lower Brahmaputra plains and Karbi Plateau. Elsewhere in the south in Tripura, Mizoram, Manipur, and the Barak valley districts of Assam, isolated herds occur (Choudhury, 1999). In central India, highly fragmented elephant populations are found in the States of Orissa, Jharkhand, and the southern part of West Bengal, with some animals wandering into Chattisgarh. In north-western India, the species occurs in six fragmented populations at the foot of the Himalayas in Uttaranchal and Uttar Pradesh, ranging from Katerniaghat Wildlife Sanctuary in Bahraich Forest Division in the east, to the Yamuna River in the west. In southern India, elephants occur in the hilly terrain of the Western Ghats and in parts of the Eastern Ghats in the states of Karnataka, Kerala, Tamil Nadu, and, relatively recently, Andhra Pradesh. There are eight main populations in southern India, each fragmented from the others: northern Karnataka; the crestline of Karnataka–Western Ghats; Bhadra–Malnad; Brahmagiri–Nilgiris–Eastern Ghats; Nilambur–Silent Valley–Coimbatore; Anamalais–Parambikulam; Periyar–Srivilliputhur; and Agasthyamalais.<br/><br/>In Nepal, elephants were once widespread in the lowland Terai, but are now restricted to a few protected areas along the border with India: Royal Chitwan National Park, Parsa Wildlife Reserve, Royal Bardia National Park, and Royal Suklaphanta Wildlife Reserve, and their environs. There is some movement of animals between these protected areas and between Bardia National Park and the adjacent parts of India.<br/><br/>In Bhutan, all the existing elephant populations are found along the border with India. They are reported from Royal Manas National Park, Namgyal Wangchuk Wildlife Sanctuary, Phipsoo Wildlife Sanctuary, and the Reserve Forests such as Khaling Wildlife Sanctuary, Dungsum, and Mochu. In the past, elephants made seasonal migrations from Bhutan to the grasslands of India during the wetter summer months of May to October, returning to their winter range in Bhutan from November. Now these movements are restricted as a result of loss of habitat on the Indian side and fragmentation of habitat on the Bhutan side. <br/><br/>In Bangladesh, the species was once widespread, but today it is largely restricted to areas that are relatively less accessible to humans, mainly Chittagong and the Chittagong Hill Tracts in the southeast. In addition, some animals periodically visit the New Samanbag area of Maulvi Bazar District under the Sylhet Forest Division in the north-east of the country, coming from the neighbouring Indian states of Tripura, Meghalaya, and Assam.<br/><br/>The Asian elephant has a wide, but highly fragmented, distribution in Myanmar. The five main areas of elephant abundance are: the Northern Hill Ranges, the Western Hill Ranges, Pegu Yoma (central Myanmar), Tenasserim Yoma (in the south, bordering Thailand), and Shan State or eastern Yoma.<br/><br/>In Thailand, the species occurs mainly in the mountains along the border with Myanmar, with smaller fragmented populations occurring in the peninsula in the south (in several forest complexes, south to the border with Malaysia); in the northeast (in the Dong Phaya Yen-Khao Yai forest complex, including Khao Yai National Park, and the Phu Khieo-Nam Nao forest complex); and in the east (in a forest complex composing the Khao Ang Runai Wildlife Sanctuary, Khao Soi Dao Wildlife Sanctuary, Khao Khitchakut National Park, and Khao Cha Mao National Park).<br/><br/>In Cambodia, elephants are primarily found in the mountains of the south-west and in Mondulkiri and Ratanakiri Provinces. Recent surveys in Keo Sema District (Mondulkiri Province) suggest that important numbers may remain in that area (WCS unpubl. data). Elsewhere, Asian elephants persist in Cambodia in only small, scattered populations (Duckworth and Hedges, 1998).<br/><br/>In the Lao People’s Democratic Republic, elephants remain widely but very patchily distributed in forested areas, both in the highlands and lowlands. Two important and likely viable populations are known, one in Xaignaboli Province west of the Mekong and one on the Nakai Plateau. Other potentially important elephant populations occur in Phou Phanang and Phou Khao Khoay in Vientiane Province; Phou Xang He in Savannakhet Province; Dong Ampham and Dong Khanthung, including Xe Pian, close to Cambodian border; and Nam Et, Nam Xam, Phou Dendin, and Nam Ha in the north, close to the Viet Namese and Chinese borders.<br/><br/>In Viet Nam, only a small population persists now. In the northern part of the country there are no elephants left, barring occasional wanderers into Son La from Lao PDR. In the central and southern parts of the country, very small isolated populations remain in Dak Lak, Nghe An, Quang Nam, Dong Nai, and Ha Tinh Provinces. <br/><br/>In China, Asian elephants once ranged widely over much of southern China, including the Fujiang, Guangdong, and Guangxi Provinces (Smith and MacKinnon, in press). The species was extirpated in southern Fujiang and northern Guangdong during the 12th century, but evidence indicates persistence in Guanxi into the 17th century (Smith and MacKinnon, in press). All that now remains of this once widespread elephant population in China is the remnant in Yunnan where the species survives in three prefectures: Xishuangbanna, Simao, and Lincang.<br/><br/>In Peninsular Malaysia, the species is still widely distributed in the interior of the country in the following States: Pahang (which probably has the largest population), Perak, Johor, Kelantan, Terengganu, Kedah, and Negeri Sembilan (where very few animals remain).<br/><br/>On Borneo, elephants only occur in the lowlands of the northeastern part of the island in the Malaysian State of Sabah and adjacent parts of Kalimantan (Indonesia). In Sabah, they occur in forested areas in the south, centre, and east of the State in the following Districts: Kinabatangan, Sandakan, Beluran, Lahad Datu, Tawau, and Pensiangan. In Kalimantan, elephants occur only in the Upper Sembakung River in Tindung District. The origin of the elephants of Borneo remains unclear and the subject of debate. Due to the limited distribution of the island’s elephant population it is argued by some that the species was not indigenous, but descended from imported captive elephants (Medway 1977; Cranbrook <em>et al</em>., 2008). However, others argues that while captive elephants have undoubtedly been brought to Borneo, genetic analyses have shown that the elephants found on Borneo are genetically distinct, with molecular divergence indicating a Pleistocene colonization and subsequent isolation (Fernando <em>et al</em>., 2003)<br/><br/>On Sumatra (in Indonesia), the elephant was once widespread, but now survives only in highly fragmented populations. In the mid-1980s, 44 discrete elephant populations were known to exist in Sumatra’s eight provinces, 12 of these were in Lampung Province (Blouch and Haryanto, 1984; Blouch and Simbolon, 1985). However, by 2003, only three of Lampung’s 12 populations were extant (Hedges <em>et al</em>., 2005). An unknown number of Sumatra’s other elephant populations remain (Blake and Hedges, 2004), and those that do are threatened by habitat loss, poaching, and as a result of conflict with humans (Santiapillai and Jackson, 1990; Hedges <em>et al</em>., 2005). Nevertheless, the island is thought to hold some of the most significant populations outside of India. For example, recent surveys in Lampung Province’s two national parks, Bukit Barisan Selatan and Way Kambas, produced population estimates of 498 (95% CI=[373, 666]) and 180 (95% CI=[144, 225]) elephants, respectively (Hedges <em>et al</em>., 2005). Bukit Barisan Selatan NP is therefore a critically important area for Asian elephant conservation. The challenge now is to protect these populations from further habitat loss and poaching.",
+  "population": "A recent estimate for the global population size of the Asian elephant was 41,410–52,345 animals Sukumar (2003) The estimated population size for each country was: Bangladesh 150–250; Bhutan 250–500; Cambodia 250–600; China 200–250; India 26,390–30,770; Indonesia 2,400–3,400; Lao PDR 500–1,000; Malaysia 2,100–3,100; Myanmar 4,000–5,000; Nepal 100–125; Sri Lanka 2,500–4,000; Thailand 2,500–3,200; and Viet Nam 70–150 (Sukumar, 2003) . However, Blake and Hedges (2004) and Hedges (2006) argue that the oft-repeated global population ‘estimate’ of about 40,000 to 50,000 Asian elephants is no more than a crude guess, which has been accepted unchanged for a quarter of a century. They argue that with very few exceptions all we really know about the status of Asian elephants is the location of some (probably most) populations, with in some cases a crude idea of relative abundance; and for some large parts of the species range we do not even know where the populations are, or indeed if they are still extant. These difference of opinion are due in part to the difficulty in counting elephants in dense vegetation in difficult terrain, different survey techniques being used in different places, and a too-widely held belief that population monitoring is unimportant. Nevertheless, whatever the error margins, it appears almost certain that over 50% of the remaining wild Asian elephants occur in India. <br/><br/>The overall population trend of the Asian elephant has been downwards, probably for centuries. This remains the case in most parts of its range, but especially in most of the countries of South-east Asia. Within India, there is evidence that the large population in the Western Ghats in south of the country has been increasing in recent years due to improved conservation effectiveness.",
+  "populationtrend": "decreasing",
+  "habitat": "Asian elephants are generalists and they occur in grassland, tropical evergreen forest, semi-evergreen forest, moist deciduous forest, dry deciduous forested and dry thorn forest, in addition to cultivated and secondary forests and scrublands. Over this range of habitat types elephants are seen from sea level to over 3,000 m asl. In the Eastern Himalaya in northeast India, they regularly move up above 3,000 m asl in summer at a few sites (Choudhury, 1999). The Asian elephant is one of the last few mega-herbivores (i.e. plant-eating mammals that reach an adult body weight in excess of 1,000 kg) still extant on earth (Owen-Smith, 1988). Given their physiology and energy requirements, elephants need to consume large quantities of food per day. They are generalists and browse and graze on a variety of plants. The proportions of the different plant types in their diet vary depending upon the habitat and season. During dry season in southern India, Sukumar (1992) observed that 70% of the elephant's diet was browse, while in wet season, grasses make up about 55%. However, in an adjoining area, Baskaran (2002) observed that browse formed only 15% of the diet in dry deciduous forest and 47% of the diet in the thorn forest in the dry season, while the annual diet was dominated by grass (84%). In Sri Lanka, elephants may feed on more than 60 species of plants belonging to 30 families (McKay, 1973). In southern India, Baskaran (2002) recorded that elephants fed on 82 species of plants (59 woody plant species and 23 grass species). Elephants may spend up to 14–19 hrs a day feeding, during which they may consume up to 150 kg of wet weight (Vancuylenberg, 1977). They defecate about 16–18 times a day, producing about 100 kg of dung. Dung also helps disperse germinating seeds. <br/><br/>Elephants range over large areas and home ranges in excess of 600 km² have been recorded for females in south India (Baskaran <em>et al</em>., 1995). In north India, female home ranges of 184–326 km² and male home ranges of 188–407 km² have been recorded (Williams, 2002). Smaller home range sizes, 30–160 km² for females and 53–345 km² for males, have been recorded in Sri Lanka (Fernando <em>et al</em>., 2005). Given their requirements for large areas, elephants are regarded as an “umbrella species” because their conservation will also protect a large number of other species occupying the same area. They are also a premier “flagship species” and are sometimes regarded as a “keystone species” because of their important ecological role and impact on the environment.<br/><br/>The life span of Asian elephants is 60 to 70 years, and males reach sexual maturity at between 10–15 years of age; females usually first give birth in years 15 or 16 (Shoshani and Eisenberg, 1982).",
+  "threats": [
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.2",
+      "title": "Wood & pulp plantations",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.2.2",
+      "title": "Agro-industry plantations",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3",
+      "title": "Livestock farming & ranching",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3.2",
+      "title": "Small-holder grazing, ranching or farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3.5",
+      "title": "Motivation Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "This species is listed on CITES Appendix I. The most important conservation priorities for the Asian elephant are: 1) conservation of the elephant's habitat and maintaining habitat connectivity by securing corridors; 2) the management of human–elephant conflicts as part of an integrated land-use policy that recognizes elephants as economic assets from which local people need to benefit or at least no suffer; 3) better protection to the species through improved legislation and law enforcement, improved and enhanced field patrolling, and regulating/curbing trade in ivory and other elephant products. Monitoring of conservation interventions is also needed to assess the success or failure of the interventions so that adjustments can be made as necessary (i.e. adaptive management). Reliable estimation of population size and trends will be needed as part of this monitoring and adaptive management approach.",
+  "usetrade": "The Asian elephant is hunted for ivory, food, leather and other products. Live animals are also removed from the wild and used in forestry operations and for ceremonial purposes.",
+  "countries": [
+    {
+      "code": "BD",
+      "country": "Bangladesh",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BT",
+      "country": "Bhutan",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CN",
+      "country": "China",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ID",
+      "country": "Indonesia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "IN",
+      "country": "India",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "KH",
+      "country": "Cambodia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "LA",
+      "country": "Lao People's Democratic Republic",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "LK",
+      "country": "Sri Lanka",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MM",
+      "country": "Myanmar",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MY",
+      "country": "Malaysia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NP",
+      "country": "Nepal",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "PK",
+      "country": "Pakistan",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "TH",
+      "country": "Thailand",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "VN",
+      "country": "Viet Nam",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2008",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1996",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1994",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1990",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1988",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1986",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1965",
+      "code": null,
+      "category": "\"Very rare but believed to be stable or increasing\""
+    }
+  ],
+  "habitats": [
+    {
+      "code": "14.3",
+      "habitat": "Artificial/Terrestrial - Plantations",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "14.6",
+      "habitat": "Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "1.5",
+      "habitat": "Forest - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "3.5",
+      "habitat": "Shrubland - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "3.6",
+      "habitat": "Shrubland - Subtropical/Tropical Moist",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "4.5",
+      "habitat": "Grassland - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "4.6",
+      "habitat": "Grassland - Subtropical/Tropical Seasonally Wet/Flooded",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    }
+  ]
+}

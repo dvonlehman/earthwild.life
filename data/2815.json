@@ -1,0 +1,429 @@
+{
+  "taxonid": 2815,
+  "scientific_name": "Bison bison",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "CETARTIODACTYLA",
+  "family": "BOVIDAE",
+  "genus": "Bison",
+  "main_common_name": "American Bison",
+  "authority": "(Linnaeus, 1758)",
+  "published_year": 2017,
+  "assessment_date": "2016-09-01",
+  "category": "NT",
+  "criteria": null,
+  "population_trend": "Stable",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Aune, K., Gates, C., Jørgensen, D.",
+  "reviewer": "Schipper, J.",
+  "aoo_km2": "143253",
+  "eoo_km2": null,
+  "elevation_upper": 2750,
+  "elevation_lower": 180,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": true,
+  "errata_reason": "The original version of this assessment was published with an older version of the distribution map. This errata assessment uses the updated distribution map.",
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 2815,
+  "taxonomicnotes": "There are two recognized subspecies in North America: <em>Bison bison bison</em> and <em>B. b. athabascae</em>.",
+  "rationale": "<p><span lang=\"EN-US\">This species is listed as Near Threatened in light of its dependence on ongoing conservation program to persist beyond the next 5 years, a very limited number of viable populations (five), and large number of small (13 of 20 less than 400) isolated populations. The North America bison population underwent a drastic decline in the 19th century caused by over hunting but has since partially recovered. There has been a modest increases in the number of conservation herds and individuals in populations managed for species conservation and ecological restoration, however, all mature individuals occur within active management programs which if ceased would result in the species qualifying for a threatened status. About 97% of the continental population is managed for private captive commercial propagation; very few of these herds are managed primarily for species conservation and none is managed in the public interest for conservation. Herds managed for conservation purposes in the public interest are typically small (&lt;400), and populations are widely dispersed with few geographic situations that provide conditions for natural movements between subpopulations. The total number of mature individuals in wild free-ranging and semi-free-ranging populations is estimated to be approximately 11,248-13,123 and only 4 subpopulations have more than 1,000 individuals, thus making this species nearly qualify for Vulnerable C2a(i). The species is not currently in decline but wild mature individuals could be greatly reduced if current management regimes are changed or removed. This is a conservation dependant species.<br/> <br/> The current number of ecologically restored large populations managed primarily for conservation (populations exceeding 1,000 and managed in the presence of most natural limiting factors) is small. The species is most limited in Mexico, where only one herd may remain in the wild; it is subject to adverse policies when individuals move across the international border into the United States where they are classified as livestock. Creation of opportunities for a few additional, large-scale ecological restoration projects is dependent on cooperation between government agencies and non-government organizations. Future progress in conservation and recovery of the North American bison will depend on significant changes in its legal status and management as wildlife by federal and state/provincial agencies, harmonization of policies and activities among agencies at multiple levels, cooperation with environmental organizations, and public tolerance and support of wild, free-ranging bison managed as wildife on limited, large-scale landscapes. Cooperation and coordination are particularly important where different agencies or organizations have separate management jurisdiction for adjacent land areas within an ecosystem unit in which ecological restoration of bison is possible.</p><p>  </p><p><span lang=\"EN-US\">The likelihood of wild bison increasing over the next five years is entirely dependent upon conservation interventions.&#160;Currently six of the 20 wild herds representing 11,956 animals (63.7%) are anchored by National Parks, Refuges or Sanctuaries. Without these large protected landscapes bison would not likely survive and the future survival of American bison would be in serious jeopardy. Beyond these 6 herds in protected areas the remaining 14 wild herds are dependent upon conservation actions and management decisions by conservation programs of States, Tribes and Provinces who regulate the populations to assure sustainability of these herds.&#160;None of the 20 wild bison herds would persist without the management prescriptions and subsequent actions of the managing authorities.&#160;Wood bison are currently protected under the Species at Risk Act and are managed under a National Recovery Strategy.&#160;Hence, wild bison (wood or plains) are totally dependent upon conservation actions and protected lands.&#160;American Bison would not persist without those intensive conservation measures.</span></p>",
+  "geographicrange": "<p><span lang=\"EN-US\">The original North American range <span lang=\"EN-US\"><span lang=\"EN-US\">for <em>Bison bison</em> extended from northern Mexico to Alaska. Plains Bison (<em>B. b. bison</em>) occurred from Northern Mexico to central Alberta, Canada. Wood Bison (<em>B. b. athabascae</em>) occurred from central Alberta, Canada to Alaska, USA. The species' current range is restricted by land use and wildlife management policies in the southern area and by wildlife and reportable disease management policies in the northern portion of the North American range. Bison functioning as wild currently occupy less than 1.2% of their original range (Sanderson <span lang=\"EN-US\"><em>et al.</em><span lang=\"EN-US\"><em> </em>2008, this report).</span></span></p>",
+  "population": "There are approximately 31,000 total bison in 68 conservation herds (herds managed in the public interest by governments and environmental organizations) in North America. These include about 20,000 Plains Bison and 11,000 total Wood Bison. For this assessment we applied a rigorous set of criteria to classify herds as functioning as wild, functioning as wild with limitations and not functioning as wild. We excluded from this assessment 30 of 68 conservation bison herds that are very small (&lt;300) and managed on small landscapes (&lt;10,000 acres) for education, public viewing and research. Based on our criteria these bison cannot function as wild bison under current management schemes. We also did not include 9,523 bison in 18 herds managed behind fences and held in captivity, although these are important conservation herds. These herds are considered captive, intensively husbanded and culled by artificial selection.<br/><br/>There are 14,703 bison in eight herds that are in populations &gt;400 and function as wild bison subject to the full range of natural selections forces. Another 4,044 wild bison are found in 12 herds that free-range but suffer from small populations size (&lt;400) and may experience limited predation from large carnivores. For this assessment we considered the wild bison population to be 18,748 bison from these 20 free-ranging herds occupying large landscapes and primarily subjected to the forces of natural selection. We conducted Population Viability Analyses (PVA) for the eight largest herds to determine both the demographic and genetic viability of each population and their viability if they were managed as a meta-population out to 200 years (see the attached PVA report).<br/><br/>The number of calves and yearlings in a bison population will vary considerably between populations and years (Brodie <em>et al</em>. 2008). Therefore It is difficult to establish the exact number of mature individuals in each of 20 bison herds but demographic data from many show that 30-40% are individuals under 2 years of age. We estimated that there are between 11,248 and 13,123 mature bison in the current populations of wild free-ranging bison in North America.<br/><br/>Populations are considered viable in the long term if they exceed 1,000 individuals (Gates <em>et al</em>. 2010). There are two Plains Bison conservation herds and two Wood Bison conservation herds each exceeding 1,000 individuals—therefore according to this criteria the total number of viable populations is only four. However, a specific population viability analysis was performed on the eight bison herds functioning as wild and results demonstrate that all are demographically viable but all but the two largest herds will lose 5-8% of their genetic diversity over the next 200 years (see the PVA report in the Supplementary Material).",
+  "populationtrend": "stable",
+  "habitat": "<p><span lang=\"EN-US\">North American bison are primarily grazers and forage primarily in grassland and meadow vegetative communities. They had the widest natural range of any North American herbivore, from the arid grasslands of Chihuahua State in northern Mexico, through the grasslands of the Great Plains of the United States and Canada, to the riparian meadows of interior Alaska. They can persist in arid regions (e.g. Mexico and New Mexico) and in areas experiencing deep snow cover (e.g., Yellowstone National Park). Grasses and sedges form the mainstay of the annual diet in all regions. However, summer and fall diets may be broader, including flowering plants, woody plant leaves, and lichens, in addition to grasses and sedges, depending on local availability. Bison excavate snow at foraging sites by sweeping it away using side to side motions of their muzzle. The plains bison undertook seasonal migrations when they were abundant prior to European settlement of the continent. Bison no longer migrate owing to land use change contributing to range restriction and depopulation. The Wood Bison was not migratory and remains so. Both subspecies exhibit strong seasonal aggregation during the calving through breeding seasons (May through August).</p>",
+  "threats": [
+    {
+      "code": "11.4",
+      "title": "Storms & flooding",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3",
+      "title": "Livestock farming & ranching",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3.1",
+      "title": "Nomadic grazing",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3.2",
+      "title": "Small-holder grazing, ranching or farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "4.1",
+      "title": "Roads & railroads",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Past, Unlikely to Return",
+      "scope": null,
+      "severity": null,
+      "score": "Past Impact",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Past, Unlikely to Return",
+      "scope": null,
+      "severity": null,
+      "score": "Past Impact",
+      "invasive": null
+    },
+    {
+      "code": "5.1.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Past, Unlikely to Return",
+      "scope": null,
+      "severity": null,
+      "score": "Past Impact",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.3",
+      "title": "Other ecosystem modifications",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "8.1",
+      "title": "Invasive non-native/alien species/diseases",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "8.1.1",
+      "title": "Unspecified species",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "8.2",
+      "title": "Problematic native species/diseases",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "<p><span lang=\"EN-US\">A recovery program for wood bison has existed in Canada since the early 1960s where the subspecies was designated as 'Threatened' by the Committee on Endangered Species of Wildlife in Canada (COSEWIC). In May 2004 COSEWIC assessed the status of plains bison and recommended listing them as 'Threatened' in Canada. National Refuges and Parks and State parks play an important role in maintaining conservation herds in Canada and the United States. Wild free-ranging herds are managed by government agencies. The Nature Conservancy manages 13 captive herds and the American Prairie Reserve manages one fenced bison herd primarily for conservation objectives. Restoration of large populations of plains bison are being considered in Alberta, southern Colorado, Arizona and northern Montana. The State of Alaska recently reintroduced wood bison to the wild in the Yukon region. Better coordination among various federal initiatives for plains bison conservation is being accomplished by a designated Department of Interior Bison Working Group commissioned by secretarial order in 2008. A Plains Bison reintroduction is scheduled for Banff National Park in spring 2017.<br/> <br/> The Bison Specialist Group (North America) produced a bison conservation assessment and action plan that provides support and guidance for policy development and conservation planning and management for public and private sector projects, including: numeric, geographic and genetic status of North American bison, including public and private herds; a review of legislation and policies of individual range states regarding bison conservation; geographic assessment of priority conservation areas in North America (Gates <em>et al</em>. 2010); enhancing the capacity of members of the Bison Specialist Group and organizations they represent to provide timely, innovative and practical solutions to conservation challenges; guidelines for management in support of species’ conservation and ecological restoration. </p>  <p><span lang=\"EN-US\">There are potential opportunities for ecological restoration of herds managed primarily for conservation on federal, state, provincial lands in some jurisdictions (Sanderson <span lang=\"EN-US\"><em>et al.</em><span lang=\"EN-US\"> 2008, Freese <em>et al.</em> 2007). Recently the U.S. Department of Interior published a document titled “looking forward” where they enumerated potential restoration sites in the United States (National Park Service 2014a). In addition the U.S. National Park Service has identified bison restoration as a key activity in their plan for the next 100 years. Badlands National Park is undertaking a bison range expansion within the parks boundaries that will permit increasing the population management target from 800 bison to &gt;1,000 bison.</span></span></p>  <p><span lang=\"EN-US\">There may also be opportunities for establishing herds on Native-owned lands that are managed for combined conservation and socio-economic purposes. A Buffalo Treaty that calls for bison restoration was recently signed among 15 indigenous tribes/first nations in Montana and Alberta. The American Indian tribes &#160;govern over 84 million acres in the western United States.&#160;In Montana the Blackfeet Nation is embarking upon a restoration project for plains bison (titled the Iinnii Initiative) in partnership with Glacier and Waterton National Parks in Montana and Alberta. The Assiniboine and Sioux Tribes of Fort Peck Reservation, Montana, also seek to host an operational quarantine facility that will provide an ongoing source of disease free culled Yellowstone bison for the purposes of conservation and cultural restoration throughout the United States. However, there are significant cultural, social and economic challenges in integrating western science-based approaches conservation to tribal communities.<br/> <br/> <em>Bison bison athabascae</em> is listed in CITES Appendix II.</p>",
+  "usetrade": "<p>Approximately 300,000 bison are commercially propagated on 4,000 farms and ranches in North America (based on data from 2014). Conservation practices vary widely among private owners and are not regulated. Escapes from private commercial herds have been documented in Montana, Alberta, and British Columbia. Artificial selection for market traits is a cause for concern: escaped individuals may become established in the wild or interbreed with established wild populations.</p>",
+  "countries": [
+    {
+      "code": "CA",
+      "country": "Canada",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MX",
+      "country": "Mexico",
+      "presence": "Extant",
+      "origin": "Reintroduced",
+      "distribution_code": "Reintroduced"
+    },
+    {
+      "code": "US",
+      "country": "United States",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2017",
+      "code": "NT",
+      "category": "Near Threatened"
+    },
+    {
+      "year": "2008",
+      "code": "NT",
+      "category": "Near Threatened"
+    },
+    {
+      "year": "1996",
+      "code": "LR/cd",
+      "category": "Lower Risk/conservation dependent"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.1",
+      "habitat": "Forest - Boreal",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "1.4",
+      "habitat": "Forest - Temperate",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "14.1",
+      "habitat": "Artificial/Terrestrial - Arable Land",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "14.2",
+      "habitat": "Artificial/Terrestrial - Pastureland",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "1.5",
+      "habitat": "Forest - Subtropical/Tropical Dry",
+      "suitability": "Unknown",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "15.7",
+      "habitat": "Artificial/Aquatic - Irrigated Land (includes irrigation channels)",
+      "suitability": "Unknown",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "15.8",
+      "habitat": "Artificial/Aquatic - Seasonally Flooded Agricultural Land",
+      "suitability": "Unknown",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "15.9",
+      "habitat": "Artificial/Aquatic - Canals and Drainage Channels, Ditches",
+      "suitability": "Unknown",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "2.1",
+      "habitat": "Savanna - Dry",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "2.2",
+      "habitat": "Savanna - Moist",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.1",
+      "habitat": "Shrubland - Subarctic",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.3",
+      "habitat": "Shrubland - Boreal",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.4",
+      "habitat": "Shrubland - Temperate",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.5",
+      "habitat": "Shrubland - Subtropical/Tropical Dry",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.8",
+      "habitat": "Shrubland - Mediterranean-type Shrubby Vegetation",
+      "suitability": "Unknown",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "4.1",
+      "habitat": "Grassland - Tundra",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "4.2",
+      "habitat": "Grassland - Subarctic",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "4.4",
+      "habitat": "Grassland - Temperate",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "4.5",
+      "habitat": "Grassland - Subtropical/Tropical Dry",
+      "suitability": "Unknown",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "4.6",
+      "habitat": "Grassland - Subtropical/Tropical Seasonally Wet/Flooded",
+      "suitability": "Unknown",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "5.12",
+      "habitat": "Wetlands (inland) - Geothermal Wetlands",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "5.13",
+      "habitat": "Wetlands (inland) - Permanent Inland Deltas",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "5.15",
+      "habitat": "Wetlands (inland) - Seasonal/Intermittent Saline, Brackish or Alkaline Lakes and Flats",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "5.3",
+      "habitat": "Wetlands (inland) - Shrub Dominated Wetlands",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "8.2",
+      "habitat": "Desert - Temperate",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "8.3",
+      "habitat": "Desert - Cold",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    }
+  ]
+}

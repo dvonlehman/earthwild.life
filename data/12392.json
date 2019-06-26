@@ -1,0 +1,842 @@
+{
+  "taxonid": 12392,
+  "scientific_name": "Loxodonta africana",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PROBOSCIDEA",
+  "family": "ELEPHANTIDAE",
+  "genus": "Loxodonta",
+  "main_common_name": "African Elephant",
+  "authority": "(Blumenbach, 1797)",
+  "published_year": 2008,
+  "assessment_date": "2008-06-30",
+  "category": "VU",
+  "criteria": "A2a",
+  "population_trend": "Increasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Blanc, J.",
+  "reviewer": "Balfour, D., Craig, C., Dublin, H.T. & Thouless, C.",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": null,
+  "elevation_lower": null,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": null,
+  "errata_reason": null,
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 12392,
+  "taxonomicnotes": "Preliminary genetic evidence suggests that there may be at least two species of African elephants, namely the Savanna Elephant (<span style=\"font-style: italic;\">Loxodonta africana</span>) and the Forest Elephant (<span style=\"font-style: italic;\">Loxodonta cyclotis</span>). A third species, the West African Elephant, has also been postulated. The African Elephant Specialist Group believes that more extensive research is required to support the proposed re-classification. Premature allocation into more than one species may leave hybrids in an uncertain conservation status (IUCN SSC African Elephant Specialist Group 2003). For this reason, this assessment was conducted for the single species as currently described, encompassing all populations.",
+  "rationale": "<span style=\"font-weight: bold;\">Background Considerations and Choice of Criteria</span><br/>The species is the largest terrestrial animal and has been the subject of considerable research, but continent-wide distribution and density estimates are difficult to obtain for any one time period. To a large extent this is due to the enormous range covered by the species (and thus the cost of estimating its numbers) as well as to the wide variety of habitats it occupies (often woodland and forest where visibility is poor from the ground as well as from the air; see Habitats list). These difficulties, coupled with the differential influence that various historical factors have played in different parts of the continent, result in a continental picture of the status of the African Elephant that varies considerably – qualitatively and quantitatively – across its range. <br/><br/>Although our knowledge of the status of African Elephants across their range has been progressively improving since the mid-1990s, when considerable resources began to be channelled into compiling and producing regular updates of the continental status of elephants with a standardized measure of certainty (Said <span style=\"font-style: italic;\">et al</span>. 1995; Barnes <span style=\"font-style: italic;\">et al</span>. 1999; Blanc <span style=\"font-style: italic;\">et al</span>. 2003; Blanc <span style=\"font-style: italic;\">et al</span>. 2007), large gaps still remain. <br/><br/>In investigating the Red List Criteria (Version 3.1) against these realities, it became clear to the group of assessors involved in the 2004 assessment, that the variability in population trends and levels of uncertainty would preclude a full quantitative Red List assessment, such as would be conducted under criterion E. It was therefore agreed that a compromise approximation would have to be made, and that the African Elephant Specialist Group would be best placed to undertake this task. In order to facilitate the process, extensive use was made of the Guidelines for Application of IUCN Red List Criteria at Regional Levels (IUCN 2003). <br/><br/>The criterion used for the categorization was criterion A.  Criteria B, C and D are not applicable as the species currently occupies more that 20,000 km² and there are more than 10,000 mature individuals.  No quantitative analysis was conducted and therefore criterion E does not apply. Substantial resources would be required to undertake a consensus-driven modelling approach, which would inevitably be based on a great deal of uncertainty with regard to some of the key parameters, including estimates of both human and elephant population size, as well as the scale and extent of threats to the species and its habitats. While ivory export records and other indirect data could be used to derive these models, they would still encounter the many uncertainties inherent in the reconstruction of events covering the better part of a century.<br/><br/>Subcriterion A2a was used because some of the major causes for decline, such as habitat loss due to human population expansion, have not ceased and may not be reversible throughout the species' range. While the recent data used in the assessment are based on direct observation, the population size reduction over three generations is only inferred (see below).<br/><br/><span style=\"font-weight: bold;\">Methodology</span><br/>A generation time of 25 years, calculated as the average age of reproductive females, was established using data from many culling exercises in Kruger National Park, South Africa (I. Whyte pers. comm.).<br/><br/>There are no credible estimates for a continental population prior to the late 1970s. Thus for the continental (global) population, an extrapolation back to the beginning of three generations is plagued with high levels of uncertainty. Clearly, forward extrapolation to the mid-21st Century would also be troubled by uncertainty, not only for the reasons cited above, but also because of the variety of causes for decline and the nature of the current and likely future threats - mainly habitat loss and illegal hunting for both meat and ivory - which are in themselves variable in intensity across the continent.<br/><br/>One of the key components of the methodology adopted at the AfESG’s 2003 Etosha meeting was the assumption that continental elephant populations increased during the first half of the 20th century (as a result of the decline of the ivory trade from the outbreak of WWI, improved protection measures, and an increase in preferred secondary forest habitat in Central Africa), reaching a peak in the late 1960s and declining from then until the late 20th century.&#160; <br/><br/>In addition, African Elephant population trends in the course of the 20th century are believed to have differed considerably across the different African sub-regions (see Figure 1 in the&#160;Supplementary Material). In Eastern Africa, for instance, there is a general consensus that there was a peak (regional population maximum) around the late 1960s and early 1970s, followed by a decline in the 1980s and subsequent recovery in recent years (Blanc <span style=\"font-style: italic;\">et al</span>. 2005, 2007). In Southern Africa, which now harbours the largest known populations on the continent, elephant numbers are believed to have been at their lowest around the turn of the 20th century, and to have been increasing steadily ever since. The magnitude of the decline in Eastern Africa has in all likelihood been offset by the magnitude of the increase in Southern Africa. In West Africa, major declines probably occurred well before the turn of the 20th century and the population has remained at low levels ever since. There is insufficient information on sub-regional trends in Central Africa prior to 1977, but elephant populations are believed to have declined since that time. This is important as Central Africa accounts for a large proportion of the estimated continental range, but our knowledge of its current population size is the poorest.<br/><br/>Taking these problems into account, the consensus among contributors to the 2004 assessment was that it would be an appropriate and acceptable compromise, more likely to err on the conservative side relative to the final listing, to assume the continental population of three generations back (1927) to be equal to that of the first continental estimate in 1977. As the data used for the 2004 assessment were from 2002 (see section on 'Further Details on Data Used' in the&#160;Supplementary Material), it was thus assumed that the population in 1927 was approximately equal to the population estimate for 1977 derived by the contributors to the 2004 assessment.<br/><br/>For the present assessment, which uses 2006 data for the current generation, a comparison had to be made between 2006 and 1931. No consensus population estimate for 1931 is available for this assessment. Had the population remained constant or declined between 1927 and 1931, a comparison with the 2006 data used in this assessment would have resulted in a downlisting of the species to Near Threatened (NT). As mentioned above, however, according to the methodology and assumptions adopted at the 2003 AfESG meeting in Etosha, elephant populations were assumed to be increasing through the first part of the 20th Century. The extent to which the continental population would have increased is unknown. However, calculations reveal that, given the assumptions above, an annual rate of increase of greater than 1.53% would result in the species remaining in the Vulnerable category, and a rate of 1.53% or less would result in the species being re-categorized as Near Threatened. Under the conditions likely prevailing at the time the African Elephant Red List Authority believes that the likely annual rate of increase could easily have exceeded 1.53%. The conservative decision, again relative to the final global listing, is thus to accept a growth rate of greater than 1.53% per annum and to retain the African Elephant in the Vulnerable category in this assessment.<br/><br/><span style=\"font-weight: bold;\"></span><span style=\"font-weight: bold;\">Changes to Status</span><br/>The African Elephant was listed as Vulnerable (VU A2a) in the 2004 IUCN Red List, under the same IUCN Categories and Criteria used in this assessment (Version 3.1). <br/><br/>Prior to the 2004 assessment, the species was listed as Endangered (EN A1b) under the IUCN Categories and Criteria Version 2.3 (1994), in an assessment conducted in 1996 by the IUCN SSC African Elephant Specialist Group.<br/><br/><span style=\"font-weight: bold;\">Regional Assessments</span><br/>The status of African Elephants varies considerably across the species' range. These differences broadly follow regional boundaries, and are partly a result of the different historical trends. To better reflect this variation in status, it was decided to include in this assessment regional-level listings for the four African regions in which elephants occur (see Figure 2 in the Supplementary Material). The methodology and criteria used in these regional assessments is identical to that used for the global assessment, but employing only the relevant subsets of data. An exception to this rule is West Africa, where a more precautionary listing was obtained through the application of a different Red List Criterion. The results of the regional assessments are presented in Table 1 of the&#160;Supplementary Material.",
+  "geographicrange": "African Elephants currently occur in 37 countries in sub-Saharan Africa (see accompanying map in Supplementary Material, sourced from Blanc <span style=\"font-style: italic;\">et al</span>. 2007). They are known to have become nationally extinct in Burundi in the 1970s, in The Gambia in 1913, in Mauritania in the 1980s, and in Swaziland in 1920, where they were reintroduced in the 1980s and 1990s.<br/><br/>Although large tracts of continuous elephant range remain in parts of Central, Eastern and Southern Africa, elephant distribution is becoming increasingly fragmented across the continent. <br/><br/>The quality of knowledge available on elephant distribution varies considerably across the species' range. While distribution patterns are well understood in most of Eastern, Southern and West Africa, there is little reliable information on elephant distribution for much of Central Africa.",
+  "population": "Although elephant populations may at present be declining in parts of their range, major populations in Eastern and Southern Africa, accounting for over two thirds of all known elephants on the continent, have been surveyed, and are currently increasing at an average annual rate of 4.0% per annum (Blanc <span style=\"font-style: italic;\">et al</span>. 2005, 2007). As a result, more than 15,000 elephants are estimated to have been recruited into the population in 2006 and, if current rates of increase continue, the number of elephants born in these populations between 2005 and 2010 will be larger than the currently estimated total number of elephants in Central and West Africa combined. In other words, the magnitude of ongoing increases in Southern and Eastern Africa are likely to outweigh the magnitude of any likely declines in the other two regions.",
+  "populationtrend": "increasing",
+  "habitat": "The African Elephant is very catholic in its range, and tends to move between a variety of habitats. It is found in dense forest, open and closed savanna, grassland and, at considerably lower densities, in the arid deserts of Namibia and Mali. They are also found over wide altitudinal and latitudinal ranges – from mountain slopes to oceanic beaches, and from the northern tropics to the southern temperate zone (approximately between 16.5° North and 34° South). See also the list of habitats.",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "11.2",
+      "title": "Droughts",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "1.2",
+      "title": "Commercial & industrial areas",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.2",
+      "title": "Wood & pulp plantations",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.2.1",
+      "title": "Small-holder plantations",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.2.2",
+      "title": "Agro-industry plantations",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3",
+      "title": "Livestock farming & ranching",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3.1",
+      "title": "Nomadic grazing",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3.2",
+      "title": "Small-holder grazing, ranching or farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3.3",
+      "title": "Agro-industry grazing, ranching or farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "4.1",
+      "title": "Roads & railroads",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3.5",
+      "title": "Motivation Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "6.1",
+      "title": "Recreational activities",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "6.2",
+      "title": "War, civil unrest & military exercises",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.1",
+      "title": "Fire & fire suppression",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.1.3",
+      "title": "Trend Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.2",
+      "title": "Dams & water management/use",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.2.11",
+      "title": "Dams (size unknown)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "8.1",
+      "title": "Invasive non-native/alien species/diseases",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "8.1.1",
+      "title": "Unspecified species",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "The African Elephant has been listed in CITES Appendix I since 1989, but the populations of the following Range States have since been transferred back to Appendix II with specific annotations: Botswana (1997), Namibia (1997), South Africa (2000) and Zimbabwe (1997). These annotations have been recently replaced by a single annotation for all four countries, with certain specific sub-annotations for the populations of Namibia and Zimbabwe. <br/><br/>The African Elephant is subject to various degrees of legal protection in all Range States. Although up to 70% of the species range is believed to lie in unprotected land, most large populations occur within protected areas. <br/><br/>Conservation measures usually include habitat management and protection through law enforcement. Successful management at the site level can result in the build-up of high elephant densities. This is often perceived as a threat to their local habitats, as well as to other species and to elephant populations themselves. Management interventions to reduce elephant numbers and local densities have been limited and most recently been undertaken through contraception or translocation. Large-scale culling has not been performed as a population management option since Zimbabwe discontinued the practice in 1988 and South Africa did likewise in 1994.<br/><br/>The sport hunting of elephants is permitted under the legislation of a number of Range States, and the following countries currently (2007) have CITES export quotas for elephant trophies: Botswana, Cameroon, Gabon, Mozambique, Namibia, South Africa, Tanzania, Zambia and Zimbabwe. <br/><br/>Some community-based conservation programmes in which revenue from the sport hunting of elephants reverts directly to local communities have proved effective in increasing tolerance to elephants, and thus indirectly in reducing levels of human-elephant conflict.<br/><br/>An increasing number of transboundary elephant populations are co-managed through the collaboration of relevant neighbouring Range States. Large-scale conservation interventions are also planned through the development of conservation and management strategies at the national and regional level.",
+  "usetrade": null,
+  "countries": [
+    {
+      "code": "AO",
+      "country": "Angola",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BF",
+      "country": "Burkina Faso",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BI",
+      "country": "Burundi",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "BJ",
+      "country": "Benin",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BW",
+      "country": "Botswana",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CD",
+      "country": "Congo, The Democratic Republic of the",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CF",
+      "country": "Central African Republic",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CG",
+      "country": "Congo",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CI",
+      "country": "Côte d'Ivoire",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CM",
+      "country": "Cameroon",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ER",
+      "country": "Eritrea",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ET",
+      "country": "Ethiopia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GA",
+      "country": "Gabon",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GH",
+      "country": "Ghana",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GM",
+      "country": "Gambia",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "GN",
+      "country": "Guinea",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GQ",
+      "country": "Equatorial Guinea",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GW",
+      "country": "Guinea-Bissau",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "KE",
+      "country": "Kenya",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "LR",
+      "country": "Liberia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ML",
+      "country": "Mali",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MR",
+      "country": "Mauritania",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "MW",
+      "country": "Malawi",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MZ",
+      "country": "Mozambique",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NA",
+      "country": "Namibia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NE",
+      "country": "Niger",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NG",
+      "country": "Nigeria",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "RW",
+      "country": "Rwanda",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SL",
+      "country": "Sierra Leone",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SN",
+      "country": "Senegal",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SO",
+      "country": "Somalia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SS",
+      "country": "South Sudan",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SZ",
+      "country": "Eswatini",
+      "presence": "Extant",
+      "origin": "Reintroduced",
+      "distribution_code": "Reintroduced"
+    },
+    {
+      "code": "TD",
+      "country": "Chad",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "TG",
+      "country": "Togo",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "TZ",
+      "country": "Tanzania, United Republic of",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "UG",
+      "country": "Uganda",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ZA",
+      "country": "South Africa",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ZM",
+      "country": "Zambia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ZW",
+      "country": "Zimbabwe",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2008",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "2004",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1996",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1994",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1990",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1988",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1986",
+      "code": "V",
+      "category": "Vulnerable"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.4",
+      "habitat": "Forest - Temperate",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "14.1",
+      "habitat": "Artificial/Terrestrial - Arable Land",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "14.2",
+      "habitat": "Artificial/Terrestrial - Pastureland",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "14.3",
+      "habitat": "Artificial/Terrestrial - Plantations",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "14.4",
+      "habitat": "Artificial/Terrestrial - Rural Gardens",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "14.6",
+      "habitat": "Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "1.5",
+      "habitat": "Forest - Subtropical/Tropical Dry",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "15.8",
+      "habitat": "Artificial/Aquatic - Seasonally Flooded Agricultural Land",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "1.7",
+      "habitat": "Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "1.8",
+      "habitat": "Forest - Subtropical/Tropical Swamp",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "2.1",
+      "habitat": "Savanna - Dry",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "2.2",
+      "habitat": "Savanna - Moist",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.4",
+      "habitat": "Shrubland - Temperate",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.5",
+      "habitat": "Shrubland - Subtropical/Tropical Dry",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.6",
+      "habitat": "Shrubland - Subtropical/Tropical Moist",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.7",
+      "habitat": "Shrubland - Subtropical/Tropical High Altitude",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.8",
+      "habitat": "Shrubland - Mediterranean-type Shrubby Vegetation",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "4.4",
+      "habitat": "Grassland - Temperate",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "4.5",
+      "habitat": "Grassland - Subtropical/Tropical Dry",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "4.6",
+      "habitat": "Grassland - Subtropical/Tropical Seasonally Wet/Flooded",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "4.7",
+      "habitat": "Grassland - Subtropical/Tropical High Altitude",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "5.13",
+      "habitat": "Wetlands (inland) - Permanent Inland Deltas",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "5.2",
+      "habitat": "Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "5.3",
+      "habitat": "Wetlands (inland) - Shrub Dominated Wetlands",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "5.4",
+      "habitat": "Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "5.8",
+      "habitat": "Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha)",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "5.9",
+      "habitat": "Wetlands (inland) - Freshwater Springs and Oases",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "8.1",
+      "habitat": "Desert - Hot",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "8.2",
+      "habitat": "Desert - Temperate",
+      "suitability": null,
+      "season": null,
+      "majorimportance": null
+    }
+  ]
+}
