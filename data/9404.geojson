@@ -1,0 +1,87 @@
+{
+  "type": "Feature",
+  "properties": {
+    "id_no": 9404,
+    "binomial": "Gorilla gorilla",
+    "presence": 1,
+    "origin": 1,
+    "seasonal": 1,
+    "compiler": "IUCN",
+    "yrcompiled": 2016,
+    "citation": "UNEP-WCMC and IUCN (International Union for Conservation of Nature)",
+    "source": null,
+    "dist_comm": "Ebo",
+    "island": null,
+    "subspecies": "gorilla",
+    "subpop": null,
+    "legend": "Extant (resident)",
+    "tax_comm": null,
+    "kingdom": "ANIMALIA",
+    "phylum": "CHORDATA",
+    "class": "MAMMALIA",
+    "order_": "PRIMATES",
+    "family": "HOMINIDAE",
+    "genus": "Gorilla",
+    "category": "CR",
+    "marine": "False",
+    "terrestial": "True",
+    "freshwater": "False",
+    "SHAPE_Leng": 0.205050622701,
+    "SHAPE_Area": 0.0028366750308
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          10.4226,
+          4.352835592000076
+        ],
+        [
+          10.4091,
+          4.347635593000064
+        ],
+        [
+          10.3957,
+          4.355135592000067
+        ],
+        [
+          10.3925,
+          4.370735593000063
+        ],
+        [
+          10.3962,
+          4.394235593000076
+        ],
+        [
+          10.4012,
+          4.407835593000073
+        ],
+        [
+          10.4098,
+          4.423935593000067
+        ],
+        [
+          10.4271,
+          4.427635593000048
+        ],
+        [
+          10.4377,
+          4.41823559300002
+        ],
+        [
+          10.4407,
+          4.39833559300007
+        ],
+        [
+          10.436,
+          4.368635592000032
+        ],
+        [
+          10.4226,
+          4.352835592000076
+        ]
+      ]
+    ]
+  }
+}

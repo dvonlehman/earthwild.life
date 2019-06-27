@@ -1,0 +1,205 @@
+{
+  "taxonid": 10543,
+  "scientific_name": "Hylobates agilis",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HYLOBATIDAE",
+  "genus": "Hylobates",
+  "main_common_name": "Agile Gibbon",
+  "authority": "F. Cuvier, 1821",
+  "published_year": 2008,
+  "assessment_date": "2008-06-30",
+  "category": "EN",
+  "criteria": "A2cd",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Geissmann, T. & Nijman, V.",
+  "reviewer": "Mittermeier, R.A. & Rylands, A.B. (Primate Red List Authority)",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 1400,
+  "elevation_lower": 0,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": null,
+  "errata_reason": null,
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 10543,
+  "taxonomicnotes": "There is debate as to the validity of the subspecies. The general consensus seems to be that this species is monotypic, though some experts recognize two subspecies:  <em>H. a. agilis</em> to the west, and <em>H. a. unko</em> to the east (these may possibly correspond with \"mountain\" and \"lowland\" forms, respectively). All this is not to be confused with the two main color morphs found throughout the species' range, though in general the pale morph is more common in the Barisan Range of Sumatra, while in the eastern lowlands and in the Malay Peninsula black predominates (Marshall and Sugardjito 1986).",
+  "rationale": "The species is considered Endangered in light of a continued decline inferred from habitat loss, calculated to be &gt; 50% over the past 45 years (3 generations), in combination with illegal trade for the pet market. Threats are driven primarily in the Sumatran portion of its range where the species seems to be declining rapidly and is certainly endangered. On the mainland (Peninsular Malaysia and Thailand), there seem to be a number of stable populations, but the range has contracted. The species is entirely confined to closed canopy forest, and thus, habitat conversion, road building and fragmentation are increasingly threatening the species.",
+  "geographicrange": "This species is found in Sumatra (Indonesia) (southeast of Lake Toba and the Singkil River), Peninsular Malaysia (from the Mudah and Thepha Rivers in the north to the Perak and Kelanton Rivers in the south) and south Thailand (near the Malaysian border, east of the Thepha River watershed (Gittins 1978; Groves 2001; Marshall and Sugardjito 1986; W. Brockelman pers. comm.).",
+  "population": "O'Brien <em>et al.</em> (2004) performed a population assessment in 2002 on agile gibbons in Bukit Barisan Selatan National Park, Sumatra, Indonesia. Using calling counts in both forest edge and interior habitats, and basing their estimate on forest cover area in the park, they calculated a population of 4,479 agile gibbons (CV = 30%) (O'Brien <em>et al.</em> 2004). In Peninsular Malaysia, Belum and Ulu Muda are strongholds. Portions of the population in Thailand likely number a few thousand individuals, located in approximately three forests fragments/reserves (W. Brockelman pers. comm.).<br/><br/>Density estimates for this species range from 1.4-2.8 individuals/km<sup>2</sup> in Bukit Barisan Seletan (O'Brien <em>et al.</em> 2004), and 6-11.4 individuals/km<sup>2</sup> in Kerinci-Seblat (Yanuar 2001) to 5.5-18.9 individuals (2-5 groups)/km<sup>2</sup> in Sungai Dal on the Malay peninsula (Gittins 1979). Recent surveys in south Thailand reveal the density to be 2 groups/km<sup>2</sup> in parts of Hala Bala Wildlife Sanctuary (W. Brockelman pers. comm.)",
+  "populationtrend": "decreasing",
+  "habitat": "This species occurs at highest densities in dipterocarp-dominated forests, but their known habitat ranges from swamp and lowland forests to hill, submontane, and montane forests (O'Brien <em>et al</em>. 2004). Additionally, populations in Bukit Barisan Selatan National Park in Sumatra do not seem to avoid forest edges near human habitations (O'Brien <em>et al</em>. 2004). In southern Sumatra, populations were found up to 1,400 meters (O'Brien <em>et al.</em> 2004).<br/>These arboreal and diurnal primates are primarily frugivorous (preferring fruits high in sugar, such as figs), but they will consume immature leaves and insects as well (Gittins 1979, 1982). An average home range size of 29 ha has been determined in a study at Sungai Dal (Gunung Bubu Forest Reserve) on the Malayan peninsula (Gittins 1979, 1982; Gittins and Raemaekers 1980).",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3.5",
+      "title": "Motivation Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.1",
+      "title": "Fire & fire suppression",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.1.3",
+      "title": "Trend Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "Agile gibbons are protected throughout their range by local laws as well as by listing on CITES Appendix I, although the extent to which national or international laws actually protect the species is uncertain.<br/><br/>The species occurs in a number of protected areas, including Bukit Barisan National Park, Kerinci Seblat National Park, Selantan National Park, and Way Kambas National Park in Indonesia; Mudah Wildlife Reserve in Malaysia; and Hala Bala Sanctuary in Thailand. Unfortunately, many of these are merely proposed or gazetted, and their actual protected status is uncertain. Moreover, many of the Sumatran reserves are in montane regions where the species occurs only at low densities. In Bukit Barisan Selatan National Park in southwestern Sumatra, populations are presently secure and healthy but will depend on the regaining of control by the Indonesian government over illegal deforestation of its parks for their continued survival (O'Brien <em>et al.</em> 2004).<br/><br/>As the validity of the subspecies is questionable, a research priority is to clarify this issue so that the species can be further assessed.",
+  "usetrade": null,
+  "countries": [
+    {
+      "code": "ID",
+      "country": "Indonesia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MY",
+      "country": "Malaysia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "TH",
+      "country": "Thailand",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2008",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2000",
+      "code": "LR/nt",
+      "category": "Lower Risk/near threatened"
+    },
+    {
+      "year": "1996",
+      "code": "LR/nt",
+      "category": "Lower Risk/near threatened"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.8",
+      "habitat": "Forest - Subtropical/Tropical Swamp",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    }
+  ]
+}

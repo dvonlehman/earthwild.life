@@ -1,0 +1,699 @@
+{
+  "taxonid": 15951,
+  "scientific_name": "Panthera leo",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "CARNIVORA",
+  "family": "FELIDAE",
+  "genus": "Panthera",
+  "main_common_name": "Lion",
+  "authority": "(Linnaeus, 1758)",
+  "published_year": 2016,
+  "assessment_date": "2014-06-20",
+  "category": "VU",
+  "criteria": "A2abcd",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Bauer, H., Packer, C., Funston, P.F., Henschel, P. & Nowell, K.",
+  "reviewer": "Hunter, L., Hoffmann, M., Breitenmoser-Würsten, C. & Breitenmoser, U.",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 4200,
+  "elevation_lower": 0,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": true,
+  "errata_reason": "This errata assessment has been created because the map was accidentally left out of the version published previously.",
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 15951,
+  "taxonomicnotes": "Taxonomy currently used by the IUCN SSC Cat Specialist Group:<br/><em>Panthera leo persica</em>—Asian subpopulations<br/><em>Panthera leo leo</em>—African subpopulations.<br/><br/>The latest published phylogeographical study of lions shows that the traditional split between Asian and African Lions as distinct subspecies is untenable (Barnett<em> et al.</em> 2014). Based on Barnett <em>et al.</em> (2014) the Cat Classification Task Force of the IUCN SSC Cat Specialist Group has provisionally proposed a different split into two subspecies, <em>P. l. leo</em> of Asia and West, Central and North Africa, and <em>P l. melanochaita</em> from South and East Africa.&#160;However, Barnett <em>et al.</em> (2014) is based only on mtDNA and could reflect female philopatry.&#160;In conjunction with the African Lion Working Group, Laura Bertola and colleagues are preparing a taxonomic paper, which will include reference to new molecular data from current studies, including complete mitochondrial genomes, microsatellites, and autosomal SNPs, which strongly support this taxonomic arrangement and recognize several management units within these revised subspecies.&#160;Given the poor conservation status of some regional Lion populations, it is important that this new taxonomic arrangement is immediately available for use by the IUCN Red List to support the next stages in developing a conservation strategy for the Lion based on coherent and sound science (Barnett <em>et al.</em> 2006a,b, 2014; Bertola<em> et al. </em>2011, submitted; Dubach <em>et al. </em>2005, 2013).<p><br/><br/><strong>Note:</strong> This is an amended version of the assessment to replace the range map with a corrected version and to add some additional explanatory text to Table 3 in the Supplementary Information.</p>",
+  "rationale": "<p>  </p>The Lion population is inferred to have undergone a reduction of approximately 43% over the past 21 years (approximately three Lion generations, 1993-2014).<br/><br/>We infer a decline of 43% based on time trend analysis of census data for 47 relatively well monitored Lion subpopulations. These subpopulations approximately totalled an estimated 7,500 Lions in 2014 and comprise a substantial portion of the total species population, so that we feel confident in applying observed trends to the species as a whole as well as on a regional basis.<br/><br/>The overall classification of the Lion as Vulnerable masks a dichotomy: we observe that sample Lion subpopulations increased by 12% in four southern African countries (Botswana, Namibia, South Africa and Zimbabwe) and in India, while an observed decline of 60% in sample subpopulations outside these countries is inferred for the remainder of its African range. In other words, in the majority of its range the Lion meets the A2 criterion for Endangered with the inferred rate of decline over 50% in three generations, but this trend is numerically mitigated by a small number of subpopulations in a restricted geographical range.<br/><br/>This dichotomy is reflected in listings of the species in different Red Lists: in South Africa, the Lion will be categorized as Least Concern on the national Red List in preparation (Child <em>et al</em>. In prep.), whereas in India it is Endangered (as subspecies <em>P. l. persica</em> on the global IUCN Red List: Breitenmoser <em>et al</em>. 2008) and in the region of West Africa meets the criteria for Critically Endangered (Henschel <em>et al</em>. 2014, 2015).&#160; The range state list in Table 1 (attached Supporting Material) further illustrates the high threat levels across the species’ broad geographic range, as Lions have been recently extirpated in 12 African countries and we suspect possible recent extirpation in another four.<br/><br/>Among the causes of decline, the most important are indiscriminate killing in defence of human life and livestock, habitat loss, and prey base depletion. Prey base depletion is partly linked to habitat loss, but more importantly to poaching and bushmeat trade (Becker <em>et al</em>. 2013). An emerging threat is trade in bones and other body parts for traditional medicine, both within Africa and in Asia (IUCN 2006a, b; Riggio <em>et al</em>. 2013). Furthermore, although trophy hunting contributes positively to Lion conservation, improvements in management practices have been recommended (Lindsey <em>et al</em>. 2013b, Hunter <em>et al</em>. 2013, Edwards<em> et al</em>. 2014), as when poorly regulated, it also contributes to population declines (Packer <em>et al</em>. 2009, 2011; Croes <em>et al</em>. 2011, Rosenblatt <em>et al</em>. 2014). While attention is currently focused on Lion hunting reforms to ensure sustainability, the leading causes of population decline are more difficult to address and are likely to continue. The observed and inferred reductions are based on direct observation; appropriate indices of abundance; declines in area of occupancy, extent of occurrence and habitat quality; and actual and potential levels of exploitation.<br/><br/>Several subpopulations have been stable, among them the only remaining subpopulation in Asia (surviving in the Gir Forest area of Gujarat, India) and several subpopulations in southern Africa. Subpopulations appear to be stable where management is properly funded; fencing is one of several effective conservation management techniques (Packer <em>et al</em>. 2013). However, many Lion subpopulations occur in areas where management budgets are low, leading to local decline and even extinction, for example in West Africa (Henschel <em>et al</em>. 2014).&#160; Little is known about Lion subpopulations in Angola, Central African Republic and South Sudan, but we fear drastic declines especially for the latter two.<br/><br/>In conclusion, we assess the Lion as Vulnerable based on criterion A, more specifically A2abcd. Lion range and abundance exceed the Vulnerable thresholds for criteria B, C and D, respectively, so these criteria do not contribute to the present assessment, whilst criterion E was not applied. Vulnerable A2abcd is the same listing as the previous assessment but with a different underlying method. Previous assessments were based on a suspected decline of the total estimated number of Lions, which necessarily included low quality data. In the present assessment we did not use total Lion estimates, because we had a better alternative. We now have enough good quality data for a representative sub-set of Lion subpopulations to calculate an observed decline, from which we infer a decline for the species as a whole.<br/><p>  </p>",
+  "geographicrange": "Outside sub-Saharan Africa, the Lion formerly ranged from Northern Africa through Southwest Asia (where it disappeared from most countries within the last 150 years), west into Europe, where it apparently became extinct almost 2,000 years ago, and east into India (Nowell and Jackson 1996, Sunquist and Sunquist 2002). Today, the only remainder of this once widespread northern population is a single isolated subpopulation in the 1,400 km² Gir Forest National Park and Wildlife Sanctuary. Lions are extinct in North Africa, having perhaps survived in the High Atlas Mountains up to the 1940s (Nowell and Jackson 1996, West and Packer 2013).<br/><br/>Lions are found in most countries of sub-Saharan Africa. The last assessment of extant Lion range is provided by Riggio <em>et al</em>. (2013); they identified 67 Lion areas comprising 3.4 million km², which is 17% of historical range or about 25% of savanna Africa. We took those layers as a starting point, but made a few modifications to reflect the cautionary approach used by the IUCN Red List. Like with population numbers (see Population section), Riggio <em>et al</em>. (2013) copied old layers in the absence of new information. <em>De facto</em>, this means that large swathes of land are classified as Lion range based on the group exercises led by the Wildlife Conservation Society (WCS) and the IUCN SSC Cat Specialist Group; they found 86 Lion Conservation Units (LCUs) covering 4.6 million km² or 22% of historical range (IUCN 2006a,b; Bauer 2008). Henschel <em>et al</em>. (2010, 2014) found that many of these LCUs in West and Central Africa no longer contained Lions, and the range map was adapted accordingly for this assessment. Similarly, the survey and mapping unit at Panthera conducted further range updates based on new survey results and other properly documented information from other regions. Furthermore, some of the mapped LCUs are located in areas where armed conflict may have had an impact on lion persistence (e.g. Central African Republic and South Sudan). Until proof of the contrary, and based on the lack of recent data to confirm Lion presence, we therefore classified such areas as Possibly Extinct but maintained Protected Areas inside them as Lion range (including many large hunting concessions, such as in the Central African Republic). Some of the areas currently mapped as Possibly Extinct could contain relict Lion subpopulations, and should be prioritized for field surveys aimed at establishing Lion status.<br/><br/>Areas where we consider Lion populations Possibly Extinct total 1,811,087 km², over half (52%) of the range classified as extant by Riggio <em>et al</em>. (2013). We estimate extant Lion range, areas where we are reasonably confident that lions persist, based on recent records, at 1,654,375 km², or 8% of historical range. This range reduction reflects a combination of recent known and inferred decline, as well as improved knowledge.",
+  "population": "<p><strong>Population Trend</strong><br/>This assessment is based on a time trend analysis of census data from relatively well-studied Lion subpopulations (Packer <em>et al</em>. 2013, plus additional unpublished data provided by contributors). Census estimates were obtained by scientific research methods including total count, individual identifications, total or sample inventory using calling stations, radio telemetry, photo databases, spoor counts and density estimates based on direct observations corrected for patrol effort.&#160;These methods are rated as producing the most reliable type of Lion population estimates by background papers for the 2006 IUCN regional Lion workshops (Table 5 in Bauer <em>et al.</em> 2005a, b).&#160;We did not include population estimates for sites which were based on extrapolation of Lion densities obtained by research in other areas, or informed guesstimates by researchers. The minimum number of census surveys per site over the assessment time period is two, but some sites have been more regularly monitored (Table 3 - Data Points column, in Supplementary Material).&#160;In some cases census methodology varied between years, and for some surveys accuracy may have been low, but the complete data set shows an obvious trend that is unlikely to be an artefact of methodological insufficiencies.<br/><br/>IUCN Red List Criteria define three generations as the relevant time span for trend assessment. Lion Generation Length (GL) is based on the formulation of Pacifici <em>et al</em>. (2013):</p><p><br/>&#160;&#160;&#160;&#160;&#160;&#160; GL = R<sub>span</sub>*z +AFR</p><p>Where AFR = Age of first reproduction = 3.5 yrs (Packer&#160;<em>et al</em>. 1998)</p><p>&#160;&#160;&#160;&#160;&#160; R<sub>span</sub> = 15.5 (the age when 95% of females are no longer reproductive) - AFR = 12 yrs (Packer&#160;<em>et al.</em>&#160;1998)</p><p>&#160;&#160;&#160;&#160;&#160; Z = 0.29 (a constant “depending on survivorship and relative fecundity of young vs. old individuals in the population” (IUCN 2014), calculated as the slope of the linear regression between GL and Rspan for 221 mammalian species (Pacifici <em>et al</em>. 2013)</p><p>Thus GL = 12*0.29 +3.5 = 6.98 yrs<br/><br/>To fill gaps between censuses conducted in non-consecutive years, we interpolated population sizes, assuming a linear change between years. For surveys conducted for only a few years between 1993 and 2014, we extrapolated to the beginning and end points based on an exponential rate of change taken from the observed growth rate for each respective subpopulation. However, all extrapolations are capped by the estimated carrying capacity for each reserve so that subpopulations that experienced dramatic population change were not assumed to have been at implausibly high totals in either 1993 or 2014. Subpopulations were first categorized according to whether or not the reserves were surrounded by a fence; unfenced subpopulations were further categorized according to geographical location with the exception of Niassa Reserve (Mozambique), treated as an outlier as discussed below.<br/><br/>In graph form (Figures 1-4 in the Supplementary Material) we summarize the repeated censuses of 46 different African Lion subpopulations using all available repeat-survey data. Figure 5 (in the Supplementary Material) addresses the 47th Lion subpopulation in our analysis, the only Asian subpopulation.<br/><br/>Outside parts of southern Africa, Lions in 23 unfenced reserves in 11 countries are estimated to have dropped by 62% between 1993 and 2014 (see Figure 1 in the Supplementary Material).&#160; Although these totals only included about 4,600 Lions in the year 1993, several surveyed areas are restricted to the best-protected portions of much larger ecosystems (e.g., the phototourism areas of Selous and Serengeti).<br/><br/>In contrast, the total number of Lions in six unfenced reserves in Botswana, Namibia and Zimbabwe only declined by about 11% (Figure 2, Supplementary Material). Note that the overall stability in southern Africa masks considerable heterogeneity: between 1993 and 2014 the monitored Lion subpopulation in a portion of the Okavango ecosystem is estimated to have declined by 46%, whereas the much smaller subpopulations in Gonarezhou and Kunene have increased dramatically.<br/><br/>The striking contrast between these three countries in southern Africa and the rest of the continent is probably related to the equally striking differences in human population densities (Packer <em>et al</em>. 2013) in Namibia (2.5/km²), Botswana (3.4) and Zimbabwe (26) vs. Benin (78), Burkina Faso (57), Cameroon (40), Cote d’Ivoire (64), Ghana (102), Kenya (67), Nigeria (189), Rwanda (420), Senegal (68), Tanzania (48), Uganda (137) and Zambia (45).<br/><br/>The unfenced Niassa subpopulation is estimated to have increased by over 250% since 1993 (Figure 3, Supplementary Material); despite severe bushmeat poaching the Lions are still recovering from excessive prey depletion during civil war. In addition, on a shorter time scale, Lions have benefited from extensive ivory poaching, which has provided them with sizeable quantities of elephant meat (Colleen Begg pers. comm. 2014). Human population density in Mozambique is 74/km² with sizeable numbers of people living inside Niassa Reserve, so unless management is further strengthened, this unfenced Lion subpopulation may soon experience declining food supplies and increased human-lion conflicts. These arguments strongly suggest that the ‘boom’ in the Niassa Lion subpopulation has stopped and is unlikely to be repeated in the future. We therefore consider Niassa to be a special case and treat it as an outlier in our analyses, we believe that this offers a better understanding of trends, but we note that this does not alter the assessment (with Niassa included, the assessment would still be Vulnerable A2abcd).<br/><br/>The 16 fenced African subpopulations (10 in South Africa, and all but one in southern Africa) have grown by 29% since 1993, most having already reached their presumed carrying capacities by 2013 (Figure 4, Supplementary Material). Note that although these numbers now total over 3,226 lions, our data come from the great majority of fenced reserves in Africa and that little further growth can be expected in these subpopulations.<br/><br/>Asia is home to a single contiguous subpopulation in the Indian state of Gujarat (Figure 5, Supplementary Material). While the population has stabilized inside the Gir Reserve, the so-called “satellite” population in the surrounding countryside has expanded by ~400% in the past 21 years.<br/><br/>The 47 sample Lion subpopulations totalled an estimated 9,615 lions in 1993 (excluding Niassa, which is treated as an outlier as described above); that number shrank by 22% to 7,455 lions in 2014 (Table 2, Supplementary Material).&#160; However, as described above, there are significant regional differences evident in population trend, and we use these to inform our inferences about population trend for the species as a whole. Table 2 (Supplementary Material) groups the sample subpopulations by region in Africa, following the IUCN (2006a, b) regional Lion conservation strategies, but combining West and Central Africa due to a small sample size for Central Africa.&#160; In Southern Africa, the sample population grew by 8%, while in sharp contrast, sample populations declined by 59% in Eastern Africa and 66% in West and Central Africa.<br/><br/>Table 3 (Supplementary Material) shows the estimated Lion population size in 1993 and 2014 for each of the 47 sample subpopulations with percentage change, and it can be seen that most countries had a declining trend for sample Lion subpopulations, with only four countries (India, Namibia, South Africa and Zimbabwe) seeing a growth trend. Table 4 (Supplementary Material) groups these countries with Botswana, which had a relatively low average rate of decline for its sample populations; two out of three sample subpopulations increased; the decline documented in the Okavango subpopulation was restricted to only part of the protected area; and overall 2012 estimates for the national population suggest that it his increased since 2003 (C. Winterbach unpubl. data). Mozambique is not included in this group as the increasing trend in its Niassa subpopulation is treated as an outlier in this analysis. The sample Lion population in five countries (Botswana, India, Namibia, South Africa, Zimbabwe) grew by an estimated 12%, whereas the Lion population in the remaining African range countries declined by an estimated 61% (Table 4, Supplementary Material).<br/><br/>We infer population trend for the total Lion species population based on these two rates of change, as follows. In 2002, two separate country compilations of population estimates for Lions in Africa estimated the number of Lions in Botswana, Namibia, South Africa and Zimbabwe to comprise between 1/4 to 1/3 of the total African Lion population, as shown in Table 5 (Supplementary Material). We suspect that this proportion was somewhat lower in 1993, given that the number of Lions is inferred to have increased in these countries while decreasing in the remainder, and use a figure of 1/4 or 25% for our species population trend calculation. If 25% of the Lion population increased by 12%, and 75% decreased by 60%, this results in an inferred trend of (0.75*-60%) + (0.25*12%) = -43% between 1993 and 2014 (Table 6, Supplementary Material).</p><br/>This qualifies the Lion as Vulnerable, but it is of great concern that the vast majority of the population is inferred to have declined at a rate that meets the criteria for Endangered. Since our sample subpopulations were all monitored, we suspect an even greater average rate of decline for unmonitored unfenced subpopulations across much of Africa, since lack of monitoring could suggest lack of conservation effort.<br/><br/><strong>Abundance</strong><br/>For this assessment, we do not aim to provide a new estimate of total Lion numbers, we present no new data. A recent paper summarized and updated efforts to estimate the population size of the African Lion leading to the most recent estimate of 32,000 lions in 67 Lion areas (Riggio <em>et al</em>. 2013). The paper presents some recent data, but where no new data were available it included unaltered numbers from earlier sources, such as Bauer and Van der Merwe (2004) and Chardonnet (2002). As a consequence, Riggio <em>et al</em>. (2013) include numbers from 2002 and 2004 for areas where we believe the downward trend described above occurred. We therefore consider these sources to be insufficiently precautionary for our purpose and feel that an assessment on numbers is less robust than our assessment based on trends. Considering the difficulty in interpreting Lion numbers and the availability of an alternative (see above), we decided not to use total Lion numbers for the present assessment<br/><br/>However, we do attempt to correct for outdated sources in the Riggio <em>et al</em>. (2013) estimate by application of the regional trends we found (Table 3, Supplementary Material) to the 2002 population size estimates within the respective regions (Bauer and Van der Merwe 2004, Chardonnet 2002). These are two largely independent and reasonably comprehensive sets of estimated numbers that were coherent in time. Rather than presenting these numbers as in any way current, we look at how they might be expected to have changed.&#160;We calculated estimated present Lion numbers per region (Table 7, Supplementary Material) by applying the observed trend over the subsequent 12 years, except that numbers for West Africa were taken from a comprehensive recent survey (Henschel <em>et al</em>. 2014) because of their greater precision. As a small modification from Chardonnet (2002) we moved the estimate for Selous ecosystem to Eastern Africa to be consistent with the regional divisions used here. The two 2002 estimates were compared in detail (Bauer <em>et al</em>. 2005a,b), showing the ALWG study (Bauer and Van der Merwe 2004) was more conservative and stricter on data quality. Most notably, Bauer and Van Der Merwe (2004) lacked data for Ruaha and Tarangire which may hold close to 5,000 Lions. With all these considerations, we have greater confidence in an estimate of closer to 20,000 Lions in Africa than in a number over 30,000.<br/><br/><strong>Approach to Uncertainty&#160;</strong>We do not have sufficient confidence in earlier or recent species population estimates to employ them to estimate trend and for this assessment have used groupings of scientific time series site estimates as a proxy. &#160;Although these data are more numerous for Lions than for other big <em>Panthera </em>cats, there is still considerable uncertainty inherent in both the data (Bauer <em>et al</em>. 2015) and our treatment of it to estimate species population trend. Guidelines for Using the IUCN Red List Categories and Criteria (IUCN 2014) state that, \"All attitudes (towards uncertainty) should be explicitly documented. &#160;In situations where the spread of plausible values (after excluding extreme or unlikely values) qualifies a taxon for two or more categories of threat, the precautionary approach would recommend that the taxon be listed under the higher (more threatened) category.\"&#160;<br/>As noted in Table 2 (see Supplementary Material), if the species trend is inferred directly from the total sample population trend, the result, a decline of 22%, would qualify the species as Near Threatened rather than Vulnerable. However, considering the demonstrated significant regional differences such an approach would be inappropriate.&#160;<br/>We treated Mozambique's Niassa subpopulation trend as an outlier and removed it from our trend analysis for reasons described above, but we also documented the effect of the exclusion. Some contributors proposed a second outlier: Tanzania’s Katavi subpopulation. Katavi has been consistently and repeatedly monitored, but the survey methodology was imprecise (vehicle transects: Caro 2011), this yielded a significant decline rate approaching 100% in a large population of over 1,100 estimated lions in the study site portion of the park in 1993 (Table 3). If Katavi would have been treated as an outlier and excluded from the analysis, inferred rate of decline would be 33%, and the rate of decline for Lions in East Africa would be 37%. Lions are still extant in Katavi (as shown in our map), although well below carrying capacity (Kiffner <em>et al.</em> 2008). Rather than using an arbitrary low value, we used the value documented by surveys (zero); Lions are extant but at a density so low as not to be detected. While the methodology is imprecise, it has proved reliable for carnivore monitoring in the Serengeti (Durant <em>et al</em>. 2011). Furthermore, the extent of decline may have been measured with lack of precision, but population decline remains uncontested. Since it is one of only two long-term monitoring programmes in Tanzania (Caro 2011) we decided that it was important to include these data and decided that there was insufficient ground to treat it as an outlier.<br/>Another uncertainty that needs to be documented is our treatment of small fenced reserves in southern Africa. Most of the population increases have occurred in these areas where intensive management practices include translocations, stocking, contraception and euthanasia. Such management is atypical, and as pointed out by Hayward <em>et al</em>. (2015) the Red List Guidelines are ambiguous as to the inclusion or exclusion of fenced areas. Their exclusion from the analysis would raise the inferred Lion decline rate to 49%. Following through on our supposition that unmonitored Lion populations have undergone an even higher rate than our monitored sample, this could potentially have been interpreted as a suspected rate of decline over 50%, qualifying the Lion as Endangered. However, we did not exclude fenced populations from our assessment. Hayward <em>et al</em>. (2015) state that such decisions should consider the ‘type, scale, frequency and effects of the suite of management interventions’ and could be taxon specific. We consider that management of Lions in the concerned areas aims to mimic natural processes, aims to retain adaptive potential and follows a meta-population management approach. We further consider that fences have been documented as effective tools in Lion conservation (Packer<em> et al</em>. 2013). We find this sufficient justification for inclusion of these reserves.<br/>National estimated rates of population change are most meaningful in practice, and these are given in Table 3 in the Supplementary Material. &#160;We did not use national rates to gauge species decline, as the sample sizes are generally small and estimates of national Lion populations imprecise.",
+  "populationtrend": "decreasing",
+  "habitat": "The Lion has a broad habitat tolerance, absent only from tropical rainforest and the interior of the Sahara desert (Nowell and Jackson 1996). There are records of Lion to elevations of more than 4,000 m in the Bale Mountains and on Kilimanjaro (West and Packer 2013). Although Lions drink regularly when water is available, they are capable of obtaining their moisture requirements from prey and even plants (such as the tsama melon in the Kalahari desert), and thus can survive in very arid environments. Medium- to large-sized ungulates (including antelopes, zebra and wildebeest) are the bulk of their prey, but Lions will take almost any animal, from rodents to a rhino. They also scavenge, displacing other predators (such as the Spotted Hyaena) from their kills.<br/><br/>Lions are the most social of the cats, with related females remaining together in prides, and related and unrelated males forming coalitions competing for tenure over prides. Average pride size (including males and females) is four to six adults; prides generally break into smaller groups when hunting. Lions tend to live at higher densities than most other felids, but with a wide variation from 1.5 adults per 100 km² in southern African semi-desert to 55/100 km² in parts of the Serengeti (Sunquist and Sunquist 2002). Pride ranges can vary widely even in the same region: e.g., from 266-4,532 km² in the Kgalagadi Transfrontier Park of South Africa (Funston 2001).<br/><br/>In India, the habitat of the Asiatic Lion is dry deciduous forest. The Gir National Park and Wildlife Sanctuary is surrounded by cultivated areas and inhabited by the pastoralist Maldharis and their livestock (Meena <em>et al</em>. 2014). Domestic cattle have historically been a major part of the Asiatic Lion's diet, although the most common prey is the Chital Deer. Mean pride size, measured by the number of adult females, tends to be smaller than for African Lions: most Gir prides contain an average of two adult females (Nowell and Jackson 1996).",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": "Whole (>90%)",
+      "severity": "Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3",
+      "title": "Livestock farming & ranching",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3.1",
+      "title": "Nomadic grazing",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.3.2",
+      "title": "Small-holder grazing, ranching or farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3.5",
+      "title": "Motivation Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "6.2",
+      "title": "War, civil unrest & military exercises",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "8.2",
+      "title": "Problematic native species/diseases",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "9.3",
+      "title": "Agricultural & forestry effluents",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "9.3.4",
+      "title": "Type Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "Since 1975 <em>Panthera leo</em> has been included in CITES Appendix II, and&#160; the Endangered Asiatic Lion subspecies <em>P. leo persica</em> in CITES Appendix I. CITES listing of the Lion is currently undergoing a Periodic Review process to evaluate whether this accurately reflects the present situation, with a final recommendation of the Animals Committee expected at its 28th meeting in 2015. The Animals Committee also noted recent information regarding possible changes in the nomenclature of Lions and requests its nomenclature expert to&#160; review this information (CITES AC27 WG8). <br/><br/>In Africa, Lions are present in a number of large and well-managed protected areas, and remain one of the most popular animals on the must-see lists of tourists and visitors to Africa. Most range states in East and Southern Africa have an infrastructure which supports wildlife tourism, and in this way Lions generate significant cash revenue for park management and local communities and provide a strong incentive for wildland conservation.<br/><br/>Regional conservation strategies have been developed for Lions in West and Central Africa (IUCN 2006a) and Eastern and Southern Africa (IUCN 2006b). By setting out common priorities to guide action on both national, community and landscape levels, the regional conservation strategies have the potential for broad and significant improvement of Lion status and management (Nowell <em>et al</em>. 2006). These regional strategies have been used in many countries to develop Lion Conservation Action Plans. While all these documents show awareness of the threats and recognition of solutions, the continued decline in Lion range and numbers show that political priority and funding are not sufficient (Packer <em>et al</em>. 2013).<em></em>",
+  "usetrade": "For information on Use and Trade see under Threats.",
+  "countries": [
+    {
+      "code": "AF",
+      "country": "Afghanistan",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "AO",
+      "country": "Angola",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BF",
+      "country": "Burkina Faso",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BI",
+      "country": "Burundi",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "BJ",
+      "country": "Benin",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BW",
+      "country": "Botswana",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CD",
+      "country": "Congo, The Democratic Republic of the",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CF",
+      "country": "Central African Republic",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CG",
+      "country": "Congo",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "CI",
+      "country": "Côte d'Ivoire",
+      "presence": "Possibly Extinct",
+      "origin": "Native",
+      "distribution_code": "Possibly Extinct"
+    },
+    {
+      "code": "CM",
+      "country": "Cameroon",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "DJ",
+      "country": "Djibouti",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "DZ",
+      "country": "Algeria",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "EG",
+      "country": "Egypt",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "EH",
+      "country": "Western Sahara",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "ER",
+      "country": "Eritrea",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "ET",
+      "country": "Ethiopia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GA",
+      "country": "Gabon",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "GH",
+      "country": "Ghana",
+      "presence": "Possibly Extinct",
+      "origin": "Native",
+      "distribution_code": "Possibly Extinct"
+    },
+    {
+      "code": "GM",
+      "country": "Gambia",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "GN",
+      "country": "Guinea",
+      "presence": "Possibly Extinct",
+      "origin": "Native",
+      "distribution_code": "Possibly Extinct"
+    },
+    {
+      "code": "GW",
+      "country": "Guinea-Bissau",
+      "presence": "Possibly Extinct",
+      "origin": "Native",
+      "distribution_code": "Possibly Extinct"
+    },
+    {
+      "code": "IL",
+      "country": "Israel",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "IN",
+      "country": "India",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "IQ",
+      "country": "Iraq",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "IR",
+      "country": "Iran, Islamic Republic of",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "JO",
+      "country": "Jordan",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "KE",
+      "country": "Kenya",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "KW",
+      "country": "Kuwait",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "LB",
+      "country": "Lebanon",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "LS",
+      "country": "Lesotho",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "LY",
+      "country": "Libya",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "MA",
+      "country": "Morocco",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "ML",
+      "country": "Mali",
+      "presence": "Possibly Extinct",
+      "origin": "Native",
+      "distribution_code": "Possibly Extinct"
+    },
+    {
+      "code": "MR",
+      "country": "Mauritania",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "MW",
+      "country": "Malawi",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MZ",
+      "country": "Mozambique",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NA",
+      "country": "Namibia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NE",
+      "country": "Niger",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NG",
+      "country": "Nigeria",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "PK",
+      "country": "Pakistan",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "RW",
+      "country": "Rwanda",
+      "presence": "Possibly Extinct",
+      "origin": "Native",
+      "distribution_code": "Possibly Extinct"
+    },
+    {
+      "code": "SA",
+      "country": "Saudi Arabia",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "SD",
+      "country": "Sudan",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SL",
+      "country": "Sierra Leone",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "SN",
+      "country": "Senegal",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SO",
+      "country": "Somalia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SS",
+      "country": "South Sudan",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SY",
+      "country": "Syrian Arab Republic",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "SZ",
+      "country": "Eswatini",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "TD",
+      "country": "Chad",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "TG",
+      "country": "Togo",
+      "presence": "Possibly Extinct",
+      "origin": "Native",
+      "distribution_code": "Possibly Extinct"
+    },
+    {
+      "code": "TN",
+      "country": "Tunisia",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "TR",
+      "country": "Turkey",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "TZ",
+      "country": "Tanzania, United Republic of",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "UG",
+      "country": "Uganda",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ZA",
+      "country": "South Africa",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ZM",
+      "country": "Zambia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "ZW",
+      "country": "Zimbabwe",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2016",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "2015",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "2012",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "2008",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "2004",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "2002",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1996",
+      "code": "VU",
+      "category": "Vulnerable"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.5",
+      "habitat": "Forest - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "2.1",
+      "habitat": "Savanna - Dry",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "3.5",
+      "habitat": "Shrubland - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "3.7",
+      "habitat": "Shrubland - Subtropical/Tropical High Altitude",
+      "suitability": "Marginal",
+      "season": "resident",
+      "majorimportance": null
+    },
+    {
+      "code": "4.5",
+      "habitat": "Grassland - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "4.7",
+      "habitat": "Grassland - Subtropical/Tropical High Altitude",
+      "suitability": "Marginal",
+      "season": "resident",
+      "majorimportance": null
+    },
+    {
+      "code": "8.1",
+      "habitat": "Desert - Hot",
+      "suitability": "Unknown",
+      "season": null,
+      "majorimportance": null
+    }
+  ]
+}

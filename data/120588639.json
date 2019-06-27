@@ -1,0 +1,246 @@
+{
+  "taxonid": 120588639,
+  "scientific_name": "Pongo tapanuliensis",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HOMINIDAE",
+  "genus": "Pongo",
+  "main_common_name": "Tapanuli Orangutan",
+  "authority": "Nurcahyo, Meijaard, Nowak, Fredriksson &amp; Groves, 2017",
+  "published_year": 2017,
+  "assessment_date": "2017-10-11",
+  "category": "CR",
+  "criteria": "A4bcd",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Nowak, M.G., Wich , S.A., Fredriksson, G., Meijaard, E., Rianti, P.",
+  "reviewer": "Williamson, E.A., Mittermeier, R.A.",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": null,
+  "elevation_lower": null,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": null,
+  "errata_reason": null,
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 120588639,
+  "taxonomicnotes": "This species was first described in 2017 (Nater <em>et al</em>.&#160;2017). The Nater <em>et al</em>. study showed that an isolated orangutan population in the Batang Toru region, which is the southernmost range of extant Sumatran Orangutans (<em>Pongo abelii</em>), south of Lake Toba, is distinct from other Sumatran and Bornean populations. Through a comparison of cranio-mandibular and dental characters from an orangutan killed during human-orangutan conflict to 33 adult male orangutans of similar developmental stage, the study found consistent differences between the Batang Toru individual and other extant Ponginae. Model-based approaches based on the analyses of 37 orangutan genomes supported the morphological results by revealing that the deepest split in the evolutionary history of extant orangutans occurred ~3.38 Ma ago between the Batang Toru population and those to the north of Lake Toba, while both currently recognized species separated much later at about 674 ka. The analyses show that there was a small gene flow between <em>P. abelii</em> and <em>P. tapanuliensis</em> until 10–20 ka. The combined analyses support a new classification of orangutans into three extant species.",
+  "rationale": "Due to high levels of habitat conversion and fragmentation, and illegal killing, <em>Pongo tapanuliensis</em> is estimated to have experienced a significant population reduction in recent decades. Forest loss data indicate that orangutan habitat below 500 m asl of both <em>P. tapanuliensis</em> and <em>P. abelii</em> was reduced by 60% between 1985 and 2007 (Wich <em>et al.</em> 2008, 2011). It is thought that this reduction will continue for the Tapanuli Orangutan as forests within its range remain under considerable threat (Wich <em>et al.</em> 2016). Significant areas of the Tapanuli Orangutan’s range are seriously threatened by habitat conversion for small-scale agriculture, mining exploration and exploitation, a large-scale hydroelectric scheme, geothermal development, and agricultural plantations. Approximately 14% of the geographic range of the Tapanuli Orangutan is not protected, nor even allocated as forest estate, and even the protected areas are not immune from the above threats (Wich <em>et al.</em> 2008, 2011, 2016). The Tapanuli Orangutan is also hunted (Wich <em>et al.</em> 2012). Due to their slow life history, with a generation time of at least 25 years (Wich <em>et al</em>. 2004, 2009), orangutans on Sumatra are unable to sustain substantial and continual loss of individuals. A quantitative population viability analysis estimated that in 1985 there were ~1,489 individuals of the Tapanuli Orangutan, and that these would decline to only 257 over a 75-year period to 2060 (Sumatran Orangutan Conservation Programme unpublished data). With current management, the key threats of loss of lowland habitat and hunting are not being effectively reduced, and we therefore predict an 83% decline over the course of three generations. The species therefore qualifies as Critically Endangered under criterion A4.",
+  "geographicrange": "<p>For much of the 20th century, orangutans on Sumatra were thought to be restricted to the north and west of Lake Toba, in and around the Leuser Ecosystem. Populations south of Lake Toba were overlooked, even though a 1939 review of the species’ range mentioned that orangutans had been reported in several forest areas in that region (Nederlandsch-Indische Vereeniging tot Natuurbescherming 1939). It was not until 1997 that these isolated orangutan populations were rediscovered (Meijaard 1997, Rijksen and Meijaard 1999). As a consequence of further sightings, published in 2003 (Wich&#160;<em>et al</em>. 2003), a study of the southern populations started in 2005 when the Sumatran Orangutan Conservation Programme (SOCP) began a conservation project in the mountainous Batang Toru region with the intent of conserving the orangutan population and their remaining habitat south of Lake Toba.<br/><br/>The only known population of <em>Pongo tapanuliensis</em> occurs in the uplands of the Batang Toru Ecosystem, an area of roughly 1,500&#160;km² consisting of three forest blocks, of which 1,022&#160;km²&#160;is suitable orangutan habitat (Wich <em>et al</em>. 2016). <em>Pongo tapanuliensis</em> is the least numerous of all great ape species.<br/><br/><em>Pongo tapanuliensis</em> was until relatively recently more widespread, with sightings further south in the lowland peat swamp forests in the Lumut area (Wich <em>et al</em>. 2003) and several nests encountered during a rapid survey in 2010 (G. Fredriksson pers. obs.). The forests in the Lumut area have in recent years almost completely been converted to oil-palm plantations. In 2008, a captive Tapanuli Orangutan was confiscated in Lumut. Observation were also made of a male orangutan in the Dolok Ginjang area, just north of the Batang Toru West forest block in the Adiankoting subdistrict in North Tapanuli, during a human conflict situation where an orangutan was shot at with an air rifle when it was found foraging on durian fruits (G. Fredriksson pers. obs.). Recent surveys in this area did not find any orangutan nests (Nowak <em>et al</em>. unpublished data).<br/><br/>A hunting trip report from 1879 described orangutan encounters near the small town of Mantinggi, south of the current population (0°58’ N, 100°0’ E) (Kramm 1879). In 1902, orangutan signs and reports were noted along several small rivers on the south side of the Sibolga Bay, west of Batang Toru (Miller 1903). Unsubstantiated reports suggest that orangutans, presumably <em>P. tapanuliensis</em>, may have occurred even further south in Sumatra in historic periods. A number of museum specimens are claimed to have come from Padang, Palembang and Jambi (Schlegel and Müller 1839–1844,&#160;Beccari 1904, Hooijer 1948, Veracini <em>et al</em>. 2010), and an orangutan kill was reported in 1930 near Palembang and along the Musi River toward the base of the Barisan Mountain range (Delmont 1930). These accounts suggest that isolated individuals or small populations of <em>P. tapanuliensis</em> may have survived outside the current range well into the 1900s, although without studying specimens from these areas, we cannot exclude that they could be <em>P. abelii</em>. Despite the distance to the south and their rarity, such reports are perhaps not surprising, as orangutans are long lived and isolated individuals or populations could potentially exist in fragmented landscapes for &gt;50 years, provided that food resources were available and stochastic processes were rare.</p>",
+  "population": "<p>With a population estimate of fewer than 800 individuals (Wich <em>et al</em>. 2016), <em>Pongo tapanuliensis</em> is the least numerous of all great ape species. Its distribution is separated by around 100 km from the closest population of <em>P. abelii</em> to the north. A combination of small population size and geographic isolation is of particularly high conservation concern, as it may lead to inbreeding depression (Hedrick and Kalinowski 2000) and threaten population persistence (Allendorf <em>et al</em>. 2013). Highlighting this, a recent study (Nater <em>et al</em>. 2017) discovered extensive runs of homozygosity in the genomes of two <em>P. tapanuliensis</em> individuals, pointing at the occurrence of recent inbreeding.<br/><br/>Only about 10% of the geographic range is in an area recognized by the World Database of Protected Areas. Another 76% is in Hutan Lindung (Protection Forest), and 14% does not have any 'forest status' in the spatial plans, despite the fact that it consists of rugged primary forest with the highest densities of Tapanuli Orangutans in the Batang Toru Ecosystem (SOCP unpublished data). This roughly translates to 8% of the total distribution located in nationally recognized conservation area (Cagar Alam, Strict Nature Reserve), 78% in Protection Forest (Hutan Lindung), and the remaining 14% of the range is entirely unprotected.</p>",
+  "populationtrend": "decreasing",
+  "habitat": "<p>Despite a complex geological history, the underlying parent material within the geographic range of <em>Pongo tapanuliensis</em> consists primarily of recent (i.e., Quaternary, &lt;2.588 Ma) igneous rock, most of which is acidic volcanic rock from the Toba super-eruption of ~74 ka (Subardja <em>et al</em>. 1990, Oppenheimer 2002, Barber <em>et al</em>. 2005). This is in stark contrast to the north Sumatran Orangutan population that persists in forests atop older (i.e., Tertiary and above, &gt;2.588 Ma) igneous and sedimentary rock (Darul Sukma <em>et al</em>. 1990a, 1990b, 1990c, 1990d, Hidayat <em>et al</em>. 1990, Hikmatullah <em>et al</em>. 1990, Wahyunto <em>et al</em>. 1990, Barber <em>et al</em>. 2005). While comparative data in the format analysed for Sumatra are lacking for Borneo, previously published reconstructions of Borneo’s geology highlighted a complex geological history that was in general different from that of Sumatra. This includes large swaths of landscape with pre-Cenozoic and Cenozoic sedimentary rock, with comparatively fewer areas characterized by igneous rock formations (Hall <em>et al</em>. 2008).<br/><br/>Using freely available WorldClim data (Hijmans <em>et al</em>. 2005), <em>P. tapanuliensis</em> can be differentiated from <em>P. abelii</em> by a highly narrow ecological niche, including a restricted upland elevation range (<em>P. abelii</em>: 701.7±454.8 m asl; <em>P. tapanuliensis</em>: 834.4±219.3 m asl), cooler average temperatures (<em>P. abelii</em>: 23.3±2.5°C; <em>P. tapanuliensis</em>: 22.1±1.2°C), and relatively high levels of average yearly rainfall (<em>P. abelii</em>: 2,435.1±460.5 mm/year; <em>P. tapanuliensis</em>: 2,607.5±231.2 mm/year). Similarly, compared to <em>P. pygmaeus</em>, <em>P. tapanuliensis </em>occurs at much higher elevation (<em>P. pygmaeus</em>: 170.6±187.0 m asl; <em>P. tapanuliensis</em>: 834.4±219.3 m asl), and experiences far lower average temperatures (<em>P. pygmaeus</em>: 26.0±1.0°C; <em>P. tapanuliensis</em>: 22.1±1.2°C), and lower levels of average rainfall (<em>P. pygmaeus</em>: 2,827.3±420.9 mm/year; <em>P. tapanuliensis</em>: 2,607.5±231.2 mm/year). At SOCP’s long-term monitoring station, average monthly temperature from 2009–2015 was recorded as 22.0°C (±0.89°C, n=83 months), with a monthly range of 20.5–24.2°C, whereas average total rainfall from 2009–2015 was recorded as 3,654 mm per year (±390.0 mm, n=7 years), with a yearly range of 3,186-4,210 mm (SOCP unpublished data).<br/><br/>Provided that climate, parent material, and time are key factors in soil formation/quality, and thus forest productivity/quality (Tan 2008, Marshall <em>et al</em>. 2009, Wich <em>et al</em>. 2011, Bockheim <em>et al</em>. 2014), the aforementioned factors are key distinctions between the <em>P. tapanuliensis</em> and most Bornean and north Sumatran Orangutan populations. A recent study showed that forest compositions experienced by <em>P. tapanuliensis</em> are at present mainly known from upland areas of southern Sumatra and Borneo, areas that notably do not currently maintain orangutan populations (Slik <em>et al</em>. 2011). They are largely restricted to primary forest, though they do venture into disturbed habitat at forest edges.<br/><br/>As noted by Wich and colleagues (Wich <em>et al</em>. 2014), <em>P. tapanuliensis</em> was observed feeding on a number of tree species that had not previously been recorded as orangutan food species. These unique species include <em>Agathis borneensis</em> from the Araucariaceae family, <em>Gymnostoma sumatranum</em> from the Casuarinaceae family, and <em>Dacrycarpus imbricatus</em>, <em>Dacrydium beccarii</em>, <em>Dacrydium comosum</em>, and <em>Podocarpus neriifolius</em> from the Podocarpaceae family. To our knowledge, occasional feeding on species from these families had only been documented in Gunung Palung, Borneo (fruits of an unidentified <em>Agathis</em> species and vegetation of an unknown <em>Casuarina</em> species [Casuarinaceae]), and Ketambe, Sumatra (bark of <em>Sundacarpus amara</em> [Podocarpaceae]) (Russon&#160;<em>et al</em>.&#160;2009). In contrast, the five aforementioned conifer species (Araucariaceae and Podocarpaceae) and one non-conifer evergreen species (Casuarinaceae) represent 21.9% of all feeding observations (n=58,558 two-minute instantaneous samples) recorded between 2011 and 2015 at SOCP’s long-term monitoring station in the Batang Toru Ecosystem (SOCP unpublished data). Thus, a significant proportion of the dietary profile of Tapanuli Orangutans is markedly different from that of previously studied orangutan populations.</p>",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "11.1",
+      "title": "Habitat shifting & alteration",
+      "timing": "Ongoing",
+      "scope": "Whole (>90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "1.3",
+      "title": "Tourism & recreation areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "3.2",
+      "title": "Mining & quarrying",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "4.1",
+      "title": "Roads & railroads",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.3.3",
+      "title": "Unintentional effects: (subsistence/small scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.3.4",
+      "title": "Unintentional effects: (large scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "7.1",
+      "title": "Fire & fire suppression",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "7.1.1",
+      "title": "Increase in fire frequency/intensity",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "<p>To ensure the long-term survival of <em>Pongo tapanuliensis</em>, conservation measures need to be implemented swiftly. Due to the rugged terrain, external threats have been primarily limited to illegal clearing of forests, hunting, killings during crop conflict and trade in orangutans (Wich <em>et al</em>. 2012, Wich <em>et al</em>. 2016<a href=\"#_ENREF_31\" title=\"Wich, 2016 #43\"></a>). A hydroelectric development has been proposed recently in the area of highest orangutan density, which could impact nearly 10% of <em>P. tapanuliensis’</em> population. This project might lead to further genetic impoverishment and inbreeding, as it would jeopardize chances of maintaining habitat corridors between the western and eastern range, and smaller nature reserves, all of which maintain small populations of <em>P. tapanuliensis</em>.<br/><br/>The Tapanuli Orangutan is also protected by international legislation by default because it is included within the old concept of <em>P. abelii</em> which is listed on CITES Appendix I.</p>",
+  "usetrade": "It is illegal to capture, injure, kill, own, keep, transport, or trade an orangutan.",
+  "countries": [
+    {
+      "code": "ID",
+      "country": "Indonesia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2017",
+      "code": "CR",
+      "category": "Critically Endangered"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    }
+  ]
+}

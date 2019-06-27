@@ -1,0 +1,186 @@
+{
+  "taxonid": 10550,
+  "scientific_name": "Hylobates moloch",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HYLOBATIDAE",
+  "genus": "Hylobates",
+  "main_common_name": "Silvery Gibbon",
+  "authority": "(Audebert, 1798)",
+  "published_year": 2008,
+  "assessment_date": "2008-06-30",
+  "category": "EN",
+  "criteria": "C2a(i)",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Andayani, N., Brockelman, W., Geissmann, T., Nijman, V. & Supriatna, J.",
+  "reviewer": "Mittermeier, R.A. & Rylands, A.B. (Primate Red List Authority)",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 2450,
+  "elevation_lower": null,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": null,
+  "errata_reason": null,
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 10550,
+  "taxonomicnotes": "This taxon is monotypic (Geissman <i>et al</i>. 2002; T. Geissmann pers. comm.), although it has been suggested that there is evidence for two genetically distinct silvery gibbon populations (Andayani <i>et al</i>. 2001), leading to the subsequent recognition of two subspecies by several authors (Hilton-Taylor 2000, Supriatna 2006, Supriatna and Wahyono 2000), a recent review of the molecular evidence and a comparison of morphological and vocal data casts doubt on this claim (Geissman <i>et al</i>. 2002, T. Geissmann pers. comm.).",
+  "rationale": "Listed as Endangered because its population size is estimated to number fewer than 2,500 mature individuals, there is an observed continuing decline in the number of mature individuals, and no subpopulation contains more than 250 mature individuals. The change in status from Critically Endangered to Endangered reflects the availability of better information and does not suggest that the threats have decreased; in fact, threats continue to increase but do not yet reach the level necessary to be classified as Critically Endangered. There is concern about the legal status of the largest populations; this species, therefore, should be periodically reassessed so that current status and persistent threats are monitored.",
+  "geographicrange": "<em>Hylobates moloch</em> is endemic to Java (Indonesia). It is mostly confined to Java’s western provinces (Banten and West Java), but is also present in central Java (as far east as the Dieng Mountains).",
+  "population": "From 1994-2002, Nijman (2004) assessed the entirety of the silvery gibbon’s population in its known areas of occurrence by using fixed-point counts and forest transect walks, as well as by a review of literature. Their presence was detected by listening for gibbon song, and affirmed by local park officers and residents. He estimates that between 4,000–4,500 individuals remain in over 15 different locations. Over 95% of the gibbons are in populations of more than 100 individuals, and the four largest areas support populations of more than 500 individuals each (Nijman 2004). Asquith (2001) reported that in 1995 nine local populations had gone extinct, though Nijman found two of these locales to still harbor silvery gibbons. This is attributed to the effects of habitat disturbance and low population density on calling frequency, and suggests an under-representation of gibbon abundance and number of remaining populations (Nijman 2004). Small populations of the species are likely to go extinct; however, this will not impact the overall population estimate in the immediate future (Nijman pers. comm.).<br/><br/>Median population density ranges are 2.7 groups/km<sup>2</sup> or 9.0 individuals/km<sup>2</sup> in lowland forest (&lt;500 m), 2.6 groups/km<sup>2</sup> or 8.6 individuals/km<sup>2</sup> for hill forest (500-1,000 m), and 0.6 groups/km<sup>2</sup> or 1.5 individuals/km<sup>2</sup> for lower montane forest (1000-1,750 m) (Geissmann and Nijman 2006; Nijman 2004).",
+  "populationtrend": "decreasing",
+  "habitat": "<em>Hylobates moloch</em>resides in floristically rich patches of relatively undisturbed lowland to lower montane rainforest mostly below 1,600 m, but sometimes up to 2,000–2,400 m (Nijman 2004). It can also tolerate moderately disturbed forest.<br/><br/>The species is strictly arboreal and diurnal, and mainly frugivorous (Kappeler 1981, 1984). Home ranges in Ujung Kulon cover about 17 ha (Kappeler 1981, 1984). Inter-birth intervals in wild gibbons are typically 3-3.5 years (Leighton 1987; Palombit 1992), and age of sexual maturity and/or the age of dispersal in wild gibbons is about 8-10 years (Brockelman <em>et al</em>. 1998; Geissmann 1991), but the age at first reproduction may be about 10-12 years (Brockelman <em>et al</em>. 1998)",
+  "threats": [
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.2",
+      "title": "Wood & pulp plantations",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.2.1",
+      "title": "Small-holder plantations",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3.5",
+      "title": "Motivation Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "Javan gibbons have been protected throughout their range by Indonesian law since 1924, and are listed under CITES Appendix I.<br/><br/>Three of the 15 locales that support the largest populations of silvery gibbons surveyed by Nijman are in national parks, while five are part of, or the entirety of, so-called “strict nature reserves”. The remaining seven locales are unprotected; approximately half of the remaining populations collectively reside here. In the interest of this species, it is these areas that require some level of increased protection (Nijman 2004). The second largest population of this species (for example in the Dieng Mountains) is not in a protected area.<br/><br/>In 2003, 56 Javan gibbons were maintained at eight Indonesian zoos, 15 at four Indonesian wildlife rescue centers, with five potential breeding pairs. There is no evidence that the species has bred successfully in captivity in Indonesia. Outside the range country, 48 Javan gibbons were maintained at ten institutions in nine countries, with six breeding pairs. The total <em>ex-situ</em> population is some 120 individuals, the majority of which are wild-caught (Nijman 2006).",
+  "usetrade": null,
+  "countries": [
+    {
+      "code": "ID",
+      "country": "Indonesia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2008",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2000",
+      "code": "CR",
+      "category": "Critically Endangered"
+    },
+    {
+      "year": "1996",
+      "code": "CR",
+      "category": "Critically Endangered"
+    },
+    {
+      "year": "1994",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1990",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1988",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1986",
+      "code": "E",
+      "category": "Endangered"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "No"
+    }
+  ]
+}

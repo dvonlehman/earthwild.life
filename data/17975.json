@@ -1,0 +1,273 @@
+{
+  "taxonid": 17975,
+  "scientific_name": "Pongo pygmaeus",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HOMINIDAE",
+  "genus": "Pongo",
+  "main_common_name": "Bornean Orangutan",
+  "authority": "(Linnaeus, 1760)",
+  "published_year": 2016,
+  "assessment_date": "2016-02-08",
+  "category": "CR",
+  "criteria": "A4abcd",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Ancrenaz, M., Gumal, M., Marshall, A.J., Meijaard, E., Wich , S.A. & Husson, S.",
+  "reviewer": "Williamson, L. & Mittermeier, R.A.",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 500,
+  "elevation_lower": 0,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": true,
+  "errata_reason": "The original version of this assessment was published with an older version of the distribution map. This errata assessment uses the updated distribution map.",
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 17975,
+  "taxonomicnotes": "Although there is ongoing debate about the taxonomic status of the Bornean Orangutan (see review in Goossens <em>et al.</em> 2009); three subspecies are currently recognized for the taxon:<br/><em><br/>P. p. pygmaeus</em>: Northwest Bornean Orangutan:<br/><ul><li>State of Sarawak (Malaysia)</li><li>Province of West Kalimantan (Indonesia)</li></ul><br/><em>P. p.&#160;</em><em>wurmbii</em>: Southwest Bornean Orangutan:<br/><ul><li>Province of West Kalimantan (Indonesia)</li><li>Province of Central Kalimantan (Indonesia)</li></ul><br/><em>P. p.&#160;</em><em>morio</em>: Northeast Bornean Orangutan:<br/><ul><li>State of Sabah (Malaysia)</li><li>Province of North Kalimantan (Indonesia)</li><li>Province of East Kalimantan (Indonesia)</li></ul><p></p>    <p><br/></p>",
+  "rationale": "<p>Bornean Orangutans are lowland forest specialists, rarely found above 500 m asl. In the 1950s, the habitat suitable for orangutans extended across ~255,000&#160;km²&#160;of the island of Borneo (see below).<br/><br/>The two major reasons why most Bornean Orangutans populations are in sharp decline are (1) destruction, degradation and fragmentation of their habitats, and (2) hunting. Recurrent forest fires, especially in peat forests, cause additional sharp declines about once every decade. Bornean Orangutans decreased by more than 60% between 1950 and 2010, and a further 22% decline is projected to occur between 2010 and 2025 (see below). Combined, this equates to a loss of more than 82% over 75 years, 1950–2025. Given that a Bornean Orangutan's generation length is ~25 years (Wich <em>et al</em>. 2009), this decline will occur in a period of three generations. Each of the <em>Pongo pygmaeus</em> subspecies is roughly equally affected. Only one comprehensive quantitative survey of Bornean Orangutans has been conducted, in 2010, which prohibits quantitative assessment of changes in numbers for most populations. Temporal changes in population status are therefore best assessed via the proxies of habitat loss and hunting rates. A detailed rationale for a population decline of more than 86% between 1950 and 2025 follows.<br/><br/>The most accurate estimate of the geographic range of Bornean Orangutans showed that in 2010, 59.6% of the forest remaining in Borneo was suitable habitat (155,106&#160;km²&#160;of 260,109&#160;km²&#160;of forest: Wich <em>et al</em>. 2012, Gaveau <em>et al.</em> 2014). Considering that in 1973, 75.7% of Borneo (424,753&#160;km²) was under natural forest (Gaveau <em>et al</em>. 2014), we estimate that 253,153&#160;km²&#160;of forest was orangutan habitat at this time.<br/><br/>Mechanized logging in Borneo started in the early 1950s, and industrial logging and forest conversion intensified in the late 1960s. The rate of forest conversion is difficult to estimate prior to 1973 due to the lack of satellite imagery, but a recent spatial analysis evaluated forest persistence, clearance and logging spanning the 37 years between 1973 and 2010 (Gaveau <em>et al</em>. 2014). We take the rate of forest loss documented from 1973 to 2010 as conservative and <em>de facto</em> lower than if data were available from 1950.<br/><br/><strong>1. Habitat loss and orangutan decline<br/></strong>During the period 1973–2010, 39% of Bornean forests were lost (Gaveau <em>et al</em>. 2014), representing a net loss of 98,730&#160;km²&#160;of prime orangutan habitat. It is estimated that a further 37% of suitable orangutan habitat (155,106&#160;km²) will be converted to plantations between 2010 and 2025, which accounts for the loss of an additional 57,140&#160;km²&#160;of orangutan habitat (Wich <em>et al</em>. 2012). Compared to the baseline (253,153&#160;km²), more than 155,867&#160;km²&#160;or of 61.5% of orangutan habitat will be gone by 2025; see Table 1 in Supplementary Material.<br/><br/>The orangutan habitat remaining in 2010 (97,716&#160;km²) was either protected or designated for timber production (Wich <em>et al</em>. 2012). Nonetheless, forest loss is expected to occur here too, owing to fires, encroachment and smallholder plantation development. Rates of forest loss measured at two sites with the largest Borneo orangutan populations are: 1.9% per year (1991–2000) and 1.5% per year (2000–2007) at Sebangau National Park (Husson <em>et al</em>. 2015); and 2.4% per year including the buffer zone, or 1.1% excluding the buffer zone (1988–2002) at Gunung Palung National Park (Curran <em>et al</em>. 2004). The rate of loss in production forests outside formally protected areas will undoubtedly be&#160;higher (Santika <em>et al</em>. 2015). Thus we conservatively estimate the ongoing rate of loss in this administrative type of forest to be 1.5% per year. This will represent another 19,821&#160;km²&#160;of forest lost between 2010 and 2025: 20.2% of the orangutan habitat in 2010, or 8.7% in 1973.<br/><br/><strong>2. Habitat degradation and orangutan decline<br/></strong>In addition to habitat loss, selective logging has degraded 56% of Bornean Orangutan habitat since 1973 (Gaveau <em>et al</em>. 2014). The impacts of logging on orangutan density are variable, from little change in lightly-logged forest to major negative impacts in heavily-logged forest (Ancrenaz <em>et al</em>. 2010). For example, selective&#160;artisanal&#160;logging reduced orangutan densities in peat-swamp forests by 21–30% (Husson <em>et al</em>. 2009), while mechanised logging in dryland forests is presumed to have a greater impact. Thus, 56% of the&#160;Bornean Orangutan&#160;range could undergo a&#160;20%&#160;decrease in carrying capacity. This estimate is conservative, considering that in Kalimantan the total area of natural forest allocated for timber extraction is increasing. Reduction in carrying capacity due to logging would then equate to a loss of 7% of the 1973 population by 2010, and overall accounts for 4% of the total projected 1973–2025 population decline.<br/><br/><strong>3. Hunting and orangutan decline<br/></strong>The widespread impacts of illegal hunting had not been quantified prior to a major questionnaire study throughout Kalimantan in 2008–2009 (Meijaard <em>et al</em>. 2011). The authors estimated that 630–1,357 Bornean Orangutans were killed in 2008 and that an average of 2,383–3,882 per year had been killed during the lifetimes of the survey respondents. The mean estimate (2,256 orangutans poached in Kalimantan each year) equates to 2.6% of the 2010 population for Kalimantan. Population losses due to hunting may be partially offset by population growth, which has a maximum theoretical rate of 2% annually (Marshall <em>et al</em>, 2009). The only study to have measured growth in a Bornean Orangutan population was carried out in Sebangau National Park in a population recovering from a logging-induced crash. Here, growth was relatively uninhibited and estimated to increase at an average annual rate of 1.6% between 2001 and 2013 (Husson <em>et al</em>. 2015). It is highly unlikely that a continuously-hunted population could recover at this rate, but in order to take into account uncertainties in determining the level of hunting, a 1.5% growth rate is applied, resulting in a net population decrease due to hunting of 1.1% annually. This equates to an additional loss (once habitat clearance and impacts of logging are factored in) of 18% of the 1973 population by 2010 and 7% of the 2010 population by 2025. Overall, poaching contributes 12% to the estimated 1973–2025 population decrease.<br/><br/>The combined impacts of habitat loss, habitat degradation and illegal hunting equate to an 86% population reduction between 1973 and 2025 which qualifies the species for listing as Critically Endangered. This estimate is relatively conservative, as it does not include additional future population losses anticipated due to stochastic effects that will reduce populations inhabiting increasingly small forest fragments.<br/><br/>Orangutan habitat loss and killing were already significant threats during the period 1950–1973, and the species was already declining at this time. However the paucity of data for this period prevents to estimate a specific rate of population decline for this specific period of time. However, if we assume that orangutan abundance in 1950 was similar to that in 1973 (which is not the case because any declines that occurred between 1950 and 1973 are not accounted for), our analysis shows that the species will suffer a more than 80% decline in three generations (1950–2025).</p>",
+  "geographicrange": "The Bornean Orangutan is endemic to the island of Borneo where it is present in both the Malaysian states of Sabah and Sarawak, as well as in&#160;four of the five Indonesian Provinces of Kalimantan: North, East,&#160;Central and&#160;West&#160;Kalimantan.&#160;The distribution of Bornean Orangutans is highly patchy throughout the island; they are apparently absent or uncommon in the southeast, the forests between the Rejang River in central Sarawak, and the Padas River in western Sabah (including the Sultanate of Brunei).&#160;The Bornean Orangutan occurs preferentially in lowland forests below 500 m asl, but some individuals can also be found in highland habitats, for example, up to 1,500 m asl in Kinabalu National Park. Large rivers are natural barriers that are impassable to these animals and limit their dispersal (Goossens <em>et al</em><em>.</em> 2005).",
+  "population": "<p>Climatic change and human pressure have resulted in significant reductions in the range and numbers of Bornean Orangutans during the recent historic past (Goossens&#160;<em>et al</em>. 2006, Meijaard&#160;<em>et al</em>. 2010).<br/><br/>The total number of orangutans in Borneo is not precisely known, except for Sabah, where comprehensive aerial surveys in the early 2000s provided an estimate of 11,000 individuals for the entire State (Ancrenaz&#160;<em>et al</em>. 2005). The most recent (2004) estimate for the species is that <em>c.</em> 55,000&#160;Bornean Orangutans inhabit 82,000&#160;km²&#160;of forest (Wich <em>et al</em>. 2008). However, using modelling and the latest field data available for Borneo, a revised map of their current distribution gives a larger range estimate of 155,000&#160;km², or 21% of Borneo’s landmass (Wich <em>et al</em>. 2012). If the mean average orangutan density recorded in 2004 (0.67 individuals/km²) is applied to the updated geographic range, then the total population estimate would be 104,700 individuals.&#160;This represents a decline from an estimated 288,500 individuals in 1973 and is projected to decline further to 47,000 individuals by 2025.<br/><br/>Compounding loss of habitat, recent interview surveys in Kalimantan have concluded that 2,000–3,000 orangutans were killed every year in Indonesian Borneo during the past four decades alone (Meijaard <em>et al</em>. 2011). This would represent a loss of 44,170–66,570 individuals (Davis <em>et al</em>. 2013), or more than 50% of the original population in just 40 years. Such a rate of killings is unsustainable (Marshall <em>et al</em>. 2009) and many populations will be reduced or become extinct in the next 50 years (Abram <em>et al</em>. 2015).</p>",
+  "populationtrend": "decreasing",
+  "habitat": "<p>Bornean Orangutans are the largest arboreal mammals in the world, although they walk significant distances on the ground (Ancrenaz <em>et al</em>. 2014). Historically,&#160;Bornean Orangutans were most abundant in inundated and semi-inundated lowland Dipterocarp mosaic forests, where movement between different habitat types could buffer them against shortages in food availability in a particular habitat type. Their diet consists primarily of fruits, but also includes leaves, barks, flowers and insects (Russon&#160;<em>et al</em>. 2009).<br/><br/>Bornean Orangutans&#160;live a semi-solitary life and rarely aggregate in groups. Males are the dispersing sex: upon reaching sexual maturity (at 10–12 years old), they leave the area where they were born to establish large territories covering several hundred hectares. Females’ territories are smaller, with actual size depending on forest type and availability of food resources. Bornean Orangutans are very slow breeders and produce on average one offspring every 6–8 years, which explains their extreme sensitivity to hunting pressure. Females reach maturity at 10–15 years old; they generally give birth to a single infant after a gestation period of approximately 254 days (Kingsley 1981).</p>",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "11.1",
+      "title": "Habitat shifting & alteration",
+      "timing": "Ongoing",
+      "scope": "Whole (>90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "2.2",
+      "title": "Wood & pulp plantations",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "2.2.2",
+      "title": "Agro-industry plantations",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "3.2",
+      "title": "Mining & quarrying",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.3.5",
+      "title": "Motivation Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "7.1",
+      "title": "Fire & fire suppression",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "7.1.1",
+      "title": "Increase in fire frequency/intensity",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "<p>The Bornean Orangutan is fully protected in Malaysia and Indonesia, and is listed on Appendix I of CITES.&#160;However, its forest habitat is not necessarily protected: about 20% of the current orangutan range in Sabah, and 80% in Kalimantan is not protected (Wich <em>et al</em>. 2012). Innovative mechanisms to ensure the long-term survival of Bornean Orangutans outside protected forests are urgently needed.<br/><br/>The future of&#160;Bornean Orangutans&#160;will very much depend on the long-term security of large, strictly-protected forests where illegal logging and hunting will be efficiently controlled and the orangutan populations large enough to cope with catastrophic events such as fires and disease outbreaks (Meijaard <em>et al</em>. 2011). These forests need to contain the ecological gradients that will provide the&#160;key resources to sustain orangutans through climate and other gradual environmental changes (Gregory <em>et al</em>. 2012). In the larger landscape, scientifically-based, regional land-use planning is needed to delineate zones of interaction around protected forests and their surroundings, encompassing hydrological, ecological and socio-economic interactions. Ideally, the core protected areas will remain connected to other areas of forest that could be used sustainably for (commercial) timber extraction. The design of such living landscapes must be approached across the whole landscape rather than at the site level.</p>",
+  "usetrade": "For information on use and trade, see under Threats.",
+  "countries": [
+    {
+      "code": "ID",
+      "country": "Indonesia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MY",
+      "country": "Malaysia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2016",
+      "code": "CR",
+      "category": "Critically Endangered"
+    },
+    {
+      "year": "2008",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2007",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2000",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1996",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1994",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1990",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1988",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1986",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1965",
+      "code": null,
+      "category": "\"Very rare and believed to be decreasing in numbers\""
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    }
+  ]
+}

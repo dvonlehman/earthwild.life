@@ -1,0 +1,889 @@
+{
+  "taxonid": 15953,
+  "scientific_name": "Panthera onca",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "CARNIVORA",
+  "family": "FELIDAE",
+  "genus": "Panthera",
+  "main_common_name": "Jaguar",
+  "authority": "(Linnaeus, 1758)",
+  "published_year": 2017,
+  "assessment_date": "2016-08-05",
+  "category": "NT",
+  "criteria": null,
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Payan, E., Foster, R., Salom, R., Quigley, H., Harmsen, B., Petracca, L.",
+  "reviewer": "Nowell, K., Lanz, T., González-Maya, J.F., Breitenmoser-Würsten, C., Medellín, R., De La Torre, A., Ceballos, G., Schipper, J., Hunter, L., Breitenmoser, U.",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 3000,
+  "elevation_lower": 0,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": true,
+  "errata_reason": "The original version of this assessment was published with an older version of the distribution map. This errata assessment uses the updated distribution map.",
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 15953,
+  "taxonomicnotes": "The status of the subspecies is unclear. Although eight subspecies have been recognized (Seymour 1989), morphological and genetic analyses do not support the existence of discrete subspecies (Larson 1997, Eizirik <em>et al.</em> 2001, Ruiz-Garcia <em>et al.</em> 2006). While not elevating the regional differences to the subspecies level, Eizirk <em>et al.</em> (2001) found evidence for four incompletely isolated phylogeographic groups: Mexico and Guatemala, southern Central America, northern South America, and South America south of the Amazon River. Similarly, Ruiz-Garcia <em>et al.</em> (2006) found that the Andes Mountains incompletely isolates Jaguar populations in Colombia.",
+  "rationale": "Classify as Near Threatened, due to a suspected 20-25% decline over the past three generations (21 years) in area of occupancy, extent of occurrence, and habitat quality, along with actual or potential levels of exploitation. Given the inherent difficulty of assessing this species, the normally low density with which it occupies the landscape and the effects that small population and habitat degradations can have on the species, our minimum assessment of population decrease could be a significant underestimate.<br/><br/>Since the previous Red List assessment in 2008, the threats to Jaguars have continued or intensified. The first expert mapping of Jaguar range took place in 2002 (Sanderson <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2002), and the resulting map was used for the 2008 Red List assessment. Today, more is known about Jaguar distribution and abundance, allowing us to retrospectively classify areas as Jaguar range in 2015 that were previously identified as non-range or gaps in knowledge (Supplementary Material Figure 1). The 2015 mapping exercise also reflects updates to range recommended by Jaguar experts, with sufficient evidence (i.e., tracks, camera-trap photos, sightings of live or dead animals) to warrant inclusion/exclusion of range. The updated range indicates increasing fragmentation of Jaguar populations, particularly in eastern and southeastern Brazil, northern Venezuela and the Maya Forest (Selva Maya) of Mexico and Guatemala. Comparing 2015 Jaguar range to the extent of “known” range from the 2002 exercise, thereby controlling for the difference in knowledge extent, there is a 20.0% decline in Jaguar range over the past fourteen years (2002-2015), from 8.77 million km² to 7.02 million km² (Figure 2 in the Supplementary Material). With a more robust range map from which to begin the next assessment, the species will likely qualify for VU in the near future.<br/><br/>With a generation length of 6.84 years, we suspect at least a 20-25% loss in mature individuals over the past 21 years (three generations) because there are documented population declines together with habitat loss for most of the range countries (Ceballos <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2011, Costa <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2005, Payán <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2013b, Wallace <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2013, Espinosa <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, García-Anleu <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, González-Maya <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, Hoogesteijn <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, Maffei <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, Mora <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, Moreno <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, Payán <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, Chávez <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, Olsoy <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, de Azevedo <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, Di Bitetti <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, Díaz-Santos <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, Paviolo <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016, Jedrzejewski <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016). Connectivity among Jaguar populations is being lost at local and regional scales (de la Torre <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2017a, Olsoy <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016); isolated populations have fewer individuals and are more prone to local extinctions (Ceballos <em><em><em><em><em><em>et al.</em></em></em></em></em></em> in press). Jaguar-livestock conflict is a serious threat to Jaguar survival and reported throughout their range (Hoogesteijn and Hoogesteijn 2011, Quigley <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2015, de la Torre <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2016). Even in nominally protected areas, Jaguars often suffer from human impacts such as illegal hunting (Quigley and Crawshaw Jr 1992, Medellín <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2002, Sollmann <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2008, Ceballos <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2011, Payán <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2013a, Petracca <em><em><em><em><em><em>et al.</em></em></em></em></em></em> 2014).",
+  "geographicrange": "The Jaguar is the largest cat of the Americas, and the only living representative of the genus <em>Panthera </em>in the New World (Nowell and Jackson 1996). Historically it ranged from the southwestern US (where there are still some vagrants close to the Mexican border) through the Amazon basin to the Rio Negro in Argentina (McCain and Childs 2008, Di Bitetti <em><em><em><em><em>et al.</em></em></em></em></em> 2016). Its extent of occurrence (EOO) (updated with the collaboration of 44 experts—see the lists of Assessors and Contributors and the Assessment Rationale section for a thorough description) is estimated at 9.02 million km², with its stronghold the rainforest of the Amazon basin, which comprises 57% of its total EOO. The Jaguar has been virtually eliminated from much of the drier northern parts of its range—Arizona and New Mexico in the United States, and extreme northern Sonora state in Mexico—( Johnson and Van Pelt 2016), as well as northern Brazil, the pampas scrub grasslands of Argentina and throughout Uruguay (de Azevedo <em><em><em><em><em>et al.</em></em></em></em></em> 2016, Di Bitetti <em><em><em><em><em>et al.</em></em></em></em></em> 2016, Pereira-Garbero and Sappa 2016). In 2002, Jaguars were estimated to occupy only about 46% of its historic range (Sanderson <em><em><em><em><em>et al.</em></em></em></em></em> 2002). With our improved knowledge of Jaguar range (see the Assessment Rationale and Figure 1 in the Supplementary Material), this percentage is set at 51% currently.<br/><br/>Sanderson <em><em><em><em><em>et al.</em></em></em></em></em> (2002) defined the most important areas for conservation of viable Jaguar populations (Jaguar Conservation Units or JCUs). These 51 areas cover 44.49 million km², or 49% of Jaguar range according to present calculations.",
+  "population": "<u><strong>Historic assessment of Jaguar viability </strong></u><br/><strong>High chance of survival:</strong> Sanderson <em><em><em><em>et al.</em></em></em></em> (2002) estimated that populations in 70% of the Jaguar range (over 6 million km²) had a high probability for survival. Most of that area consists of the Amazon Basin rainforest, and adjoining areas of the Pantanal and Gran Chaco (Torres <em><em><em><em>et al.</em></em></em></em> 2007). Other areas considered by Sanderson <em><em><em><em>et al.</em></em></em></em> (2002) to have a high probability for long-term Jaguar persistence included tropical moist lowland forest in Mesoamerica (the Selva Maya of Guatemala, Mexico and Belize) and a narrow strip of the Choco-Darien of Panama and Colombia to northern Honduras.<br/><br/><strong>Medium chance of survival: </strong>Sanderson <em><em><em><em>et al.</em></em></em></em> (2002) estimated that Jaguar populations in 18% of the Jaguar range (1.6 million km²) had a medium probability of long-term survival. These areas are generally adjacent to the areas considered to have a high-probability probability of survival and include a large portion of the northern Cerrado, most of the Venezuelan and Colombian llanos, and the northern part of Colombia on the Caribbean coast. In Central America and Mexico, they include the highlands of Costa Rica and Panama, southern Mexico, and the two eastern mountain ranges of Mexico, Sierra de Taumalipas and the Sierra Madre Oriental.<br/><br/><strong>Low chance of survival:</strong> Sanderson <em><em><em><em>et al.</em></em></em></em> (2002) classified the remainder of Jaguar range (12%) as having a low probability for Jaguar survival, and of most urgent conservation concern. These areas include the Atlantic Tropical Forest and Cerrado of Brazil; parts of the Chaco in northern Argentina; the Gran Sabana of northern Brazil, Venezuela and Guyana; parts of the coastal dry forest in Venezuela; and the remaining range in Central America and Mexico.<br/><br/><strong><u>Current assessment of Jaguar populations</u></strong><br/><strong>Mexico</strong>: Jaguar densities in Mexico have been estimated from 0.75 to 6 adults per 100 km² (Ceballos <em><em><em><em>et al.</em></em></em></em> 2011, Chávez <em><em><em><em>et al.</em></em></em></em> 2016). The Jaguar population in the Selva Maya in the Yucatan Peninsula in Mexico was estimated in 2000 individuals (Ceballos <em><em><em><em>et al.</em></em></em></em> in press, Rodriguez-Soto <em><em><em><em>et al.</em></em></em></em> 2013). In the Greater Lacadona Ecosystem in southern Mexico, Jaguar density was estimated at 1.7-4.6/100 km², with an estimated population of 62 to 168 Jaguars within the protected areas of this region (de la Torre and Medellín 2011). Overall, Mexico’s national Jaguar census estimated at 4,000-5,000 individuals in 2011 (Ceballos <em><em><em><em>et al.</em></em></em></em> in press). The northern and central areas of Mexico are however becoming increasingly isolated with Jaguars disappearing where they were previously still detected (Grigione <em><em><em><em>et al.</em></em></em></em> 2009, Rosas-Rosas and Bender 2012).<br/><br/><strong>Central America</strong>: Estimates of Jaguar density from Mesoamerica from 27 studies conducted from 2000 to 2010 range from 0.74 to 11.2 /100 km², however most of the studies did not cover the minimum area to ensure unbiased density estimates (Maffei <em><em><em><em>et al.</em></em></em></em> 2011). Nevertheless, across these sites density estimates were higher in tropical moist forest than in tropical montane forest or deciduous forest, and higher in national parks compared to those from other multiple use areas (Maffei <em><em><em><em>et al.</em></em></em></em> 2011). Densities in the Belizean Selva Maya rainforest were estimated at 7.5-8.8/100 km² (Silver <em><em><em><em>et al.</em></em></em></em> 2004). Jaguar density estimates in the protected lowland moist tropical forest of the Cockscomb Basin Wildlife Sanctuary in Belize range from 3.5 (+/- SE = 0.7) to 11.0 (+/- 3.1)/100 km² (Harmsen <em><em><em><em>et al.</em></em></em></em> 2010). Jaguar density was found to decline across the human-influenced landscape, a mosaic of unprotected forest, savannah, agriculture and settlements with distance from the protected forest (Foster 2008). The Talamanca Mountains of Costa Rica and Panama support a Jaguar population, but the probability of long-term persistence is medium to low (Gonzalez-Maya <em><em><em><em>et al.</em></em></em></em> 2007). Similarly the Jaguar populations located in protected areas in Guatemala, Honduras and Nicaragua are under a great pressure from deforestation and hunting (Petracca <em><em><em><em>et al.</em></em></em></em> 2014).<br/><br/><strong>South America</strong>: Jaguar density in the Brazilian Pantanal has been estimated as 6.6-6.7 /100 km², or 10.3-11.7/100 km² depending on the method used (telemetry versus camera traps, respectively, Soislao and Cavalcanti (2006). In the Bolivian Amazon, Jaguar density was estimated at 2.8/100 km² (Madidi National Park Silver <em><em><em><em>et al.</em></em></em></em> 2004), and in the Colombian Amazon, Jaguar density was estimated at 4.5/100 km² and 2.5/100 km² (Amacayacu National Park and unprotected areas respectively; Payan 2008). Estimates of Jaguar density are 2/100 km² in the savannas of the Brazilian Cerrado, 3.5/100 km² in the semiarid scrub of the Caatinga, and 2.2/100 km² in the Atlantic Forest (Silveira 2004), and 2.2-5 per 100 km² in the Bolivian Gran Chaco (Maffei <em><em><em><em>et al.</em></em></em></em> 2004). The Atlantic Forest subpopulation in Brazil has been estimated at 200+/- 80 adults (Leite <em><em><em><em>et al.</em></em></em></em> 2002). Jaguar populations in the Chaco region of northern Argentina and Brazil, and the Brazilian Caatinga, are low-density and highly threatened by livestock ranching and persecution (Altrichter <em><em><em><em>et al.</em></em></em></em> 2006, T. de Oliveira pers. comm. 2008).<br/><br/><u><strong>Historic methodological biases</strong></u><br/>Unfortunately, many of these reported density estimates have inadequate sample sizes of area or capture and recaptures. Careful reviews have shown that these estimates tend to be biased positively rather than negatively (Foster and Harmsen 2012, Maffei <em><em><em><em>et al.</em></em></em></em> 2011, Tobler and Powell 2013). This means that many of the older publications from before 2010 tended to overestimate densities at an unknown quantity. It also means that previous assessments have been overly optimistic about Jaguar status throughout their range.<br/><br/><u><strong>Subpopulation status</strong></u><br/>De la Torre <em><em><em><em>et al.</em></em></em></em> (2017) identified 34 Jaguar subpopulations where there is little likelihood of demographic or genetic exchange, and assessed each against Red List criteria. Overall, 97% met the criteria for Critically Endangered (25 subpopulations) or Endangered (eight subpopulations) (see Figure 3a-e in the Supplementary Material). The large Amazonia subpopulation, estimated to hold 89% of the total species population (57,000 out of 64,000), was assessed as Least Concern.",
+  "populationtrend": "decreasing",
+  "habitat": "The Jaguar has a stocky, heavy body with short massive limbs associated with reduced cursorial behaviour and dense forest habitat, and robust canines and large head allowing a more powerful bite than other large cats (Seymour 1989, Sunquist and Sunquist 2002). Mean body weight varies by up to 100% across their range, those living further from the equator tend to be larger (Iriarte <em><em><em>et al.</em></em></em> 1990). This extreme variation in size may reflect variation in the availability of large prey in different habitats: the largest Jaguars occur in open flood plains areas, the Llanos in Venezuela and the Pantanal in Brazil, and take the largest prey, and the smallest Jaguars inhabit the dense forest areas of Central America and Amazonia and take smaller prey (Hoogesteijn and Mondolfi 1996, Oliveira 2002).<br/><strong><br/><u>Habitat</u></strong><br/>Jaguar habitat is typically characterized by dense forest cover (mainly primary and secondary forest), the presence of water bodies and a sufficient prey base (Swank and Teer 1989, Sanderson <em><em><em>et al.</em></em></em> 2002). However, they are found in range of habitats from rainforest to seasonally flooded swamp areas, pampas grassland, thorn scrub woodland, and dry deciduous forest (Nowell and Jackson 1996, Sunquist and Sunquist 2002). Jaguars mainly inhabit tropical lowland forest, followed by dry tropical forest, xeric habitats and finally arable lowland pastures (Sanderson <em><em><em>et al.</em></em></em> 2002). Although Jaguars have been reported from elevations as high as 3000 m (Brown and Lopez Gonzalez 2001), they typically avoid montane forest, and have not been found in the high plateau of central Mexico or above 2700 m in the Andes (Ceballos <em><em><em>et al.</em></em></em>, 2011). The species is more strongly associated with water in comparison to any of the other Panthera cats (Nowell and Jackson 1996, Sunquist and Sunquist 2002), indicated by their higher densities within tropical moist forests than in tropical montane forest or deciduous forest (Maffei <em><em><em>et al.</em></em></em> 2011). Even within drier areas they are only found around the main water courses. This characteristic quickly brings them into conflict with expansion of high intensity agriculture, having the same requirements of nearby water sources for irrigation.<br/><br/><u><strong>Home range</strong></u><br/>Jaguar home ranges vary in size across their geographic range, often according to the season and availability of resources (e.g. Crawshaw and Quigley 1991, Núñez <em><em><em>et al.</em></em></em> 2002, Scognamillo <em><em><em>et al.</em></em></em> 2003, Cavalcanti and Gese 2009). Generally males range further than females.<br/><br/>In the dry tropical deciduous forest of Chamela-Cuixmala Biosphere Reserve, Mexico, female home range size ranged from 25 km² (dry season) to 60 km² (wet season) (95% MCP, radio telemetry; Nunez et al 2002). In the semi-deciduous and seasonally flooded forest of Calakmul Biosphere Reserve, Mexico, male home range size ranged from 33 to 41 km² for males and 32 to 59 km² for females (95% MCP, radio telemetry; Ceballos <em>et al</em>. 2002).<br/><br/>In the tropical broadleaf moist lowland secondary forest of Belize, male home range size ranged from 28 to 40 km² (radio telemetry; Rabinowitz and Nottingham 1986). In the mosaic landscape (secondary broadleaf forest, savannah and agriculture) of Central Belize, male home ranges ranged from 103 to 194 km² in the dry season and 179 to 386 in the wet season, and from 86 to 99 km² for a single female in the dry and wet seasons respectively (95% MCP, GPS collars, Figueroa 2013).<br/><br/>In the llanos of Venezuela, home range size ranged from 93 to 100 km² (males, dry season) and ranged from 51 to 80 km² for females in the wet season and dry season respectively (95% MCP, radio telemetry; Scognamillo <em>et al</em>. 2003).<br/><br/>There are numerous studies of home ranges from the seasonally inundated landscape of the Brazilian Pantanal: females 25 to 38 km² (radio telemetry; Schaller and Crawshaw 1980), females 5km² and males 20 km² for males in the wet season, and 70 and 79km², respectively, in the dry season (95% MCP, radio telemetry; Crawshaw and Quigley 1991), female 38km² and male 67km² (95% fixed kernel, radio telemetry; Azevedo and Murray 2007), 57 to 176 km² (95% MCP, GPS collars; Soisalo and Cavalcanti 2006), and females 34 to 101 km² in the wet season, and 42 to 89 km² in the dry season, and males 79 to 149 km² in the wet season, and 58 to 263 km² in the dry season (90% adaptive kernel estimator, GPS collars, Cavalcanti and Gese (2009).<br/><br/>In the semi-deciduous rainforest of the Brazilian Atlantic forests, male home range size ranged from 87 to 139 km², and from 44 to 133 km² for females (95% MCP, radio telemetry; Crawshaw <em><em><em>et al.</em></em></em> 2004, Cullen <em><em><em>et al.</em></em></em> 2005). It can be seen in the above review that the more recent studies using GPS technology show considerably larger range sizes compared to older VHF studies, this is especially indicative for recent GPS studies from areas where previously VHF studies were carried out. The differences are ranging from ~4-6 times larger. It is therefore reasonable to assume that these older ranges are considerably underrepresenting Jaguar home ranges. Densities based on these ranges are therefore equally overestimated.<br/><strong><br/><u>Diet</u></strong><br/>Jaguars are opportunistic hunters. Over 85 prey species (wild and livestock/domestic), including mammals, reptiles and birds, have been recorded in their diet across their geographic range (Seymour 1989).<br/><br/>Jaguars take a wide variety of prey species but large-sized ungulates are preferred when available (Nowell and Jackson 1996). The intake of large prey likely helps Jaguars save energy, since it is estimated that 50% of kills are larger prey on which they will feed for up to 4 days (Schaller and Crawshaw 1980, Nunez <em><em><em>et al.</em></em></em> 2000, Scognamillo <em><em><em>et al.</em></em></em> 2002). Nevertheless, Jaguar diet is highly variable, depending on prey availability, ease of capture, and a variety of additional factors (Rabinowitz and Nottingham 1986, Seymour 1989). In some areas cattle (<em>Bos</em> sp.) comprise an important item in their diet (Polisar <em><em><em>et al.</em></em></em> 2003, Palmeira <em><em><em>et al.</em></em></em> 2008, Cavalcanti and Gese 2010). The decline of wild prey below a minimum threshold increases livestock depredation by big cats (Khorozyan <em>et al</em>. 2015), which in turn may lead to retaliatory killings of felids by livestock owners. High frequency of smaller prey species is frequently reported in Jaguar diet, e.g. armadillo (Rabinowitz and Nottingham 1986, Novack <em><em><em>et al.</em></em></em> 2005, Foster <em><em><em>et al.</em></em></em> 2010b). The species has therefore gained a reputation of being able to persist in relatively disturbed areas with incomplete prey assemblages (Rabinowitz and Nottingham 1986). However, most diet studies rely on scat analysis. Palomares <em><em><em>et al.</em></em></em> (2012) showed that the high majority of these scats are from males. Diet studies are therefore highly biased towards male diets. As males do not contribute anything to the rearing of young, as single individuals, they are able to sustain themselves better at a varied diet of small species. Mothers with cubs will likely require the larger ungulates but this important component of the populations is extremely poorly represented in diet studies of scats.<br/><br/><u><strong>Reproduction</strong></u><br/>There are few studies on the reproductive ecology of Jaguars in the wild. Males and females may come together for breeding opportunities at any time of the year (e.g. Cavalcanti and Gese 2009). The female is in oestrus 6-17 day period, and gestation lasts 91-101 days (in captivity), after which the female gives birth to up to four cubs, usually two, which will stay with her for up to 24 months (Mondolfi and Hoogesijn 1982, Seymour 1989, Kitchener 1991, Sunquist and Sunquist 2002). Cubs are fully dependent on their mother’s milk for the first 10-11 weeks, and continue to suckle until 5-6 months old (Sunquist and Sunquist 2002). Cycling could resume 2-3 weeks following lactational anestrus (Soares <em><em><em>et al.</em></em></em> 2006). However, inter-birth intervals documented in the wild are approximately two years (Quigley and Crawshaw 2002, Carrillo <em><em><em>et al.</em></em></em> 2009). By 15-18 months, Jaguars travel and hunt independently within their mother’s range, although they may still come together at kill sites (Quigley and Crawshaw 2002, Sunquist and Sunquist 2002). Jaguars are usually independent by the age of 24 months, however the age of dispersal or the social circumstances associated with it are poorly known (Sunquist and Sunquist 2002). Dispersal does not appear to be linked with the onset of sexual maturity, estimated at 24-30 months for females and 36-48 months for males (Sunquist and Sunquist 2002). Few data are available on dispersal distances however telemetry studies in the Brazilian Pantanal suggest that males disperse further than females (Quigley and Crawshaw 1992, Quigley and Crawshaw 2002). Dispersal through human-dominated landscapes may increase the likelihood of conflict with humans, particularly in areas where the habitat is highly fragmented (e.g. Sáenz and Carrillo 2002). The maximum age of last reproduction of a female recorded in the wild is 13 years (Brown and Lopez-Gonzalez 2001).<br/><br/>IUCN Red List Criteria define three generations as the relevant time span for trend assessment. Lion Generation Length (GL) is based on the formulation of Pacifici <em><em><em>et al.</em></em></em> (2013). Values for age at first reproduction and longevity were agreed to by experts at the 2012 National Action Plan workshop for Jaguars in Brazil, and can be used for generation length calculations as:<br/><br/>GL = R<sub>span</sub>*z +AFR<br/>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Where AFR = Age of first reproduction = 3.5 yrs<br/>R<sub>span</sub> = 15 (the age when 95% of females are no longer reproductive) - AFR = 11.5 yrs<br/><br/>Z = 0.29 (a constant “depending on survivorship and relative fecundity of young vs. old individuals in the population” (IUCN 2014), calculated as the slope of the linear regression between GL and Rspan for 221 mammalian species (Pacifici <em><em><em>et al.</em></em></em> 2013)<br/>Thus, GL = 11.5*0.29 +3.5 = 6.84 yrs for Jaguars.",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "1.2",
+      "title": "Commercial & industrial areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "1.3",
+      "title": "Tourism & recreation areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.2",
+      "title": "Wood & pulp plantations",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.2.1",
+      "title": "Small-holder plantations",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.2.2",
+      "title": "Agro-industry plantations",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.3",
+      "title": "Livestock farming & ranching",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.3.2",
+      "title": "Small-holder grazing, ranching or farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.3.3",
+      "title": "Agro-industry grazing, ranching or farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "3.1",
+      "title": "Oil & gas drilling",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "3.2",
+      "title": "Mining & quarrying",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "4.1",
+      "title": "Roads & railroads",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "4.2",
+      "title": "Utility & service lines",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "5.1.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.2",
+      "title": "Gathering terrestrial plants",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.2.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3.1",
+      "title": "Intentional use: (subsistence/small scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.3.2",
+      "title": "Intentional use: (large scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "5.3.3",
+      "title": "Unintentional effects: (subsistence/small scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "5.3.4",
+      "title": "Unintentional effects: (large scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "5.3.5",
+      "title": "Motivation Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "6.1",
+      "title": "Recreational activities",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "6.3",
+      "title": "Work & other activities",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "7.1",
+      "title": "Fire & fire suppression",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "7.1.1",
+      "title": "Increase in fire frequency/intensity",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "7.1.2",
+      "title": "Supression in fire frequency/intensity",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "7.2",
+      "title": "Dams & water management/use",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "7.2.10",
+      "title": "Large dams",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "7.2.11",
+      "title": "Dams (size unknown)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "7.3",
+      "title": "Other ecosystem modifications",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "9.1",
+      "title": "Domestic & urban waste water",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "9.1",
+      "title": "Domestic & urban waste water",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "9.1.1",
+      "title": "Sewage",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "9.1.2",
+      "title": "Run-off",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Negligible declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "9.2",
+      "title": "Industrial & military effluents",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "9.2.1",
+      "title": "Oil spills",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "9.2.2",
+      "title": "Seepage from mining",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Causing/Could cause fluctuations",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "9.3",
+      "title": "Agricultural & forestry effluents",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "9.3.3",
+      "title": "Herbicides and pesticides",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "Included on CITES Appendix I. The Jaguar is fully protected at the national level across most of its range, with hunting prohibited in Argentina, Brazil, Colombia, Costa Rica, French Guiana, Honduras, Mexico, Nicaragua, Panama, Paraguay, Suriname, United States, and Venezuela, and hunting restrictions in place in Guatemala and Peru (Nowell and Jackson 1996). Specific conservation plans for the species have been developed in Mexico, Panama, Honduras, and Brazil. <br/><br/>With habitat fragmentation a major threat, and taxonomic research suggesting little significant differences among Jaguar populations, an ambitious program has been launched to conserve a continuous north to south habitat corridor through the species range (Rabinowitz and Zeller 2010).<br/><br/>Addressing livestock management and animals that prey on livestock is a high priority for conservation efforts in many Jaguar range countries due to the impact of retaliatory killing of Jaguars and other predators.<br/><br/><strong><u>Jaguar Conservation Actions</u><br/></strong>The following is a list of actions that a variety of Jaguar range countries have put in place to enhance Jaguar conservation. <br/><ol><li>Respond to reports of livestock depredation, and provide advice and assistance to improve livestock management practices, thereby reducing depredation and associated retaliatory killings of Jaguars; </li><li>Understand and address the hunting of Jaguar prey for sport, commercial and subsistence uses, and raise awareness about the laws governing the hunting of wildlife and the need for adopting sustainable hunting practices;</li><li>Monitor and safe-guarding Jaguar core populations, Jaguar Conservation Units, or JCUs (see Rabinowitz and Zeller 2010);</li><li>Maintain national and regional population connectivity through the identification of corridors for Jaguar movement between JCUs and applying conservation actions in those corridors through the engagement of corridor stakeholders as in the development of a Conservation Action Plan for the Central Belize Corridor (Kay <em>et al.</em> 2015);</li><li>Develop national, regional and local monitoring programs for Jaguars and their prey.</li></ol>",
+  "usetrade": "Commercial hunting and trapping of Jaguars for their pelts has declined drastically since the mid-1970s, when anti-fur campaigns and CITES controls progressively shut down international markets (Nowell and Jackson 1996). However, there is still demand for Jaguar paws, teeth and other products, especially in local markets where canines are still considered interesting jewellery. On top of this, Jaguars are starting to be considered a replacement for tiger bone for traditional medicine purposes by the increasing Asian community in Latin America.",
+  "countries": [
+    {
+      "code": "AR",
+      "country": "Argentina",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BO",
+      "country": "Bolivia, Plurinational States of",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BR",
+      "country": "Brazil",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "BZ",
+      "country": "Belize",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CO",
+      "country": "Colombia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CR",
+      "country": "Costa Rica",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "EC",
+      "country": "Ecuador",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GF",
+      "country": "French Guiana",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GT",
+      "country": "Guatemala",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GY",
+      "country": "Guyana",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "HN",
+      "country": "Honduras",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "MX",
+      "country": "Mexico",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NI",
+      "country": "Nicaragua",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "PA",
+      "country": "Panama",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "PE",
+      "country": "Peru",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "PY",
+      "country": "Paraguay",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SR",
+      "country": "Suriname",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "SV",
+      "country": "El Salvador",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "US",
+      "country": "United States",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "UY",
+      "country": "Uruguay",
+      "presence": "Extinct Post-1500",
+      "origin": "Native",
+      "distribution_code": "Regionally Extinct"
+    },
+    {
+      "code": "VE",
+      "country": "Venezuela, Bolivarian Republic of",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2017",
+      "code": "NT",
+      "category": "Near Threatened"
+    },
+    {
+      "year": "2008",
+      "code": "NT",
+      "category": "Near Threatened"
+    },
+    {
+      "year": "2002",
+      "code": "NT",
+      "category": "Near Threatened"
+    },
+    {
+      "year": "1996",
+      "code": "LR/nt",
+      "category": "Lower Risk/near threatened"
+    },
+    {
+      "year": "1990",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1988",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1986",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1982",
+      "code": "V",
+      "category": "Vulnerable"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.4",
+      "habitat": "Forest - Temperate",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "14.1",
+      "habitat": "Artificial/Terrestrial - Arable Land",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "14.2",
+      "habitat": "Artificial/Terrestrial - Pastureland",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "No"
+    },
+    {
+      "code": "14.3",
+      "habitat": "Artificial/Terrestrial - Plantations",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "No"
+    },
+    {
+      "code": "14.6",
+      "habitat": "Artificial/Terrestrial - Subtropical/Tropical Heavily Degraded Former Forest",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "1.5",
+      "habitat": "Forest - Subtropical/Tropical Dry",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.7",
+      "habitat": "Forest - Subtropical/Tropical Mangrove Vegetation Above High Tide Level",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.8",
+      "habitat": "Forest - Subtropical/Tropical Swamp",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "2.1",
+      "habitat": "Savanna - Dry",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "2.2",
+      "habitat": "Savanna - Moist",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "3.4",
+      "habitat": "Shrubland - Temperate",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.5",
+      "habitat": "Shrubland - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "3.6",
+      "habitat": "Shrubland - Subtropical/Tropical Moist",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "3.7",
+      "habitat": "Shrubland - Subtropical/Tropical High Altitude",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "3.8",
+      "habitat": "Shrubland - Mediterranean-type Shrubby Vegetation",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "4.4",
+      "habitat": "Grassland - Temperate",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "4.5",
+      "habitat": "Grassland - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "4.6",
+      "habitat": "Grassland - Subtropical/Tropical Seasonally Wet/Flooded",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "4.7",
+      "habitat": "Grassland - Subtropical/Tropical High Altitude",
+      "suitability": "Marginal",
+      "season": null,
+      "majorimportance": null
+    },
+    {
+      "code": "5.1",
+      "habitat": "Wetlands (inland) - Permanent Rivers/Streams/Creeks (includes waterfalls)",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "5.2",
+      "habitat": "Wetlands (inland) - Seasonal/Intermittent/Irregular Rivers/Streams/Creeks",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "5.3",
+      "habitat": "Wetlands (inland) - Shrub Dominated Wetlands",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "5.4",
+      "habitat": "Wetlands (inland) - Bogs, Marshes, Swamps, Fens, Peatlands",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "5.5",
+      "habitat": "Wetlands (inland) - Permanent Freshwater Lakes (over 8ha)",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "No"
+    },
+    {
+      "code": "5.6",
+      "habitat": "Wetlands (inland) - Seasonal/Intermittent Freshwater Lakes (over 8ha)",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "5.7",
+      "habitat": "Wetlands (inland) - Permanent Freshwater Marshes/Pools (under 8ha)",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "5.8",
+      "habitat": "Wetlands (inland) - Seasonal/Intermittent Freshwater Marshes/Pools (under 8ha)",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    }
+  ]
+}

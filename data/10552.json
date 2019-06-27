@@ -1,0 +1,243 @@
+{
+  "taxonid": 10552,
+  "scientific_name": "Hylobates pileatus",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HYLOBATIDAE",
+  "genus": "Hylobates",
+  "main_common_name": "Pileated Gibbon",
+  "authority": "(Gray, 1861)",
+  "published_year": 2008,
+  "assessment_date": "2008-06-30",
+  "category": "EN",
+  "criteria": "A4cd",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Brockelman, W., Geissmann, T., Timmins, T. & Traeholt, C.",
+  "reviewer": "Mittermeier, R.A. & Rylands, A.B. (Primate Red List Authority)",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 1500,
+  "elevation_lower": null,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": null,
+  "errata_reason": null,
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 10552,
+  "taxonomicnotes": "This species forms a narrow area of sympatry and hybridization with <i>H. lar</i> in Khao Yai National Park, Thailand (Brockelman 1978, Brockelman and Gittins 1984, Marshall and Brockelman 1986, Marshall and Sugardjito 1986), specifically in the headwaters of the Takhong-Mun-Mekong River system (W. Brockelman pers. comm.). Until at least 1925, an area of sympatry apparently existed in the region of Sriracha, about 80 km southeast of Bangkok. Therefore, a large zone of overlap in the distribution of the two species may originally have existed. In most parts of this hypothetical zone, gibbon habitat appears to have been destroyed, with the Khao Yai Park possibly representing the last remnant of the once large contact zone (Geissmann 1991).",
+  "rationale": "This species is listed as Endangered as it is believed to be experiencing a decline of more than 50% incorporating a time frame of three generations (45 years) for the period 1970-2015, due to rampant forest loss and loss of mature individuals due to hunting.",
+  "geographicrange": "The range of this species includes southeastern Thailand, a portion of southwestern Lao PDR (west of the Mekong), and western Cambodia (west of the Mekong). In Thailand, the western limit may once have been the Bang Pakong River, extending north to Khao Yai National Park, east of the Lam Takhong watershed, and all forested areas east and south of the Moon River (Geissmann 1995; Groves 2001; Marshall and Sugardjito 1986). In Khao Yai, the limit is Khao Rom Mountain and the upper reaches of the Lam Takhong river on the north side (Brockelman 1975; Marshall <em>et al.</em> 1972).",
+  "population": "In Cambodia, the primary area of importance is the Cardamom Mountains, in the south-western part which is relatively intact, where densities are on the order of 1-2 groups/km<sup>2</sup>, with an estimated 20,000 individuals (Traeholt <em>et al</em>. 2005). Populations in the north, where the habitat is similar but more open, with a very small percentage of evergreen forest, are smaller. Bokor National Park in southwestern Cambodia has an estimated 1,000 groups and is likely to be isolated from the remainder of the range (Traeholt <em>et al</em>. 2005). Pileated gibbons might number more than 35,000 individuals in Cambodia in total (Traeholt <em>et al.</em> 2005).<br/><br/>In Lao PDR the population is significantly smaller, mainly since it comprises a smaller part of the range (Duckworth <em>et al</em>. 1999).<br/><br/>In Thailand, there are an estimated 12,000 individuals (3,000 breeding groups) surviving in the four largest forest areas including five major protected areas (Khao Yai National Park, Thap Lan National Park, Khao Ang Ru Nai Sanctuary and Khao Soi Dao Sanctuary), based on an auditory census in 2004–2005, plus around 1,000 to 2,000 individuals in 15 other scattered and highly fragmented smaller protected areas (Phoonjampa and Brockelman unpub. data). Population densities are generally low, averaging close to one group (average 4 individuals)/km<sup>2</sup>, with pockets of higher density populations in some remote mountain areas (Brockelman and Srikosamatara 1993). An earlier study generated a total population estimate of 30,000 pileated gibbons for Thailand (Tunhikorn <em>et al.</em> 1994).",
+  "populationtrend": "decreasing",
+  "habitat": "This species is found in moist, seasonal evergreen and mixed deciduous-evergreen forests and have been recorded to about 1,500 m in Cambodia, and to around 1,200 m in Thailand. This species is similar to <em>H. lar</em> in diet and general ecology, consuming mostly fruits, shoots, and some immature leaves, as well as insects (Srikosamatara 1980, 1984). Researchers find the species somewhat shyer and more elusive than <em>H. lar</em> (W. Brockelman pers. comm.).<br/><br/>Average group size in Thailand is four individuals (Brockelman and Poonjampa unpubl. data). There has been no long-term study of behavior and life history.",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "1.2",
+      "title": "Commercial & industrial areas",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "5.3.5",
+      "title": "Motivation Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.1",
+      "title": "Fire & fire suppression",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.1.3",
+      "title": "Trend Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.2",
+      "title": "Dams & water management/use",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    },
+    {
+      "code": "7.2.11",
+      "title": "Dams (size unknown)",
+      "timing": "Ongoing",
+      "scope": null,
+      "severity": null,
+      "score": "Low Impact: 3",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "This species is listed in CITES Appendix I. In Cambodia the major stronghold is three contiguous protected areas, including Samkos and Aural Wildlife Sanctuaries, and the Central Cardamom Protected Forest. This last area contains about 3,350 km<sup>2</sup> of gibbon habitat and a population of nearly 7,000 groups. This potentially could ensure the long-term survival of the species if effectively managed. The Cambodian Forestry Administration in collaboration with Conservation International is developing a management plan for this area, and ranger units have been established to stop illegal poaching and logging. Gibbons also occur in Bokor National Park (1,220 km<sup>2</sup> of habitat), which is generally well managed. As in Thailand, numerous smaller fragmented areas also contain pileated gibbons, most with low long-term prospects. In Cambodia there is a need to strengthen protected area administration and protection activities, and to halt logging and development activities in important conservation areas (Brockelman pers comm.; Traeholt <em>et al.</em> 2005).<br/><br/>In southeast Thailand, all populations are included within protected areas, but more effort needs to be made to change the behavior of local villagers who hunt. The largest protected forest areas are the Tab Lan National Park, Pang Sida National Park, Ta Phraya National Park, Khao Ang Ru Nai Sanctuary, and Khao Soi Dao Sanctuary, totaling greater than 3,000 km<sup>2</sup> of forest habitat in three blocks (Phoonjampa and Brockelman unpubl. data).",
+  "usetrade": null,
+  "countries": [
+    {
+      "code": "KH",
+      "country": "Cambodia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "LA",
+      "country": "Lao People's Democratic Republic",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "TH",
+      "country": "Thailand",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2008",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2000",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1996",
+      "code": "VU",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1994",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1990",
+      "code": "E",
+      "category": "Endangered"
+    },
+    {
+      "year": "1988",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1986",
+      "code": "E",
+      "category": "Endangered"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.5",
+      "habitat": "Forest - Subtropical/Tropical Dry",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": null,
+      "majorimportance": "Yes"
+    }
+  ]
+}

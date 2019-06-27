@@ -1,0 +1,381 @@
+{
+  "taxonid": 39994,
+  "scientific_name": "Gorilla beringei",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HOMINIDAE",
+  "genus": "Gorilla",
+  "main_common_name": "Eastern Gorilla",
+  "authority": "Matschie, 1903",
+  "published_year": 2019,
+  "assessment_date": "2018-08-02",
+  "category": "CR",
+  "criteria": "A4bcd",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Williamson, E.A., Plumptre, A., Robbins, M.M.",
+  "reviewer": "Rylands, A.B.",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 3800,
+  "elevation_lower": 600,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": null,
+  "errata_reason": null,
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 39994,
+  "taxonomicnotes": "This species appeared in the 1996 Red List as a subspecies of <em>Gorilla gorilla</em>. Since 2001, the Eastern Gorilla has been considered a separate species (<em>Gorilla beringei</em>) with two subspecies: Grauer’s Gorilla (<em>Gorilla beringei graueri</em>) and the Mountain Gorilla (<em>Gorilla</em> <em>beringei beringei</em>) following Groves (2001).",
+  "rationale": "Eastern Gorillas (<em>Gorilla beringei</em>) live in the mountainous forests of eastern Democratic Republic of Congo, northwest Rwanda and southwest Uganda. This region was the epicentre of Africa's \"world war\", to which Gorillas have also fallen victim. The Mountain Gorilla subspecies (<em>Gorilla beringei beringei</em>), was listed as Critically Endangered since 1996. Although a drastic reduction of the Grauer’s Gorilla subspecies (<em>Gorilla beringei graueri</em>), has long been suspected, quantitative evidence of the decline has been lacking (Robbins and Williamson 2008). During the past 20 years, Grauer’s Gorillas have been severely affected by human activities, most notably poaching for bushmeat associated with artisanal mining camps and for commercial trade (Plumptre <em>et al</em>. 2016). This illegal hunting has been facilitated by a proliferation of firearms resulting from widespread insecurity in the region. Previously estimated to number around 16,900 individuals, recent surveys show that Grauer’s Gorilla numbers have dropped to only 3,800 individuals – a 77% reduction in just one generation (<em>ibid</em>.) This rate of population loss is almost three times above that which qualifies a species as Critically Endangered.<br/><br/>Mountain Gorillas have been faring substantially better; one of the two subpopulations is recovering from an all-time low in the 1980s, making Mountain Gorillas the only great ape taxon that has been increasing in number (Gray <em>et al</em>. 2013). A 2015–2016, survey of the Virunga population has confirmed that it is still growing and has now increased to over 600 individuals, bringing the total population to roughly 1,000 (Hickey&#160;<em>et al</em>. 2018).<br/><br/>Grauer's Gorillas continue to decline at an average rate of 5% per year (Plumptre <em>et al</em>. 2016). Even with the growth of the Mountain Gorilla subspecies, the overall decline of the Eastern Gorilla species is expected to exceed 80% over three generations due to the high levels of poaching, loss of habitat as human populations expand, and civil unrest and lawlessness in parts of this species’ geographic range. If unabated, in 2054, only 14% of the 1994 population will remain. Therefore, Eastern Gorillas qualify as Critically Endangered under criterion A (A4bcd).",
+  "geographicrange": "Eastern Gorillas are found in eastern Democratic Republic of Congo (DRC), northwest Rwanda and southwest Uganda.<br/><br/><em>Gorilla beringei beringei</em> (Matschie 1903) is restricted to two populations in forests only 25 km apart, but isolated by land that is intensely cultivated and densely settled. One population is in the Virunga Volcanoes, straddling the borders between DRC (Virunga National Park), Rwanda (Volcanoes National Park) and Uganda (Mgahinga Gorilla National Park). The other occurs in Bwindi Impenetrable National Park, Uganda, with a small contiguous portion in Sarambwe Nature Reserve in DRC.<br/><br/><em>Gorilla beringei graueri</em> (Matschie 1914) is endemic to the forests of the Albertine Rift escarpment in eastern DRC. It has a discontinuous distribution from the lowlands east of the Lualaba River to the Mitumba Mountains and the Itombwe Massif. Mt. Tshiaberimu in Virunga National Park is the northern limit of Grauer’s Gorilla’s geographic range. The southern limit is a subpopulation in the Hewa Bora region, Fizi District (Plumptre <em>et al</em>. 2009).<br/><br/>Although formerly known as the Eastern Lowland Gorilla, <em>G. b. graueri</em> occurs over the widest altitudinal range of any Gorilla, from approximately 600 m to 2,900 m asl, overlapping considerably with the altitudinal range of <em>G. b. beringei</em> (1,400–3,800 m asl; Williamson <em>et al</em>. 2013).",
+  "population": "It is likely that fewer than 5,000 Eastern Gorillas remain.&#160;<em>Gorilla b. beringei</em>&#160;lives in two isolated populations in three countries: DRC, Rwanda and Uganda. The first surveys of the Virunga Mountain Gorillas estimated a population size of 274 individuals in 1971–73 (Harcourt and Groom 1972, Groom 1973). The population fell to a low of 254 individuals in 1981 (Aveling and Harcourt 1981, Weber and Vedder 1983). Since then, protection measures have enabled the population to recover and the most recent estimate for the Virungas is a minimum of 600 individuals (Hickey <em>et al</em>. 2018). The second (Bwindi-Sarambwe) Mountain Gorilla population numbers about 400 individuals (Roy <em>et al</em>. 2014). Thus, the total population of the subspecies is now at least 1,000 individuals (Roy <em>et al</em>. 2014, Hickey <em>et al</em>. 2018).<br/><br/>In 1994–95, the total population of <em>G. b. graueri</em> was estimated to be 16,900 individuals (Hall <em>et al</em>. 1998a, 1998b). Since then, widespread insecurity and poaching for bushmeat, particularly around mining camps, have led to increasing fragmentation of the population and rapid reductions of numbers. Using survey data collected between 2010 and 2015, Plumptre <em>et al</em>. (2016) estimated that the number of Grauer's Gorillas remaining in 2015 is only 3,800—a 77% loss since 1994-95. These population estimates were made using night nest abundance and distribution, and predictive modelling. Nest encounter rates indicate an ongoing rate of decline of ~5% per year at many of the sites surveyed, due to fragmentation and illegal hunting around the many artisanal mining camps and villages located in areas where Grauer's Gorillas occur (Plumptre <em>et al</em>. 2016).",
+  "populationtrend": "decreasing",
+  "habitat": "Grauer's Gorillas range between 600 and 2,900 m asl in dense mature and secondary lowland tropical rainforest through transitional forests to Afromontane habitat, including bamboo forest, swamp and peat bog. Mountain Gorillas are restricted to elevations above 1,400 m in Bwindi Impenetrable National Park and above 1,850 m in the Virungas by human occupation at lower levels. Their habitat includes many Afromontane vegetation types, including bamboo forest, mixed forest, and subalpine grassland on the volcanic peaks. The Bwindi Mountain Gorillas live at lower elevations, in forest characterised by steep slopes of predominantly mixed forest habitat with a dense understorey.<br/><br/>Diets of Eastern Gorillas vary greatly with elevation and its effect on food availability. Mountain Gorillas are largely herbivorous and feed on stems, pith, leaves, bark, and occasionally ants. Their favoured food items are wild celery, thistles, nettles, bedstraw, wood and roots. Both subspecies feed almost exclusively on young bamboo shoots when they are in season twice a year. Gorillas at lower elevations have a more diverse and seasonal diet. Both Grauer’s Gorillas in lowland forest and Bwindi Gorillas are frugivorous.<br/><br/>Eastern Gorillas are diurnal and semi-terrestrial. After waking, they feed intensively and then alternate rest, travelling and feeding until night-time. All Gorillas build nests to sleep in, some in trees, but the majority of their nests are on the ground. Gorillas are not territorial, and there is extensive overlap between the annual home ranges of different groups, which vary in size from 6–40 km². Eastern Gorilla groups are polygynous or polygynandrous, with one or more adult males, several females, their offspring, and immature relatives forming the core of relatively stable groups. Median group size is 10 weaned individuals; maximum observed group size is 65 individuals.<br/><br/><u><strong>Life History</strong></u> (as summarised in Williamson and Butynski 2013)<br/>Male Eastern Gorillas are capable of reproducing when they become “blackbacks” at 8-12 years of age. They are considered “silverbacks” at 12 years of age, and reach their full adult size at 15 years. Female menarche occurs at 6-7 years of age, followed by a period of adolescent sterility. Average age of first parturition is 9.9 years. Females have a reproductive cycle of <em>ca</em> 28 days and are receptive for 1-4 days around the time of ovulation. They experience lactational amenorrhea while suckling infants. Young are weaned at 3-4 years of age, from which point they no longer travel on their mothers’ back. Females give birth every 3-4 years and generally produce 3-4 surviving offspring during their reproductive life span. Maximum life span is unknown, but it is certainly over 40 years. Eastern Gorillas have a generation time of 18.2 years for females and 20.4 years for males (Langergraber <em>et al</em>. 2012).",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "11.1",
+      "title": "Habitat shifting & alteration",
+      "timing": "Ongoing",
+      "scope": "Whole (>90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "1.3",
+      "title": "Tourism & recreation areas",
+      "timing": "Future",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Future",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Future",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Low Impact: 4",
+      "invasive": null
+    },
+    {
+      "code": "2.3",
+      "title": "Livestock farming & ranching",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.3.4",
+      "title": "Scale Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "3.1",
+      "title": "Oil & gas drilling",
+      "timing": "Future",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "3.2",
+      "title": "Mining & quarrying",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "4.1",
+      "title": "Roads & railroads",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Future",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.3.3",
+      "title": "Unintentional effects: (subsistence/small scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.3.4",
+      "title": "Unintentional effects: (large scale) [harvest]",
+      "timing": "Future",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "6.1",
+      "title": "Recreational activities",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Unknown",
+      "score": "Unknown",
+      "invasive": null
+    },
+    {
+      "code": "6.2",
+      "title": "War, civil unrest & military exercises",
+      "timing": "Past, Likely to Return",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Past Impact",
+      "invasive": null
+    },
+    {
+      "code": "7.1",
+      "title": "Fire & fire suppression",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "7.1.3",
+      "title": "Trend Unknown/Unrecorded",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "8.2",
+      "title": "Problematic native species/diseases",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "8.5",
+      "title": "Viral/prion-induced diseases",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "8.5.1",
+      "title": "Unspecified species",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "<em>Gorilla beringei</em> is listed on Appendix I of CITES, and under Class A of the African Convention (as the species <em>Gorilla</em>). DRC has a legal framework for managing national parks and wildlife, but has difficulty applying its laws, and political will is limited. Underlying this is a difficult sociopolitical context – a breakdown of law and order during two decades of conflict, combined with poverty and economic insecurity, exacerbates the difficulties of enforcing the law in this region. To address the critical situation faced by Grauer’s Gorillas, NGOs are working with the government authorities to support protected areas and reinforce conservation programmes. However, the widespread presence of armed groups in eastern DRC restricts the ability of conservation organisations to operate in the field.<br/><br/>One quarter of the predicted range of the Grauer’s Gorillas occurs in national parks and nature reserves; the remaining three quarters is currently unprotected (Plumptre <em>et al</em>. 2016). Gazetting of the Itombwe Reserve and establishing a protected area west of Kahuzi-Biega National Park could secure as much as 50% of the subspecies' range.<br/><br/>Conservation challenges are likely to increase as the DRC government continues its efforts to stabilize the east. Security will favour industrial extraction, large-scale agriculture and infrastructure. While development will increase the country's ability to support its human population and participate in the global economy, it will also result in increased human settlement in forest areas critical to Gorillas. Targeted conservation action in priority sites will be vital to slow further demise of this subspecies.<br/><br/>The entire Mountain Gorilla population resides in protected areas where there are active government programmes. Although the protected areas are relatively well monitored, illegal activities continue in some locations, therefore monitoring the impacts of both illegal activities and conservation actions should continue. While these national parks are legally protected, habitat fragmentation and degradation will be exacerbated if infrastructure developments are allowed within their boundaries.<br/><br/>To achieve conservation successes, long-term commitment is key, as shown by the international conservation organisations that have been working in difficult circumstances for decades to support the protected area authorities and try to secure the survival of Eastern Gorillas. IUCN has published a detailed conservation strategy with clear priorities for Grauer’s Gorillas (Maldonado <em>et al</em>. 2012). See Plumptre <em>et al</em>. (2015) for additional recommendations and see Robbins <em>et al</em>. (2011) for an overview of the impacts of conservation activities on mountain Gorillas in the Virunga Massif.<br/><p></p>",
+  "usetrade": "<p>Gorillas are completely protected by national and international laws in all countries of their range, and it is, therefore, illegal to kill, capture or trade in live Gorillas or their body parts.<br/></p>",
+  "countries": [
+    {
+      "code": "CD",
+      "country": "Congo, The Democratic Republic of the",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "RW",
+      "country": "Rwanda",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "UG",
+      "country": "Uganda",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2019",
+      "code": "CR",
+      "category": "Critically Endangered"
+    },
+    {
+      "year": "2016",
+      "code": "CR",
+      "category": "Critically Endangered"
+    },
+    {
+      "year": "2008",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "2000",
+      "code": "EN",
+      "category": "Endangered"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.8",
+      "habitat": "Forest - Subtropical/Tropical Swamp",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "No"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    }
+  ]
+}

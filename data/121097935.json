@@ -1,0 +1,253 @@
+{
+  "taxonid": 121097935,
+  "scientific_name": "Pongo abelii",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HOMINIDAE",
+  "genus": "Pongo",
+  "main_common_name": "Sumatran Orangutan",
+  "authority": "Lesson, 1827",
+  "published_year": 2017,
+  "assessment_date": "2017-10-16",
+  "category": "CR",
+  "criteria": "A4bcd",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Usher, G., Nowak, M., Utami-Atmoko, S.S., Wich , S.A., Singleton, I.",
+  "reviewer": "Mittermeier, R.A., Williamson, E.A.",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 1500,
+  "elevation_lower": 0,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": true,
+  "errata_reason": "The original version of this assessment was published with an older version of the distribution map. This errata assessment uses the updated distribution map.",
+  "amended_flag": null,
+  "amended_reason": null,
+  "species_id": 121097935,
+  "taxonomicnotes": "Historically, the Sumatran and Bornean Orangutans were both considered to be subspecies of&#160;<em>Pongo pygmaeus</em>&#160;(e.g., Rijksen and Meijaard 1999). Recent taxonomic reviews (Groves 2001, Brandon-Jones&#160;<em>et al</em>. 2004) support the acceptance of the Sumatran Orangutan (<em>Pongo abelii</em>) as distinct from its Bornean relative (<em>Pongo pygmaeus</em>). This classification has since been widely adopted (e.g., Singleton&#160;<em>et al</em>. 2004).&#160;A recent study (Nater&#160;<em>et al</em>. 2017) proposed that the Batang Toru population is a separate species (<em>Pongo tapanuliensis</em>), and therefore this assessment does not include the orangutans in that area.",
+  "rationale": "Due to high levels of habitat conversion and fragmentation, and illegal killing, <em>Pongo abelii</em> is estimated to have experienced a significant population reduction in recent years. Forest loss data indicate that key Sumatran Orangutan forest habitat (i.e., below 500 m asl) was reduced by 60% of its area between 1985 and 2007 (Wich <em>et al</em>. 2008, 2011). It is thought that this reduction will continue as forests within the species’ range remain under considerable threat (Wich <em>et al</em>. 2016). When relative stability returned to Aceh in 2005 after several years of civil conflict, pressure on natural habitats increased dramatically (Wich <em>et al</em>. 2011). Significant areas of the Orangutan’s range are seriously threatened by logging, mining concessions and agricultural plantations, while new roads are continuously being cut through the habitat. Even in formally protected areas, Orangutans remain under threat from forest conversion to plantations, illegal settlement and encroachment (Wich <em>et al</em>. 2008, 2011, 2016). Furthermore, an illegal spatial land-use plan being implemented by the Government of Aceh Province ignores the Leuser Ecosystem’s status as a 'National Strategic Area', designated for its environmental function.&#160;Moreover, modelling based on different land-use scenarios and their likely impacts predicts that approximately an additional 4,000 Sumatran Orangutans could be lost by 2030 as a direct consequence of this spatial plan and related developments, and that in 2060 there could be a 81% decline of the population compared to the population in 1985 (Wich <em>et al.</em> 2016, Nowak unpublished data).&#160; &#160;<br/><br/>Due to their slow life history, with a generation time of at least 25 years (Wich <em>et al</em>. 2004, 2009), Sumatran Orangutan populations are unable to sustain substantial and continual loss of individuals. If the rate of decline observed since 1985 and predicted continues unabated, the population decline will exceed 80% over a three-generation period (i.e., 75 years from 1985 to 2060), hence qualifying <em>Pongo abelii</em> as Critically Endangered under criterion A4.",
+  "geographicrange": "<em>Pongo abelii</em>&#160;is endemic to the island of Sumatra, Indonesia. It is restricted to the north of the island, with its southern limit being the Simpang Kanan River and tributaries on the west coast and the Asahan River on the east coast, and its northern limit coinciding primarily with the northern boundary of the Leuser Ecosystem in Aceh Province (Wich <em style=\"font-family: &quot;Times New Roman&quot;; font-size: 12pt;\">et al</em>. 2003, 2008, 2016).<br/><br/>Today the majority of Sumatran Orangutans (82.5%) are found in Aceh Province at the northernmost tip of the island. There are populations in North Sumatra Province but the largest of these, in the southern and eastern regions of the Leuser Ecosystem, straddles the border with Aceh. Despite a few smaller patches of forest south of the Leuser Ecosystem appearing to still host orangutan populations, only one entirely North Sumatran population is considered viable in the long term, namely the Pakpak Barat population (for precise locations, see Wich <em>et al.</em> 2008, 2016).<br/><br/>Sumatran Orangutan densities decline with increasing altitude and few, if any, reproducing populations are thought to reside in forests above 1,500 m asl (Wich <em>et al</em>. 2016).",
+  "population": "The most recent population estimate for the Sumatran Orangutan is 13,846 individuals, in a total area of 16,775 km² of forest (Wich <em>et al.</em> 2016). Excluding populations of fewer than 250 individuals (i.e., considering only populations that are potentially viable over the long term) leaves just 13,587 individuals. The vast majority (i.e., 95.0%) occur in the Leuser Ecosystem, while other populations are found in the Sidiangkat and Pakpak.&#160;The 2016 estimate is higher than the previous estimate of around 6,600 individuals remaining (Wich <em>et al</em>. 2008), as it takes into account three factors: a) orangutans were found in greater numbers at higher altitudes than previously supposed (i.e., up to 1,500 m asl not just to 1,000 m asl), b) they were found to be more widely distributed in selectively-logged forests than previously assumed, and c) orangutans were found in some previously unsurveyed forest patches. The new estimate does not, therefore, reflect a real increase in Sumatran Orangutan numbers. On the contrary, it reflects only much improved survey techniques and coverage, and hence more accurate data. It is extremely important to note, therefore, that overall numbers continue to decline dramatically.<br/><br/>Since Sumatran Orangutans have been found up to 1,500 m asl in many areas, there is probably better connectivity among subpopulations in the mountainous Leuser Ecosystem than was previously considered the case (Wich <em>et al</em>. 2008). Nevertheless, recent studies found genetic differentiation between subpopulations that is at least partially due to geographic barriers, such as rivers and high mountain ridges, even within the Leuser Ecosystem (Nater <em>et al</em>. 2013).<br/><br/>In addition to the wild populations, two entirely new Sumatran Orangutan populations are gradually being established via the reintroduction of confiscated illegal pets; one in and around the Bukit Tigapuluh National Park (Jambi and Riau provinces) and one in and around the Jantho Pine Forest Nature Reserve, in the far north of Aceh. To date, more than 260 individuals have been reintroduced. The goal of these efforts is to eventually establish new, genetically-viable, fully-reproducing and self-sustaining wild populations as a safety net against catastrophe elsewhere in the species’ range.<br/><br/>About 35.6% of the Sumatran Orangutan population is in protected areas (World Database Protected Areas recognized areas, i.e. excluding hutan lindung/protection forest; SOCP unpublished data), followed by 40.0% in hutan lindung/protection forest, 3.6% in limited production forest, 11.8% in production forest, and 8.9% in other use forest. Including the whole Leuser Ecosystem, which is on the list of Indonesia’s WDPAs: 98.5% of all Sumatran Orangutans are in PAs (incl. hutan lindung/protection forest) or 95.5% in all WDPA recognized areas (thus excluding hutan lindung/protection forest).",
+  "populationtrend": "decreasing",
+  "habitat": "Sumatran Orangutans inhabit moist lowland forest, montane forest and peat swamps. They are diurnal and almost exclusively arboreal; females virtually never travel on the ground and adult males do so only rarely. This contrasts somewhat with Bornean Orangutans (especially adult males), which descend and travel on the ground more often (Ancrenaz <em>et al</em>. 2014). While both species depend on high-quality primary forests, Bornean Orangutans appear better able to tolerate limited habitat disturbance (Husson <em>et al</em>. 2009). In Sumatra, densities plummet by up to 60%, even if logging is highly selective (see Rao and van Schaik 1997) and Orangutan behavioural ecology differs in primary and logged forests (Hardus <em>et al</em>. 2012a).<br/><br/>Sumatran Orangutans are primarily frugivores, but also eat young and mature leaves, seeds, shoots, pith, flowers, insects (termites and ants), bark and, on occasion, the meat of slow loris (Fox <em>et al</em>. 2004, Wich <em>et al</em>. 2006, Morrogh-Bernard <em>et al</em>. 2009, Hardus <em>et al</em>. 2012b). Female home ranges vary in size from 0.8–1.5 km². The true extent of male home range size is not fully known, although ranges well in excess of 30 km² are inferred (Singleton and van Schaik 2001, Singleton <em>et al</em>. 2009).<br/><br/>Females first give birth at about 15 years of age (Wich <em>et al</em>. 2004, 2009). Sumatran Orangutans have the longest interbirth intervals of any mammalian species, ranging from 8.2 to 9.3 years (compared with 6.1 to 7.7 years for <em>P. pygmaeus</em>; Wich <em>et al</em>. 2004, 2009, van Noordwijk and van Schaik 2005). Gestation lasts approximately 254 days (Kingsley 1981). Infants are weaned at <em>ca </em>7 years. On average, a female bears 4–5 offspring during her lifetime. Males mature at about about 14 years (Wich <em>et al</em>. 2004). They exhibit bimaturism, whereby fully flanged adult males and smaller unflanged males are both capable of reproducing, but employ differing mating strategies (Utami <em>et al</em>. 2002, Utami Atmoko <em>et al</em>. 2009). Longevity in the wild has been estimated at 53 years for females and 58 years for males (Wich <em>et al</em>. 2004). Generation length is at least 25 years (Wich <em>et </em>al. 2004, 2009).",
+  "threats": [
+    {
+      "code": "1.1",
+      "title": "Housing & urban areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "11.1",
+      "title": "Habitat shifting & alteration",
+      "timing": "Ongoing",
+      "scope": "Whole (>90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "1.3",
+      "title": "Tourism & recreation areas",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "3.2",
+      "title": "Mining & quarrying",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "4.1",
+      "title": "Roads & railroads",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Rapid Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.3.3",
+      "title": "Unintentional effects: (subsistence/small scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.3.4",
+      "title": "Unintentional effects: (large scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "7.1",
+      "title": "Fire & fire suppression",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "7.1.1",
+      "title": "Increase in fire frequency/intensity",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "<em>Pongo abelii</em> is strictly protected by Indonesian National Law No. 5/1990 on the Conservation of Natural Resources and Ecosystems, under which it is illegal to capture, injure, kill, own, keep, transport, or trade a Sumatran Orangutan. Sumatran Orangutans are also protected by international legislation, and listed on CITES Appendix I.<br/><br/>Protection of large areas of primary forest below 1,500 m asl is needed to secure their long-term future. The species’ major stronghold is the Leuser Ecosystem – an area of 26,000 km² mostly contiguous forest that supports <em>circa</em>&#160;95.0% of the Sumatran Orangutans remaining in the wild. Conservation of the Leuser Ecosystem was called for under Indonesian National Law No. 11/2006 concerning Governance in Aceh, and it was inaugurated by Presidential Decree in 1998. Designated a National Strategic Area for its environmental function, the Leuser Ecosystem must be fully recognized and its integrity ensured at all levels of spatial land-use planning. According to these laws, management of the Leuser Ecosystem does not exclude non-forest uses, but stresses the importance of sustainable management with conservation of natural resources as the primary goal.<br/><br/>Within the Leuser Ecosystem is the 9,000 km² Gunung Leuser National Park, also designated a Man and Biosphere Reserve and a part of the Tropical Rainforest Heritage of Sumatra World Heritage Cluster Site by UNESCO. The park alone, comprising mostly high mountains, supports only&#160;25.3%&#160;of Sumatra’s Orangutans. Much of Sumatra’s dense lowland forest is outside the National Park’s boundaries, but is part of the larger Leuser Ecosystem. Also within the Leuser Ecosystem, but not a part of the World Heritage Cluster Site, is the 1,025 km² Singkil Swamps Wildlife Reserve. Outside the Leuser Ecosystem, no other large, formally-established conservation areas harbour this species.",
+  "usetrade": "It is illegal to capture, injure, kill, own, keep, transport, or trade a Sumatran Orangutan.",
+  "countries": [
+    {
+      "code": "ID",
+      "country": "Indonesia",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2017",
+      "code": "CR",
+      "category": "Critically Endangered"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "No"
+    },
+    {
+      "code": "1.8",
+      "habitat": "Forest - Subtropical/Tropical Swamp",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    }
+  ]
+}

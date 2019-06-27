@@ -1,0 +1,335 @@
+{
+  "taxonid": 9404,
+  "scientific_name": "Gorilla gorilla",
+  "kingdom": "ANIMALIA",
+  "phylum": "CHORDATA",
+  "class": "MAMMALIA",
+  "order": "PRIMATES",
+  "family": "HOMINIDAE",
+  "genus": "Gorilla",
+  "main_common_name": "Western Gorilla",
+  "authority": "(Savage, 1847)",
+  "published_year": 2018,
+  "assessment_date": "2016-04-01",
+  "category": "CR",
+  "criteria": "A4bcde",
+  "population_trend": "Decreasing",
+  "marine_system": false,
+  "freshwater_system": false,
+  "terrestrial_system": true,
+  "assessor": "Maisels, F., Bergl, R.A. & Williamson, E.A.",
+  "reviewer": "Mittermeier, R.A. & Rylands, A.B.",
+  "aoo_km2": null,
+  "eoo_km2": null,
+  "elevation_upper": 1900,
+  "elevation_lower": 0,
+  "depth_upper": null,
+  "depth_lower": null,
+  "errata_flag": null,
+  "errata_reason": null,
+  "amended_flag": true,
+  "amended_reason": "This amended version of the 2016 assessment was created to update population and reduction estimates based on Strindberg <em>et al</em>. (2018).",
+  "species_id": 9404,
+  "taxonomicnotes": "<p>The Western Gorilla (<em>Gorilla gorilla</em>) has two recognized subspecies: the Western Lowland Gorilla (<em>Gorilla gorilla gorilla</em>) and the Cross River Gorilla (<em>Gorilla gorilla diehli</em>: Sarmiento and Oates 2000, Groves 2001). Genetic data suggest that the two subspecies of Western Gorilla diverged approximately 18,000 years ago (Thalmann <em>et al</em>. 2011) and that the Cross River Gorilla population can be clearly differentiated from Western Lowland Gorillas (Prado-Martinez <em>et al</em>. 2013). The taxonomic status of the Gorilla populations in Ebo (Cameroon) awaits clarification; however, measurements from a single Ebo Gorilla skull indicate this may be a relict population of a previously more widespread population living north of the Sanaga River (Groves 2005).<br/></p>",
+  "rationale": "<em>Gorilla gorilla</em> has a large geographic range, covering over 700,000 km². The size of the population in 2013 was estimated to be almost 362,000 individuals&#160; (Strindberg <em>et al</em>. 2018). Only a very small number of Western Gorillas are the <em>G. g. diehli</em> subspecies, therefore this rationale focuses on the <em>G. g. gorilla</em> subspecies. The country of Gabon lost over half its Gorilla population between 1983 and 2000 (Walsh <em>et al</em>. 2003). More recent population declines have been estimated using a predictive model that incorporated survey data collected between 2003 and 2013 across the entire range of Western Lowland Gorillas. The results reveal an 19.4% decline between 2005 and 2013, corresponding to an annual loss of ~2.7% (Strindberg <em>et al</em>. 2018). These population decreases were driven by poaching and disease (<em>Ebolavirus</em>) outbreaks.<br/><br/>Despite their abundance and wide geographic range, Western Gorillas qualify as Critically Endangered under criterion A: a population reduction of more than 80% over three generations (one generation is ~22 years). This listing is based on ongoing population losses due to illegal hunting, disease and habitat loss: poaching is intensifying with the expansion of access routes into forests and Zaire <em>Ebolavirus</em> remains a highly significant threat. At a conservative rate of reduction (2.7% per year rather than 4%, calculated from Walsh <em>et al</em>. 2003), the reduction in the Western Gorilla population is predicted to exceed 80% over three generations (i.e., 66 years, 2005–2071). Illegal hunting has not ceased despite intense anti-poaching efforts, and the threat of <em>Ebolavirus</em> has not been removed. In addition, the scale of habitat conversion to industrial agriculture will increase, and the effects of climate change will become more evident. <em>Gorilla gorilla</em> thus qualifies as Critically Endangered (A4bcde).",
+  "geographicrange": "<em>Gorilla gorilla</em> is found in Angola (Cabinda enclave), Cameroon, Central African Republic (CAR), mainland Equatorial Guinea (Rio Muni), Gabon, Nigeria and Republic of Congo. Until recently, the core population had an almost continuous distribution from southern CAR to the Congo River and west to the coast. Rivers are the primary geographic barrier for this taxon, followed by habitat fragmentation: the two subspecies are separated by a major river (the Sanaga), and Western Lowland Gorillas are divided into subpopulations by other major rivers in the region (Anthony <em>et al</em>. 2007, Fünfstück <em>et al</em>. 2014, Fünfstück and Vigilant 2015).<br/><br/>The northwestern limit of the western lowland subspecies distribution is the Sanaga River in Cameroon; the northern limit is the forest-savanna boundary to a maximum of roughly 6°N; the eastern limit is the Ubangi River; the Congo River south of its confluence with the Ubangi then becomes the southeastern and southern limits all the way to the coast. Small outlying populations of the Cross River subspecies remain on the Nigeria-Cameroon border at the headwaters of the Cross River and in the proposed Ebo National Park in Cameroon. Most Western Gorillas are found below 500 m asl, but those living on mountains occasionally reach elevations of 1,900 m asl.",
+  "population": "Estimates of Gorilla population size are usually made using a standard index of abundance: night nest abundance and distribution, sometimes combined with predictive modelling.<br/><br/><strong><em>G. g. diehli<br/></em></strong>Intensive surveys carried out in 1990–2005 suggested that approximately 250–300 Cross River Gorillas persist in a forested area of roughly 12,000 km² (Bergl 2006, Oates <em>et al</em>. 2007). Monitoring of the Gorillas at multiple sites and genetic analysis at select locations (Arandjelovic <em>et al</em>. 2015) has confirmed the small size of the subspecies population, while also documenting a larger geographic range than previously recorded (Bergl <em>et al</em>. 2012, Dunn <em>et al</em>. 2014). Cross River Gorillas occur in at least geographically distinct 11 localities (<em>ibid</em>.) Genetic evidence suggests that these subpopulations have had reproductive contact in the recent past (Bergl and Vigilant 2007); however, field surveys paired with remote sensing analysis reveal that forest corridors connecting subpopulations may no longer be functional as routes for dispersal (Imong <em>et al</em>. 2014).<br/><br/><strong><em>G. g. gorilla</em></strong><br/>Western Lowland Gorillas are found in almost all protected areas and many of the logging concessions in their range; they can persist at high densities in well-managed logging concessions (Morgan <em>et al</em>. 2013).&#160; Strindberg <em>et al</em>. (2018) produced the first range-wide estimate for the subspecies, giving a total population in 2013 of 361,919 (302,973-460,093). Their numbers declined by 19.4% between 2005 and 2013, corresponding to an annual loss of approximately 2.7% (<em>ibid</em>.). By the end of 2018, numbers will decline by a further 13.5% to roughly 316,000 individuals.",
+  "populationtrend": "decreasing",
+  "habitat": "Western Gorillas are diurnal and semi-terrestrial. They build nests to sleep in every night, usually on the ground but sometimes in trees. They are social and live in stable, cohesive groups composed of one “silverback” adult male, several adult females and their offspring. Gorillas are not territorial and group ranges overlap extensively.<br/><br/><strong><em>G. g. diehli</em></strong><br/>Cross River Gorillas inhabit forests largely restricted to rough terrain in remote areas, although they occasionally use lowland areas between hills (Oates <em>et al</em>. 2003, Bergl and Vigilant 2007). This distribution appears to be directly related to greater levels of human activity (especially poaching) in lowland areas, rather than selection of areas that provide preferred foods (Imong <em>et al</em>. 2013, Sawyer and Brashares 2013). Group sizes range from 2 to 20 individuals and home ranges may be as large as 30 km² (McFarland 2007, Sunderland-Groves <em>et al</em>. 2009). The highly-seasonal nature of the Cross River Gorillas’ habitat (more markedly seasonal than that of other Gorilla populations) likely contributes to grouping and ranging patterns. Their diet reflects this seasonality, with terrestrial herbs and bark eaten as staples throughout the year, and fruit consumed during periods of seasonal abundance (McFarland 2007, De Vere <em>et al</em>. 2011, Etiendem and Tagg 2013, Sawyer and Brashares 2013).<br/><br/><strong><em>G. g. gorilla</em></strong><br/>Western Lowland Gorillas occur in both swamp and <em>terra firma</em> lowland forests throughout Western Equatorial Africa. They are especially common where ground vegetation is dominated by monocotyledonous plants such as <em>Haumania liebrechtsiana</em> and <em>Megaphrynium macrostachyum</em> (Rainey <em>et al</em>. 2009). Staple and fallback foods are pith of <em>Aframomum</em> spp. and leaves and shoots of the Marantaceae family, whereas fruit consumption varies greatly between seasons (Rogers <em>et al</em>. 2004). Some populations spend hours feeding on aquatic herbs in baïs and swamps. Social ants and termites are the only animal matter deliberately ingested. Group size averages 10, but is occasionally over 20 individuals, and annual home ranges are usually 10–25 km² (Williamson and Butynski 2013).<br/><br/>Life History (as summarised in Williamson <em>et al</em>. 2013): Male Western Gorillas take 18 years to reach full maturity, and females take <em>ca</em>10 years. Length of the reproductive cycle is unknown. There is no birth season. Mean length of gestation is 256 days in captive Gorillas. Infant mortality up to three years of age is 22–65%. Infants suckle for 4–5 years, causing lactational amenorrhea in the mother. Interbirth intervals are 4–6 years. Western Gorillas appear to reproduce more slowly than Eastern Gorillas (<em>G. beringei</em>). Maximum life span is unknown, but likely to be <em>ca</em> 40 years. Generation time is estimated to be 22 years (see Appendix I in the supplementary material).",
+  "threats": [
+    {
+      "code": "11.1",
+      "title": "Habitat shifting & alteration",
+      "timing": "Ongoing",
+      "scope": "Whole (>90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "2.1",
+      "title": "Annual & perennial non-timber crops",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "2.1.1",
+      "title": "Shifting agriculture",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "2.1.2",
+      "title": "Small-holder farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "2.1.3",
+      "title": "Agro-industry farming",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "3.2",
+      "title": "Mining & quarrying",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "4.1",
+      "title": "Roads & railroads",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Low Impact: 5",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.1",
+      "title": "Hunting & trapping terrestrial animals",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.1",
+      "title": "Intentional use (species is the target)",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.1.2",
+      "title": "Unintentional effects (species is not the target)",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Very Rapid Declines",
+      "score": "High Impact: 8",
+      "invasive": null
+    },
+    {
+      "code": "5.1.3",
+      "title": "Persecution/control",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "5.3",
+      "title": "Logging & wood harvesting",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "5.3.4",
+      "title": "Unintentional effects: (large scale) [harvest]",
+      "timing": "Ongoing",
+      "scope": "Majority (50-90%)",
+      "severity": "Slow, Significant Declines",
+      "score": "Medium Impact: 6",
+      "invasive": null
+    },
+    {
+      "code": "8.2",
+      "title": "Problematic native species/diseases",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "8.5",
+      "title": "Viral/prion-induced diseases",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "8.5.1",
+      "title": "Unspecified species",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    },
+    {
+      "code": "8.5.2",
+      "title": "Named species",
+      "timing": "Ongoing",
+      "scope": "Minority (<50%)",
+      "severity": "Very Rapid Declines",
+      "score": "Medium Impact: 7",
+      "invasive": null
+    }
+  ],
+  "conservationmeasures": "National and international laws controlling hunting or capture of Gorillas exist in all habitat countries, but enforcement of protective legislation is inconsistent or lacking throughout much of the species’ range. <em>Gorilla gorilla</em> is listed under Appendix I of CITES and in Class A of the African Convention.<br/><br/>Only ~22% of Western Lowland Gorillas live inside protected areas, which cover ~14% of their geographic range (Strindberg <em>et al</em>. 2018). A further 20% are found in FSC-certified logging concessions, adding up to 8% of the range (Strindberg <em>et al</em>. 2018). Although forest guards work in many protected areas and in the well-managed logging concessions, 58% of Western Lowland Gorillas and 77% of their range are unprotected and highly vulnerable to poachers.<br/><br/>The Cross River Gorilla population is small and fragmented and their habitat is surrounded by some of the most densely populated human settlements in Africa. Approximately 30% of Cross River Gorillas occur outside of protected areas and many important habitat corridors between subpopulations exist as ungazetted land. The recent creation of new protected areas in Cameroon combined with existing protected areas in Nigeria, provides the legal framework for habitat protection and the control of hunting. However, effective management of these reserves remains a challenge. Illegal activities, including poaching, occur in all the region’s protected areas. Resources, equipment and training, in addition to proper oversight are needed for these areas to operate effectively.<br/><br/>Targeted conservation action plans have been produced for both Cross River Gorillas (Oates <em>et al</em>. 2007, Dunn <em>et al</em>. 2014) and Western Lowland Gorillas (Tutin <em>et al</em>. 2005, IUCN 2014). A series of recommendations have been outlined, which can be broadly encapsulated as:<br/><ol><li>An increase in effective law enforcement throughout the region, not only in protected areas, but also in logging concessions and unprotected forests. Law enforcement needs to be supported by updated regulations and sanctions.</li><li>Effective, coordinated land-use planning to avoid the clearing of intact Gorilla habitat to establish industrial plantations, for oil palm in particular (IUCN SSC Primate Specialist Group 2014). Industrial extraction of other natural resources, namely timber and minerals, should be included in a holistic, spatially-explicit approach. Such planning needs to be done at both national and regional levels. Several of the most important areas for Gorilla conservation are transboundary, and thus fall within the remit of national agencies from two or three countries.</li><li>Awareness raising among all sectors that deal with land and the protection of natural resources: law enforcement and judiciary; protected area authorities; mining, logging and agricultural industries; local communities and tour operators. This outreach effort should include specific information on minimising human impacts, such as preventing transmission of human diseases to great apes. Recommendations for logging companies regarding management practices that are compatible with great ape conservation (Morgan and Sanz 2007, Morgan <em>et al</em>. 2013) can be downloaded here: <a href=\"http://www.primate-sg.org/best_practice_logging\">http://www.primate-sg.org/best_practice_logging</a></li><li>Further research into ways of mitigating the spread and virulence of <em>Ebolavirus</em>, such as administering vaccines that are non-detrimental to the target species (great apes) or other species that may come into contact with the vaccine, and that protect a sufficiently large and geographically appropriate proportion of the great ape population to form barriers against its spread. IUCN guidelines on great apes and disease (Gilardi <em>et al</em>. 2015) are available here: <a href=\"http://www.primate-sg.org/best_practice_disease\">http://www.primate-sg.org/best_practice_disease</a></li><li>Implement standardised monitoring of law enforcement effort and effectiveness, of Gorilla abundance and of great ape health, particularly with respect to <em>Ebolavirus</em>. A standardised tool for law enforcement monitoring (SMART: <a href=\"http://www.smartconservationsoftware.org\">http://www.smartconservationsoftware.org</a>) is already in use at many sites; standard methods for surveying and monitoring great ape populations that facilitate more accurate and precise monitoring of changes in abundance have been in use for about a decade (Kühl <em>et al</em>. 2008 <a href=\"http://www.primate-sg.org/best_practice_surveys\">http://www.primate-sg.org/best_practice_surveys</a>); and non-invasive diagnosis of a range of pathogens is now possible, for example, detection of <em>Ebolavirus</em> in faeces (Reed <em>et al</em>. 2014).</li><li>Specifically for Cross River Gorillas, the key conservation need for their long-term survival is allowing the population to expand. Since significant areas of unoccupied Gorilla habitat remain across the landscape, population growth is feasible if levels of hunting and other human activities can be reduced. Maintenance (or re-establishment) of habitat connectivity between areas currently occupied by Gorillas is essential for future population expansion.</li></ol>Maintaining well-protected areas of forest will be key to maintaining Gorilla populations in the long term, and this can only be done through the conservation strategies detailed in the action plans. These are presented in greater detail in the action plans than is possible here. The documents can be downloaded at: <a href=\"http://www.primate-sg.org/action_plans\">http://www.primate-sg.org/action_plans</a>",
+  "usetrade": "<p>Gorillas are completely protected by national and international laws in all countries of their range, and it is, therefore, illegal to kill, capture or trade in live Gorillas or their body parts.<br/></p>",
+  "countries": [
+    {
+      "code": "AO",
+      "country": "Angola",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CF",
+      "country": "Central African Republic",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CG",
+      "country": "Congo",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "CM",
+      "country": "Cameroon",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GA",
+      "country": "Gabon",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "GQ",
+      "country": "Equatorial Guinea",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    },
+    {
+      "code": "NG",
+      "country": "Nigeria",
+      "presence": "Extant",
+      "origin": "Native",
+      "distribution_code": "Native"
+    }
+  ],
+  "historical": [
+    {
+      "year": "2016",
+      "code": "CR",
+      "category": "Critically Endangered"
+    },
+    {
+      "year": "2008",
+      "code": "CR",
+      "category": "Critically Endangered"
+    },
+    {
+      "year": "2007",
+      "code": "CR",
+      "category": "Critically Endangered"
+    },
+    {
+      "year": "2000",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1996",
+      "code": "EN",
+      "category": "Endangered"
+    },
+    {
+      "year": "1994",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1990",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1988",
+      "code": "V",
+      "category": "Vulnerable"
+    },
+    {
+      "year": "1986",
+      "code": "V",
+      "category": "Vulnerable"
+    }
+  ],
+  "habitats": [
+    {
+      "code": "1.6",
+      "habitat": "Forest - Subtropical/Tropical Moist Lowland",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.8",
+      "habitat": "Forest - Subtropical/Tropical Swamp",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    },
+    {
+      "code": "1.9",
+      "habitat": "Forest - Subtropical/Tropical Moist Montane",
+      "suitability": "Suitable",
+      "season": "resident",
+      "majorimportance": "Yes"
+    }
+  ]
+}
