@@ -1,0 +1,36 @@
+[{
+    "family": "african-elephant",
+    "commonName": "African Elephant",
+    "speciesIds": ["12392"],
+    "urls": {
+      "wcs": "https://www.wcs.org/our-work/species/african-elephants"
+    }
+  },
+  {
+    "family": "asian-elephant",
+    "title": "Asian Elephant",
+    "speciesIds": ["7140"],
+    "urls": {
+      "wcs": "https://www.wcs.org/our-work/species/african-elephants"
+    }
+  }, {
+    "family": "bison",
+    "title": "Bison",
+    "speciesIds": ["2815"],
+    "urls": {
+      "wcs": "https://www.wcs.org/our-work/species/bison"
+    }
+  },
+  {
+    "family": "bonobo",
+    "title": "Bonobo",
+    "speciesIds": ["15932"],
+    "urls": {
+      "wcs": "https://www.wcs.org/our-work/species/bonobos"
+    }
+  },
+  {
+    "family": "cheetah",
+    "title": "Cheetah",
+  }
+]

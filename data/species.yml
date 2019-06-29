@@ -1,0 +1,57 @@
+african-elephant:
+  title: African Elephant
+  speciesIds: [12392]
+  urls:
+    wcs: https://www.wcs.org/our-work/species/african-elephants
+asian-elephant:
+  title: Asian Elephant
+  speciesIds: [7140]
+  urls:
+    wcs: https://www.wcs.org/our-work/species/african-elephants
+bison:
+  title: Bison
+  speciesIds: [2815]
+  urls:
+    wcs: https://www.wcs.org/our-work/species/bison
+bonobo:
+  title: Bonobo
+  speciesIds: [15932]
+  urls:
+    wcs: https://www.wcs.org/our-work/species/bonobos
+cheetah:
+  title: cheetah
+  speciesIds: [219]
+  urls:
+    wcs: https://www.wcs.org/our-work/species/cheetahs
+chimpanzee:
+  title: Chimpanzee
+  speciesIds: [15933]
+  urls:
+    wcs: https://www.wcs.org/our-work/species/chimpanzees
+gibbon:
+  title: Gibbon
+  speciesIds: [39775, 41643, 10543, 10552, 10550]
+  urls:
+    wcs: https://www.wcs.org/our-work/species/gibbons
+gorilla:
+  title: Gorilla
+  speciesIds: [9404, 39994]
+  urls:
+    wcs: https://www.wcs.org/our-work/species/gorillas
+jaguar:
+  title: Jaguar
+  speciesIds: [15953]
+  urls:
+    wcs: https://www.wcs.org/our-work/species/jaguars
+lion:
+  title: Lion
+  speciesIds: [15951]
+  urls:
+    wcs: https://www.wcs.org/our-work/species/lions
+orangutan:
+  title: Orangutan
+  speciesIds: [120588639, 121097935, 17975]
+  urls: 
+    wcs: https://www.wcs.org/our-work/species/orangutans
+
+
