@@ -15,18 +15,17 @@ const useStyles = makeStyles({
   },
   left: {
     height: "100%",
-    width: "25%",
+    width: "30%",
     backgroundColor: colors.secondary,
-    overflow: "hidden"
+    overflowY: "scroll",
+    padding: "20px"
   },
   center: {
-    width: "40%"
+    width: "50%"
   },
   right: {
-    borderLeft: "solid 2px black",
-    width: "35%",
+    width: "20%",
     overflowY: "scroll",
-    padding: "20px",
     height: "100%",
     backgroundColor: colors.secondary
   }
@@ -40,13 +39,11 @@ const SpeciesLayout: FC = props => {
   return (
     <section className={classes.main}>
       <aside className={classes.left}>
-        <SpeciesNav />
-      </aside>
-      <div className={classes.center}>
-        <h2>{context.currentFamily.title}</h2>
-      </div>
-      <div className={classes.right}>
         <SpeciesDetails />
+      </aside>
+      <div className={classes.center} />
+      <div className={classes.right}>
+        <SpeciesNav />
       </div>
     </section>
   );

@@ -18,7 +18,8 @@ const useStyles = makeStyles({
   },
   main: {
     flexGrow: 1,
-    overflow: "hidden"
+    overflow: "hidden",
+    height: "100%"
   }
 });
 

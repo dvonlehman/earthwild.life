@@ -20,6 +20,7 @@ const SpeciesNav: FC = props => {
 
   return (
     <div className={classes.main}>
+      <h2>{family.title}</h2>
       <div>{family.populationTrend}</div>
       {Object.keys(family.species).map(subSpecies => (
         <p

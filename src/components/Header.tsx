@@ -5,7 +5,15 @@ import { colors } from "../styles";
 const useStyles = makeStyles({
   header: {
     width: "100%",
+    height: 70,
     backgroundColor: colors.dark,
+    display: "flex",
+    padding: "0 20px",
+    // alignContent: "center",
+    // justifyContent: "center",
+    alignItems: "center"
+  },
+  logo: {
     color: colors.white
   }
 });
@@ -15,7 +23,9 @@ const Header: FC = () => {
 
   return (
     <header className={classes.header}>
-      <h2>Logo</h2>
+      <a href="/#" className={classes.logo}>
+        Logo
+      </a>
     </header>
   );
 };

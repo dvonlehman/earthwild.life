@@ -81,6 +81,22 @@
     ]
   },
   {
+    "public_id": "species/asian-elephant-2439184_1920_zc3ouw",
+    "format": "jpg",
+    "version": 1561784570,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-29T05:02:50Z",
+    "bytes": 792210,
+    "width": 1920,
+    "height": 1280,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561784570/species/asian-elephant-2439184_1920_zc3ouw.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561784570/species/asian-elephant-2439184_1920_zc3ouw.jpg",
+    "tags": [
+      "asian-elephant"
+    ]
+  },
+  {
     "public_id": "species/bison-1",
     "format": "jpg",
     "version": 1561765371,
@@ -323,6 +339,136 @@
     ]
   },
   {
+    "public_id": "species/chimpanzee-2132755_1280_jitydc",
+    "format": "jpg",
+    "version": 1561936727,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-30T23:18:47Z",
+    "bytes": 174750,
+    "width": 1280,
+    "height": 853,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561936727/species/chimpanzee-2132755_1280_jitydc.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561936727/species/chimpanzee-2132755_1280_jitydc.jpg",
+    "tags": [
+      "chimpanzee"
+    ]
+  },
+  {
+    "public_id": "species/chimpanzee-3703230_1920_qvoldh",
+    "format": "jpg",
+    "version": 1561936516,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-30T23:15:16Z",
+    "bytes": 601933,
+    "width": 1920,
+    "height": 1337,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561936516/species/chimpanzee-3703230_1920_qvoldh.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561936516/species/chimpanzee-3703230_1920_qvoldh.jpg",
+    "tags": [
+      "chimpanzee",
+      "featured"
+    ]
+  },
+  {
+    "public_id": "species/chimpanzee-3741878_1920_mdahmc",
+    "format": "jpg",
+    "version": 1561936802,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-30T23:20:02Z",
+    "bytes": 675763,
+    "width": 1920,
+    "height": 1280,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561936802/species/chimpanzee-3741878_1920_mdahmc.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561936802/species/chimpanzee-3741878_1920_mdahmc.jpg",
+    "tags": [
+      "chimpanzee"
+    ]
+  },
+  {
+    "public_id": "species/chimpanzee-830535_1920_odqojt",
+    "format": "jpg",
+    "version": 1561936625,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-30T23:17:05Z",
+    "bytes": 1006837,
+    "width": 1920,
+    "height": 1440,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561936625/species/chimpanzee-830535_1920_odqojt.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561936625/species/chimpanzee-830535_1920_odqojt.jpg",
+    "tags": [
+      "chimpanzee"
+    ]
+  },
+  {
+    "public_id": "species/chimpanzee-898756_1920_eocy2f",
+    "format": "jpg",
+    "version": 1561936580,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-30T23:16:20Z",
+    "bytes": 771729,
+    "width": 1920,
+    "height": 1280,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561936580/species/chimpanzee-898756_1920_eocy2f.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561936580/species/chimpanzee-898756_1920_eocy2f.jpg",
+    "tags": [
+      "chimpanzee"
+    ]
+  },
+  {
+    "public_id": "species/elephant-264728_1920_ktm81z",
+    "format": "jpg",
+    "version": 1561784386,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-29T04:59:46Z",
+    "bytes": 613176,
+    "width": 1920,
+    "height": 1277,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561784386/species/elephant-264728_1920_ktm81z.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561784386/species/elephant-264728_1920_ktm81z.jpg",
+    "tags": [
+      "asian-elephant"
+    ]
+  },
+  {
+    "public_id": "species/elephant-orphanage-170867_1280_yquslq",
+    "format": "jpg",
+    "version": 1561784496,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-29T05:01:36Z",
+    "bytes": 348362,
+    "width": 1280,
+    "height": 720,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561784496/species/elephant-orphanage-170867_1280_yquslq.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561784496/species/elephant-orphanage-170867_1280_yquslq.jpg",
+    "tags": [
+      "asian-elephant"
+    ]
+  },
+  {
+    "public_id": "species/elephant-with-boy-3375364_1920_ed8rxl",
+    "format": "jpg",
+    "version": 1561784438,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-29T05:00:38Z",
+    "bytes": 990037,
+    "width": 1920,
+    "height": 1282,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561784438/species/elephant-with-boy-3375364_1920_ed8rxl.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561784438/species/elephant-with-boy-3375364_1920_ed8rxl.jpg",
+    "tags": [
+      "asian-elephant",
+      "featured"
+    ]
+  },
+  {
     "public_id": "species/gibbon-1",
     "format": "jpg",
     "version": 1561695139,
@@ -401,6 +547,103 @@
     "tags": [
       "featured",
       "gibbon"
+    ]
+  },
+  {
+    "public_id": "species/gorilla-1099264_1920_mbizye",
+    "format": "jpg",
+    "version": 1561937142,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-30T23:25:42Z",
+    "bytes": 1306535,
+    "width": 1920,
+    "height": 1440,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561937142/species/gorilla-1099264_1920_mbizye.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561937142/species/gorilla-1099264_1920_mbizye.jpg",
+    "tags": [
+      "gorilla"
+    ]
+  },
+  {
+    "public_id": "species/gorilla-61136_1280_cu0cef",
+    "format": "jpg",
+    "version": 1561937297,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-30T23:28:17Z",
+    "bytes": 655588,
+    "width": 1280,
+    "height": 960,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561937297/species/gorilla-61136_1280_cu0cef.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561937297/species/gorilla-61136_1280_cu0cef.jpg",
+    "tags": [
+      "gorilla"
+    ]
+  },
+  {
+    "public_id": "species/gorilla-752875_1920_cath1g",
+    "format": "jpg",
+    "version": 1561936996,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-30T23:23:16Z",
+    "bytes": 1308555,
+    "width": 1920,
+    "height": 1361,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561936996/species/gorilla-752875_1920_cath1g.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561936996/species/gorilla-752875_1920_cath1g.jpg",
+    "tags": [
+      "gorilla"
+    ]
+  },
+  {
+    "public_id": "species/gorilla-928598_1920_riqtu8",
+    "format": "jpg",
+    "version": 1561937236,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-30T23:27:16Z",
+    "bytes": 804333,
+    "width": 1920,
+    "height": 1440,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561937236/species/gorilla-928598_1920_riqtu8.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561937236/species/gorilla-928598_1920_riqtu8.jpg",
+    "tags": [
+      "featured",
+      "gorilla"
+    ]
+  },
+  {
+    "public_id": "species/gorillas-1097143_1920_puevfl",
+    "format": "jpg",
+    "version": 1561937048,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-30T23:24:08Z",
+    "bytes": 362682,
+    "width": 1920,
+    "height": 1280,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561937048/species/gorillas-1097143_1920_puevfl.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561937048/species/gorillas-1097143_1920_puevfl.jpg",
+    "tags": [
+      "gorilla"
+    ]
+  },
+  {
+    "public_id": "species/sri-lankan-elephant-4043775_1920_vysozv",
+    "format": "jpg",
+    "version": 1561784331,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2019-06-29T04:58:51Z",
+    "bytes": 950291,
+    "width": 1920,
+    "height": 1280,
+    "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561784331/species/sri-lankan-elephant-4043775_1920_vysozv.jpg",
+    "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561784331/species/sri-lankan-elephant-4043775_1920_vysozv.jpg",
+    "tags": [
+      "asian-elephant"
     ]
   }
 ]
