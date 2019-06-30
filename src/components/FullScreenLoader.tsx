@@ -3,8 +3,8 @@ import React from "react";
 // Using inline styles so that the App.css can be lazy imported.
 const LOADER_STYLES = {
   display: "flex",
-  height: "100vh",
-  width: "100vw",
+  height: "100%",
+  width: "100%",
   justifyContent: "center",
   alignItems: "center",
   backgroundColor: "#eff1f2"

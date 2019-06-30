@@ -1,15 +1,29 @@
 import React, { FC } from "react";
 import classNames from "classnames";
-// import { makeStyles } from "@material-ui/styles";
+import { makeStyles } from "@material-ui/styles";
 import { useContext } from "../context";
+import { colors } from "../styles";
 
-// const useStyles = makeStyles({});
+const useStyles = makeStyles({
+  main: {
+    color: colors.white,
+
+    "& li": {
+      listStyleType: "none"
+    },
+    "& a": {
+      color: colors.white,
+      textDecoration: "none"
+    }
+  }
+});
 
 const SpeciesNav: FC = props => {
   const context = useContext();
+  const classes = useStyles();
 
   return (
-    <nav>
+    <nav className={classes.main}>
       <ul>
         {context.speciesFamilyList.map(species => (
           <li

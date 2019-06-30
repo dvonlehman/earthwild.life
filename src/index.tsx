@@ -1,11 +1,26 @@
 import React, { Suspense, lazy } from "react";
 import ReactDOM from "react-dom";
+import Header from "./components/Header";
 import FullScreenLoader from "./components/FullScreenLoader";
 import { SpeciesFamily, SpeciesFamilyInfo } from "./types";
 import { fetchSpeciesFamilyList, fetchSpeciesFamily } from "./api";
+import { makeStyles } from "@material-ui/styles";
 
 let _speciesFamilyList: SpeciesFamilyInfo[];
 let _currentSpeciesFamily: SpeciesFamily;
+
+const useStyles = makeStyles({
+  layout: {
+    display: "flex",
+    height: "100vh",
+    flexDirection: "column",
+    overflow: "hidden"
+  },
+  main: {
+    flexGrow: 1,
+    overflow: "hidden"
+  }
+});
 
 // Simulate a delay while fetching the user. The Suspense loading fallback
 // will be display for as long as it takes to both load the bundle chunk and fetch the
@@ -34,15 +49,25 @@ let App = lazy(() => import("./App"));
 
 const rootElement = document.getElementById("root");
 
+const Layout = () => {
+  const classes = useStyles();
+
+  return (
+    <div className={classes.layout}>
+      <Header />
+      <div className={classes.main}>
+        <Suspense fallback={<FullScreenLoader />}>
+          <AppContextProvider
+            getSpeciesFamilyList={() => _speciesFamilyList}
+            getCurrentFamily={() => _currentSpeciesFamily}
+          >
+            <App />
+          </AppContextProvider>
+        </Suspense>
+      </div>
+    </div>
+  );
+};
+
 // TODO: Render the header here
-ReactDOM.render(
-  <Suspense fallback={<FullScreenLoader />}>
-    <AppContextProvider
-      getSpeciesFamilyList={() => _speciesFamilyList}
-      getCurrentFamily={() => _currentSpeciesFamily}
-    >
-      <App />
-    </AppContextProvider>
-  </Suspense>,
-  rootElement
-);
+ReactDOM.render(<Layout />, rootElement);

@@ -3,19 +3,20 @@ import { makeStyles } from "@material-ui/styles";
 import { useContext } from "../context";
 import SpeciesNav from "./SpeciesNav";
 import SpeciesDetails from "./SpeciesDetails";
+import { colors } from "../styles";
 
 const useStyles = makeStyles({
   main: {
     display: "flex",
     width: "100%",
-    height: "100vh",
-    flexDirection: "row"
+    height: "100%",
+    flexDirection: "row",
+    overflow: "hidden"
   },
   left: {
     height: "100%",
     width: "25%",
-    borderRight: "solid 2px black",
-    backgroundColor: "silver",
+    backgroundColor: colors.secondary,
     overflow: "hidden"
   },
   center: {
@@ -25,7 +26,9 @@ const useStyles = makeStyles({
     borderLeft: "solid 2px black",
     width: "35%",
     overflowY: "scroll",
-    padding: "20px"
+    padding: "20px",
+    height: "100%",
+    backgroundColor: colors.secondary
   }
 });
 

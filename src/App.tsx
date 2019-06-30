@@ -2,20 +2,12 @@
 
 import React, { FC, useEffect } from "react";
 import { useContext } from "./context";
-import { makeStyles } from "@material-ui/styles";
 import Home from "./components/Home";
 import throttle from "lodash.throttle";
 import SpeciesLayout from "./components/SpeciesLayout";
 import { fetchSpeciesFamily } from "./api";
 
-const useStyles = makeStyles({
-  main: {
-    display: "flex"
-  }
-});
-
 const App: React.FC = props => {
-  // const classes = useStyles();
   const context = useContext();
 
   async function onHashChange(event: any) {

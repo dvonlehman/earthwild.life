@@ -1,11 +1,13 @@
 import React, { FC } from "react";
-import classNames from "classnames";
+// import classNames from "classnames";
 import { makeStyles } from "@material-ui/styles";
 import { useContext } from "../context";
 
 const useStyles = makeStyles({
   main: {
-    overflowY: "scroll"
+    marginBottom: 20,
+    minHeight: "min-content",
+    height: "100%"
   }
 });
 
