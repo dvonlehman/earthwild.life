@@ -38,7 +38,7 @@ const main = async () => {
   );
 
   const familyCodes = Object.keys(speciesMetadata);
-  const masterIndex = {};
+  const speciesFamilyList = [];
 
   for (const family of familyCodes) {
     console.log(`Processing species family ${family}`);
@@ -55,7 +55,8 @@ const main = async () => {
     // Load the RedList api result file for each species in the family
     const redListData = await Promise.all(speciesIds.map(buildSpeciesData));
 
-    masterIndex[family] = {
+    const speciesFamilyInfo = {
+      family,
       ...speciesMetadata[family],
       featuredImage: featuredImage ? featuredImage.public_id : undefined,
       populationTrend: mostCommon(
@@ -64,9 +65,11 @@ const main = async () => {
       )[0].token
     };
 
+    speciesFamilyList.push(speciesFamilyInfo);
+
     // Write the species json file.
     const speciesFamilyDetails = {
-      ...masterIndex[family],
+      ...speciesFamilyInfo,
       images: images.map(img => ({
         url: img.public_id,
         width: img.width,
@@ -79,14 +82,14 @@ const main = async () => {
     };
 
     await fs.writeFile(
-      __dirname + "/build/" + family + ".json",
+      __dirname + "/../public/data/" + family + ".json",
       JSON.stringify(speciesFamilyDetails, null, 2)
     );
   }
 
   await fs.writeFile(
-    __dirname + "/build/species.json",
-    JSON.stringify(masterIndex, null, 2)
+    __dirname + "/../public/data/species.json",
+    JSON.stringify(speciesFamilyList, null, 2)
   );
 };
 

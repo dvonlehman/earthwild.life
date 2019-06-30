@@ -1,7 +1,12 @@
-import React from "react";
-import { GoogleMap, useLoadScript } from "@react-google-maps/api";
+/* eslint-disable react-hooks/exhaustive-deps */
+
+import React, { FC, useEffect } from "react";
+import { useContext } from "./context";
 import { makeStyles } from "@material-ui/styles";
-import "./App.css";
+import Home from "./components/Home";
+import throttle from "lodash.throttle";
+import SpeciesLayout from "./components/SpeciesLayout";
+import { fetchSpeciesFamily } from "./api";
 
 const useStyles = makeStyles({
   main: {
@@ -10,35 +15,41 @@ const useStyles = makeStyles({
 });
 
 const App: React.FC = props => {
-  const classes = useStyles();
+  // const classes = useStyles();
+  const context = useContext();
 
-  const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAPS_KEY as string
-  });
+  async function onHashChange(event: any) {
+    console.log("hash change", document.location.hash);
+    let hash = document.location.hash;
+    if (hash === "#" || hash.length === 0) {
+      return context.setCurrentFamily(undefined);
+    }
 
-  const renderMap = () => {
-    // wrapping to a function is useful in case you want to access `window.google`
-    // to eg. setup options or create latLng object, it won't be available otherwise
-    // feel free to render directly if you don't need that
-    return (
-      <div className={classes.main}>
-        <GoogleMap
-          mapContainerStyle={{
-            height: "100vh",
-            width: "100vw"
-          }}
-          zoom={5}
-          center={{ lat: 24.886, lng: -70.268 }}
-        />
-      </div>
-    );
-  };
+    hash = hash.substr(1);
+    if (context.speciesFamilyList.some(f => f.family === hash)) {
+      context.setIsLoading(true);
 
-  if (loadError) {
-    return <div>Map cannot be loaded right now, sorry.</div>;
+      const speciesFamily = await fetchSpeciesFamily(hash);
+      context.setCurrentFamily(speciesFamily);
+    }
   }
 
-  return isLoaded ? renderMap() : <span>Loading...</span>;
+  // Monitor for hash changes
+  useEffect(() => {
+    window.addEventListener(
+      "hashchange",
+      throttle(onHashChange, 500, { leading: true, trailing: false }),
+      false
+    );
+  }, []);
+
+  // TODO: Render either the DesktopApp or the MobileApp depending on the screensize
+
+  if (context.currentFamily) {
+    return <SpeciesLayout />;
+  } else {
+    return <Home />;
+  }
 };
 
 export default App;

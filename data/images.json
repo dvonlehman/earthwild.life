@@ -11,7 +11,9 @@
     "height": 800,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561692890/species/african-elephant-1.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561692890/species/african-elephant-1.jpg",
-    "tags": []
+    "tags": [
+      "african-elephant"
+    ]
   },
   {
     "public_id": "species/african-elephant-2",
@@ -25,7 +27,9 @@
     "height": 768,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561693195/species/african-elephant-2.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561693195/species/african-elephant-2.jpg",
-    "tags": []
+    "tags": [
+      "african-elephant"
+    ]
   },
   {
     "public_id": "species/african-elephant-3",
@@ -39,7 +43,9 @@
     "height": 2560,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561693083/species/african-elephant-3.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561693083/species/african-elephant-3.jpg",
-    "tags": []
+    "tags": [
+      "african-elephant"
+    ]
   },
   {
     "public_id": "species/african-elephant-4",
@@ -53,7 +59,10 @@
     "height": 2112,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561693029/species/african-elephant-4.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561693029/species/african-elephant-4.jpg",
-    "tags": []
+    "tags": [
+      "african-elephant",
+      "featured"
+    ]
   },
   {
     "public_id": "species/african-elephant-5",
@@ -67,7 +76,9 @@
     "height": 600,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561692992/species/african-elephant-5.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561692992/species/african-elephant-5.jpg",
-    "tags": []
+    "tags": [
+      "african-elephant"
+    ]
   },
   {
     "public_id": "species/bison-1",
@@ -82,7 +93,9 @@
     "backup": true,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561765371/species/bison-1.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561765371/species/bison-1.jpg",
-    "tags": []
+    "tags": [
+      "bison"
+    ]
   },
   {
     "public_id": "species/bison-2",
@@ -96,7 +109,9 @@
     "height": 768,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561693732/species/bison-2.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561693732/species/bison-2.jpg",
-    "tags": []
+    "tags": [
+      "bison"
+    ]
   },
   {
     "public_id": "species/bison-3",
@@ -110,7 +125,10 @@
     "height": 1284,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561693539/species/bison-3.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561693539/species/bison-3.jpg",
-    "tags": []
+    "tags": [
+      "bison",
+      "featured"
+    ]
   },
   {
     "public_id": "species/bison-4",
@@ -124,7 +142,9 @@
     "height": 1252,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561693473/species/bison-4.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561693473/species/bison-4.jpg",
-    "tags": []
+    "tags": [
+      "bison"
+    ]
   },
   {
     "public_id": "species/bison-5",
@@ -138,7 +158,9 @@
     "height": 1280,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561693425/species/bison-5.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561693425/species/bison-5.jpg",
-    "tags": []
+    "tags": [
+      "bison"
+    ]
   },
   {
     "public_id": "species/bonobo-1",
@@ -152,7 +174,9 @@
     "height": 1281,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561694364/species/bonobo-1.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561694364/species/bonobo-1.jpg",
-    "tags": []
+    "tags": [
+      "bonobo"
+    ]
   },
   {
     "public_id": "species/bonobo-2",
@@ -166,7 +190,9 @@
     "height": 1281,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561694303/species/bonobo-2.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561694303/species/bonobo-2.jpg",
-    "tags": []
+    "tags": [
+      "bonobo"
+    ]
   },
   {
     "public_id": "species/bonobo-3",
@@ -180,7 +206,9 @@
     "height": 1281,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561694207/species/bonobo-3.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561694207/species/bonobo-3.jpg",
-    "tags": []
+    "tags": [
+      "bonobo"
+    ]
   },
   {
     "public_id": "species/bonobo-4",
@@ -194,7 +222,9 @@
     "height": 1920,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561694142/species/bonobo-4.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561694142/species/bonobo-4.jpg",
-    "tags": []
+    "tags": [
+      "bonobo"
+    ]
   },
   {
     "public_id": "species/bonobo-5",
@@ -208,7 +238,10 @@
     "height": 1440,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561694049/species/bonobo-5.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561694049/species/bonobo-5.jpg",
-    "tags": []
+    "tags": [
+      "bonobo",
+      "featured"
+    ]
   },
   {
     "public_id": "species/cheetah-1",
@@ -236,7 +269,9 @@
     "height": 869,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561694660/species/cheetah-2.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561694660/species/cheetah-2.jpg",
-    "tags": []
+    "tags": [
+      "cheetah"
+    ]
   },
   {
     "public_id": "species/cheetah-3",
@@ -250,7 +285,9 @@
     "height": 1280,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561694606/species/cheetah-3.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561694606/species/cheetah-3.jpg",
-    "tags": []
+    "tags": [
+      "cheetah"
+    ]
   },
   {
     "public_id": "species/cheetah-4",
@@ -264,7 +301,9 @@
     "height": 1156,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561694555/species/cheetah-4.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561694555/species/cheetah-4.jpg",
-    "tags": []
+    "tags": [
+      "cheetah"
+    ]
   },
   {
     "public_id": "species/cheetah-5",
@@ -278,7 +317,10 @@
     "height": 1223,
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561694509/species/cheetah-5.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561694509/species/cheetah-5.jpg",
-    "tags": []
+    "tags": [
+      "cheetah",
+      "featured"
+    ]
   },
   {
     "public_id": "species/gibbon-1",
@@ -357,6 +399,7 @@
     "url": "http://res.cloudinary.com/dfvygwmml/image/upload/v1561695955/species/gibbon-5.jpg",
     "secure_url": "https://res.cloudinary.com/dfvygwmml/image/upload/v1561695955/species/gibbon-5.jpg",
     "tags": [
+      "featured",
       "gibbon"
     ]
   }
