@@ -33,8 +33,8 @@ const useStyles = makeStyles({
     }
   },
   thumbnail: {
-    width: "100%",
-    height: "auto",
+    width: "240px",
+    height: "180px",
     borderTopLeftRadius: BORDER_RADIUS,
     borderTopRightRadius: BORDER_RADIUS
   },

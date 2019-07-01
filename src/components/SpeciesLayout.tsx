@@ -4,6 +4,8 @@ import { useContext } from "../context";
 import SpeciesNav from "./SpeciesNav";
 import SpeciesDetails from "./SpeciesDetails";
 import { colors } from "../styles";
+import FullScreenLoader from "./FullScreenLoader";
+import Map from "./Map";
 
 const useStyles = makeStyles({
   main: {
@@ -13,21 +15,35 @@ const useStyles = makeStyles({
     flexDirection: "row",
     overflow: "hidden"
   },
+  loading: {
+    flexGrow: 1,
+    height: "100%"
+  },
   left: {
     height: "100%",
-    width: "30%",
+    width: "400px",
     backgroundColor: colors.secondary,
     overflowY: "scroll",
     padding: "20px"
   },
   center: {
-    width: "50%"
+    flexGrow: 1,
+    display: "flex",
+    flexDirection: "column",
+    height: "100%"
   },
   right: {
-    width: "20%",
+    width: "280px",
     overflowY: "scroll",
     height: "100%",
     backgroundColor: colors.secondary
+  },
+  map: {
+    flexGrow: 1,
+    backgroundColor: "silver"
+  },
+  images: {
+    height: "20%"
   }
 });
 
@@ -38,10 +54,24 @@ const SpeciesLayout: FC = props => {
 
   return (
     <section className={classes.main}>
-      <aside className={classes.left}>
-        <SpeciesDetails />
-      </aside>
-      <div className={classes.center} />
+      {context.isLoading ? (
+        <div className={classes.loading}>
+          <FullScreenLoader />
+        </div>
+      ) : (
+        <>
+          <aside className={classes.left}>
+            <SpeciesDetails />
+          </aside>
+          <div className={classes.center}>
+            <div className={classes.map}>
+              <Map />
+            </div>
+            <div className={classes.images} />
+          </div>
+        </>
+      )}
+
       <div className={classes.right}>
         <SpeciesNav />
       </div>
