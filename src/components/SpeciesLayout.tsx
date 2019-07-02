@@ -65,7 +65,14 @@ const SpeciesLayout: FC = props => {
           </aside>
           <div className={classes.center}>
             <div className={classes.map}>
-              <Map />
+              <iframe
+                title="map"
+                height="420"
+                width="620"
+                frameBorder="0"
+                src="https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/dvonlehman/endangered-radar/master/data/9404.geojson"
+              />
+              {/* <Map /> */}
             </div>
             <div className={classes.images} />
           </div>

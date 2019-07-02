@@ -7,3 +7,4 @@
 ## References
 
 - https://react-google-maps-api-docs.netlify.com/#polygon
+- https://help.github.com/en/articles/mapping-geojson-files-on-github
