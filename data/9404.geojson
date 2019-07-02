@@ -1,4 +1,5 @@
 {
+  "type": "Feature",
   "geometry": {
     "type": "MultiPolygon",
     "coordinates": [
