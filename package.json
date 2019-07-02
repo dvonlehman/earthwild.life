@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "@spatial/simplify": "^1.0.4",
     "@types/classnames": "^2.2.8",
     "@types/googlemaps": "^3.36.0",
     "@types/lodash": "^4.14.135",

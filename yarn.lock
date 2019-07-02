@@ -1263,6 +1263,50 @@
     "@types/googlemaps" "3.36.3"
     typescript "3.5.1"
 
+"@spatial/clean-coords@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.npmjs.org/@spatial/clean-coords/-/clean-coords-1.0.4.tgz#4edb64b8b6828b5e24f18628e4970031cabe8d23"
+  integrity sha512-7iR6NBN85sEGkw2/cM49RTi2EBQXBVPa4idbzc7OWjRbno/dZJfz4lr3S6hY6wcLsJoOY8W5yOhARvwVk1Ql7A==
+  dependencies:
+    "@spatial/helpers" "^1.0.4"
+    "@spatial/invariant" "^1.0.4"
+
+"@spatial/clone@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.npmjs.org/@spatial/clone/-/clone-1.0.4.tgz#20dc5a1a2c59b9b0acb52805159eb8d5ed7cf041"
+  integrity sha512-21xDIAGlOOZlQcNT2ULDg3z1IsmDM9YXxq48E87aTGOKRX7vLIywCP9gHxS14F8GcFvsJIyEn7S+6wsjmWItHQ==
+  dependencies:
+    "@spatial/helpers" "^1.0.4"
+
+"@spatial/helpers@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.npmjs.org/@spatial/helpers/-/helpers-1.0.4.tgz#9f73a1a62b5fa9c7b199525c89ec11fb0e396c95"
+  integrity sha512-JUsQUgU+6Ud05xMyq8PnzeG9l1IdVA8DlWCskjHINxrK1obdlfnOi25BgjU0pBieVYtlMaUnyJvE4o4ov5Moww==
+
+"@spatial/invariant@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.npmjs.org/@spatial/invariant/-/invariant-1.0.4.tgz#b5e92aa19df6668dafd975fb942430bab21637fb"
+  integrity sha512-ok7Gws7R+m9UxRodkPt/jjCL9V7WPiZEW2cbVj421eY7shkGDW85b6b9bCK+agx4o8/na/Qd0t7dONdQvdSTqA==
+  dependencies:
+    "@spatial/helpers" "^1.0.4"
+
+"@spatial/meta@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.npmjs.org/@spatial/meta/-/meta-1.0.4.tgz#45618724dc0539dd2f064901e4e7e16eaaeefb74"
+  integrity sha512-UKtjKHXfA2p4+5NDxOtySJb8z8hZetYDfGN+254w0m500t2GCsVir7oaA9gKZXDvuz8IhoEHlnRnxIX8HxAmXA==
+  dependencies:
+    "@spatial/helpers" "^1.0.4"
+
+"@spatial/simplify@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.npmjs.org/@spatial/simplify/-/simplify-1.0.4.tgz#ec9fb1ea4f1947c702116bb28fb779407ddac20d"
+  integrity sha512-qsH/ni4wK6uZmYPYXJFI17e3H1Qy2fNTnEt96zIoX54iZaQpVmzb8wxYqLkjdX7hs+JlFh7sBR4d+If3AstXSw==
+  dependencies:
+    "@spatial/clean-coords" "^1.0.4"
+    "@spatial/clone" "^1.0.4"
+    "@spatial/helpers" "^1.0.4"
+    "@spatial/meta" "^1.0.4"
+
 "@svgr/babel-plugin-add-jsx-attribute@^4.2.0":
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/@svgr/babel-plugin-add-jsx-attribute/-/babel-plugin-add-jsx-attribute-4.2.0.tgz#dadcb6218503532d6884b210e7f3c502caaa44b1"

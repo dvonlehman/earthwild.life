@@ -1,5 +1,6 @@
 const LineByLineReader = require("line-by-line");
 const fs = require("fs-extra");
+const simplify = require("@spatial/simplify");
 
 const speciesId = process.argv[2];
 
@@ -18,7 +19,14 @@ lr.on("line", function(line) {
     console.log(`Found line for species_id ${speciesId}`);
     if (line.endsWith(",")) line = line.slice(0, -1);
 
-    const feature = JSON.parse(line);
+    let feature = JSON.parse(line);
+
+    feature = simplify(feature, {
+      highQuality: true,
+      mutate: true,
+      tolerance: 0.01
+    });
+
     features.push(feature);
   }
 });
