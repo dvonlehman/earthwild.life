@@ -5,7 +5,8 @@ import SpeciesNav from "./SpeciesNav";
 import SpeciesDetails from "./SpeciesDetails";
 import { colors } from "../styles";
 import FullScreenLoader from "./FullScreenLoader";
-import Map from "./Map";
+// import Map from "./Map";
+import MapBoxMap from "./MapBox";
 
 const useStyles = makeStyles({
   main: {
@@ -65,14 +66,15 @@ const SpeciesLayout: FC = props => {
           </aside>
           <div className={classes.center}>
             <div className={classes.map}>
-              <iframe
+              {/* <iframe
                 title="map"
                 height="420"
                 width="620"
                 frameBorder="0"
                 src="https://render.githubusercontent.com/view/geojson?url=https://raw.githubusercontent.com/dvonlehman/endangered-radar/master/data/9404.geojson"
-              />
+              /> */}
               {/* <Map /> */}
+              <MapBoxMap />
             </div>
             <div className={classes.images} />
           </div>

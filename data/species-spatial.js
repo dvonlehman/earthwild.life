@@ -15,7 +15,7 @@ const features = [];
 
 lr.on("line", function(line) {
   // 'line' contains the current line without the trailing newline character.
-  if (line.includes(`"id_no": ${speciesId}`)) {
+  if (line.includes(`"id_no": ${speciesId},`)) {
     console.log(`Found line for species_id ${speciesId}`);
     if (line.endsWith(",")) line = line.slice(0, -1);
 

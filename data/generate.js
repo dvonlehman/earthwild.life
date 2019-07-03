@@ -24,7 +24,7 @@ const buildSpeciesData = async speciesId => {
       json.threats.filter(t => t.code.split(".").length === 2).map(t => t.title)
     ),
     commonName: json.main_common_name,
-    geoCoordinates: geoJson.geometry.coordinates,
+    geoJson: { ...geoJson, properties: { Species: json.commonName } },
     countries: json.countries
       .filter(c => c.presence === "Extant")
       .map(c => c.country)

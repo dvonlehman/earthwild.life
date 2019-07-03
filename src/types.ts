@@ -38,3 +38,4 @@ export interface AppContext {
   setIsLoading: (loading: boolean) => void;
   setCurrentFamily: (family: SpeciesFamily | undefined) => void;
 }
+
