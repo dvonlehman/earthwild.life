@@ -54,16 +54,16 @@ const SpeciesNav: FC = props => {
   return (
     <nav className={classes.main}>
       <ul>
-        {context.speciesFamilyList.map(species => (
+        {context.speciesList.map(species => (
           <li
-            key={species.family}
+            key={species.slug}
             className={classNames({
               active:
-                context.currentFamily &&
-                species.family === context.currentFamily.family
+                context.currentSpecies &&
+                species.slug === context.currentSpecies.slug
             })}
           >
-            <a href={`#${species.family}`}>
+            <a href={`#${species.slug}`}>
               <CloudinaryImage
                 alt={species.title}
                 path={species.featuredImage}

@@ -1,16 +1,12 @@
-import React, { FC } from "react";
-import { AppContext, SpeciesFamilyInfo, SpeciesFamily } from "./types";
-
-// Use React Context rather than a more complicated state management library like Redux
-// for handling global app state. Inspiration taken from:
-// https://kentcdodds.com/blog/application-state-management-with-react
+import React, { FC, useEffect, useState, useCallback } from "react";
+import throttle from "lodash.throttle";
+import { AppContext, AppContextProviderProps } from "./types";
+import { fetchSpecies } from "./api";
 
 // In order to make TS happy, we need to pass in a defaultValue.
 const Context = React.createContext<AppContext>({
-  speciesFamilyList: [],
+  speciesList: [],
   isLoading: false,
-  setIsLoading: () => undefined,
-  setCurrentFamily: () => undefined
 });
 
 // Custom hook that components can use to access the AppContext
@@ -18,29 +14,47 @@ export function useContext(): AppContext {
   return React.useContext<AppContext>(Context);
 }
 
-interface AppContextProviderProps {
-  // When using a simple user prop, the value was always undefined. Must be something
-  // related to the lazy importing. Using a function does the trick.
-  getSpeciesFamilyList: () => SpeciesFamilyInfo[];
-  getCurrentFamily: () => SpeciesFamily | undefined;
-}
+let hashListenerRegistered = false;
 
 const AppContextProvider: FC<AppContextProviderProps> = props => {
-  const [state, setState] = React.useState({
-    speciesFamilyList: props.getSpeciesFamilyList(),
-    isLoading: false,
-    currentFamily: props.getCurrentFamily()
-  });
+  const [state, setState] = useState({ ...props, isLoading: false });
 
-  const setCurrentFamily = (family: SpeciesFamily | undefined) =>
-    setState({ ...state, currentFamily: family, isLoading: false });
+  const onHashChange = useCallback(
+    async function onHashChange(event: any) {
+      console.log("hash change", document.location.hash);
 
-  const setIsLoading = () => setState({ ...state, isLoading: true });
+      let hash = document.location.hash;
+      if (hash === "#" || hash.length === 0) {
+        setState({ ...state, currentSpecies: undefined });
+      }
+
+      hash = hash.substr(1);
+      if (state.speciesList.some(s => s.slug === hash)) {
+        setState({ ...state, isLoading: true });
+
+        const species = await fetchSpecies(hash);
+        setState({ ...state, currentSpecies: species, isLoading: false });
+      }
+    },
+    [state]
+  );
+
+  // Monitor for hash changes
+  useEffect(() => {
+    // Make sure we don't register multiple event listeners
+    if (hashListenerRegistered) return;
+
+    console.log("Register hash change listener");
+    window.addEventListener(
+      "hashchange",
+      throttle(onHashChange, 500, { leading: true, trailing: false }),
+      false
+    );
+    hashListenerRegistered = true;
+  }, [onHashChange]);
 
   return (
-    <Context.Provider value={{ ...state, setIsLoading, setCurrentFamily }}>
-      {props.children}
-    </Context.Provider>
+    <Context.Provider value={{ ...state }}>{props.children}</Context.Provider>
   );
 };
 

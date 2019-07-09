@@ -15,18 +15,18 @@ const SpeciesNav: FC = props => {
   const context = useContext();
   const classes = useStyles();
 
-  const { currentFamily: family } = context;
-  if (!family) return null;
+  const { currentSpecies } = context;
+  if (!currentSpecies) return null;
 
   return (
     <div className={classes.main}>
-      <h2>{family.title}</h2>
-      <div>{family.populationTrend}</div>
-      {Object.keys(family.species).map(subSpecies => (
+      <h2>{currentSpecies.title}</h2>
+      <div>{currentSpecies.populationTrend}</div>
+      {currentSpecies.subSpecies.map(subSpecies => (
         <p
-          key={subSpecies}
+          key={subSpecies.id}
           dangerouslySetInnerHTML={{
-            __html: family.species[subSpecies].rationale
+            __html: subSpecies.rationale
           }}
         />
       ))}

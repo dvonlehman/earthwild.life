@@ -1,6 +1,8 @@
-export interface SpeciesFamilyInfo {
+import { GeoJsonObject } from "geojson";
+
+export interface SpeciesInfo {
   title: string;
-  family: string;
+  slug: string;
   speciesIds: string[];
   urls: { [key: string]: string };
   featuredImage: string;
@@ -13,8 +15,8 @@ export interface Image {
   height: number;
 }
 
-export interface Species {
-  speciesId: string;
+export interface SubSpecies {
+  id: number;
   rationale: string;
   populationTrend: string;
   habitat: string;
@@ -22,20 +24,22 @@ export interface Species {
   population: string;
   threats: string[];
   commonName: string;
-  geoCoordinates: [number, number][][];
   countries: string[];
 }
 
-export interface SpeciesFamily extends SpeciesFamilyInfo {
+export interface Species extends SpeciesInfo {
   images: Image[];
-  species: { [family: string]: Species };
+  subSpecies: SubSpecies[];
+  geoJson: GeoJsonObject;
 }
 
-export interface AppContext {
-  speciesFamilyList: SpeciesFamilyInfo[];
-  currentFamily?: SpeciesFamily;
+export interface AppContextProviderProps {
+  // When using a simple user prop, the value was always undefined. Must be something
+  // related to the lazy importing. Using a function does the trick.
+  speciesList: SpeciesInfo[];
+  currentSpecies?: Species;
+}
+
+export interface AppContext extends AppContextProviderProps {
   isLoading: boolean;
-  setIsLoading: (loading: boolean) => void;
-  setCurrentFamily: (family: SpeciesFamily | undefined) => void;
 }
-

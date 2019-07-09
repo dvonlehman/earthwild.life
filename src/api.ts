@@ -1,15 +1,13 @@
-import { SpeciesFamilyInfo, SpeciesFamily } from "./types";
+import { SpeciesInfo, Species } from "./types";
 
-export async function fetchSpeciesFamilyList(): Promise<SpeciesFamilyInfo[]> {
+export async function fetchSpeciesList(): Promise<SpeciesInfo[]> {
   const resp = await fetch("/data/species.json");
-  const speciesFamilyList = (await resp.json()) as SpeciesFamilyInfo[];
-  return speciesFamilyList;
+  const speciesList = (await resp.json()) as SpeciesInfo[];
+  return speciesList;
 }
 
-export async function fetchSpeciesFamily(
-  family: string
-): Promise<SpeciesFamily> {
-  const resp = await fetch(`/data/${family}.json`);
+export async function fetchSpecies(slug: string): Promise<Species> {
+  const resp = await fetch(`/data/${slug}.json`);
   const json = await resp.json();
-  return json as SpeciesFamily;
+  return json as Species;
 }

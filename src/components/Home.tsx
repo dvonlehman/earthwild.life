@@ -15,9 +15,9 @@ const Home: FC = props => {
   return (
     <div className={classes.main}>
       <ul>
-        {context.speciesFamilyList.map(family => (
-          <li key={family.family}>
-            <a href={`#${family.family}`}>{family.title}</a>
+        {context.speciesList.map(species => (
+          <li key={species.slug}>
+            <a href={`#${species.slug}`}>{species.title}</a>
           </li>
         ))}
       </ul>

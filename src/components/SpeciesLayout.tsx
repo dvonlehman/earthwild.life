@@ -51,7 +51,7 @@ const useStyles = makeStyles({
 const SpeciesLayout: FC = props => {
   const classes = useStyles();
   const context = useContext();
-  if (!context.currentFamily) return null;
+  if (!context.currentSpecies) return null;
 
   return (
     <section className={classes.main}>
