@@ -7,15 +7,20 @@ const useStyles = makeStyles({
   main: {
     marginBottom: 20,
     minHeight: "min-content",
-    height: "100%"
-  }
+    height: "100%",
+  },
 });
 
 const SpeciesNav: FC = props => {
   const context = useContext();
   const classes = useStyles();
 
-  const { currentSpecies } = context;
+  const { currentSpecies, isLoading } = context;
+
+  if (isLoading) {
+    return <div>Loading...</div>;
+  }
+
   if (!currentSpecies) return null;
 
   return (
@@ -26,7 +31,7 @@ const SpeciesNav: FC = props => {
         <p
           key={subSpecies.id}
           dangerouslySetInnerHTML={{
-            __html: subSpecies.rationale
+            __html: subSpecies.rationale,
           }}
         />
       ))}
