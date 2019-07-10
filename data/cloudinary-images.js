@@ -1,4 +1,6 @@
-require("dotenv").config();
+require("dotenv").config({ path: process.cwd() + "/.env.local" });
+
+console.log(process.env.CLOUDINARY_URL);
 
 const fs = require("fs-extra");
 const cloudinary = require("cloudinary").v2;

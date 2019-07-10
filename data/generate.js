@@ -4,8 +4,6 @@ const yaml = require("js-yaml");
 const uniq = require("lodash.uniq");
 const mostCommon = require("most-common");
 const turf = require("@turf/turf");
-const bbox = require("geojson-bbox");
-const geojsonExtent = require("@mapbox/geojson-extent");
 
 const roundLatLng = val => {
   return parseFloat(val.toFixed(4));
