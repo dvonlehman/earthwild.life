@@ -4,8 +4,6 @@ import { useContext } from "../context";
 import SpeciesNav from "./SpeciesNav";
 import SpeciesDetails from "./SpeciesDetails";
 import { colors } from "../styles";
-import FullScreenLoader from "./FullScreenLoader";
-// import Map from "./Map";
 import MapBoxMap from "./Map";
 
 const useStyles = makeStyles({
@@ -23,7 +21,7 @@ const useStyles = makeStyles({
   left: {
     height: "100%",
     width: "400px",
-    backgroundColor: colors.secondary,
+    backgroundColor: colors.white,
     overflowY: "scroll",
     padding: "20px",
   },
@@ -45,6 +43,7 @@ const useStyles = makeStyles({
   },
   images: {
     height: "20%",
+    backgroundColor: colors.dark,
   },
 });
 

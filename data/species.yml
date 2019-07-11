@@ -1,57 +1,90 @@
 african-elephant:
   title: African Elephant
-  speciesIds: [12392]
+  subSpeciesIds: [12392]
+  summary:
+    text: The greatest challenge to both forest elephants and savannah elephants today is illegal killing to feed the ivory trade. Between 2010 and 2012 alone, some 100,000 were poached across the continent. In some parts of Africa, habitat loss, fragmentation, and degradation are also threats, as is human­-elephant conflict.
+    source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/african-elephants
 asian-elephant:
   title: Asian Elephant
-  speciesIds: [7140]
+  subSpeciesIds: [7140]
+  summary:
+    text: The greatest threats to Asian elephants are habitat loss, fragmentation, and degradation; illegal killing (e.g. for their ivory and other products or in retaliation for human-elephant conflicts); and the loss of genetic viability resulting from small population size and isolation. As a result, Asian elephants now occur on only about 10% of their historical range and many of the remaining populations are both small and isolated.
+    source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/african-elephants
 bison:
   title: Bison
-  speciesIds: [2815]
+  subSpeciesIds: [2815]
+  summary:
+    text: Today, bison are absent from most of their former range, and in terms of ecological function, they are losing ground. With our partners, we're developing tools, techniques, and information to further our understanding of bison restoration. We're building communities of practice around these efforts. And we're strengthening outreach, providing education, and informing policy to support bison recovery.
+    source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/bison
 bonobo:
   title: Bonobo
-  speciesIds: [15932]
+  subSpeciesIds: [15932]
+  summary:
+    text: Bonobos are our closest living relatives alongside chimpanzees—we share 99% of our DNA with them. Yet bonobos are perhaps the least known of the African great apes and time may be running out for us to correct that. In 2013, researchers from WCS and elsewhere reported that, due to human encroachment and poaching, only about one-fourth of the bonobo's historic range remained viable.
+    source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/bonobos
 cheetah:
-  title: cheetah
-  speciesIds: [219]
+  title: Cheetah
+  subSpeciesIds: [219]
+  summary:
+    text: Cheetahs have disappeared from vast tracts of their historic range. In Africa they are now known to persist in only 10% of their historic range, while their distribution in Asia is limited to the central deserts of Iran.
+    source: redList
   urls:
     wcs: https://www.wcs.org/our-work/species/cheetahs
 chimpanzee:
   title: Chimpanzee
-  speciesIds: [15933]
+  subSpeciesIds: [15933]
+  summary:
+    text: Chimpanzees, our close relatives, play a vital role in maintaing the diversity of Central Africa's forests. The large seeds they eat and disperse are too big for most other animals. Without them, and their fellow great apes and elephants, these forests would be irreversibly changed. Yet today, all four chimpanzee subspecies are endangered.
+    source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/chimpanzees
 gibbon:
   title: Gibbon
-  speciesIds: [39775, 41643, 10543, 10552, 10550]
+  subSpeciesIds: [39775, 41643, 10543, 10552, 10550]
+  summary:
+    text: Graceful residents of the canopies in many tropical Asian rainforests, gibbons are also wondrous singers whose morning calls fill the forests with sound. Gibbons are under immense threat, both from habitat loss and from hunting for traditional medicines and the pet trade. While one species of gibbon is listed as Vulnerable, the other 15 species are either Endangered or Critically Endangered.
+    source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/gibbons
 gorilla:
   title: Gorilla
-  speciesIds: [9404, 39994]
+  subSpeciesIds: [9404, 39994]
+  summary:
+    text: Beyond insecurity, the main threats to gorillas are hunting (especially for bushmeat), habitat loss, and disease (namely Ebola). Also, gorillas' very slow reproductive rate means that if an adult is killed, it takes over a decade to replace him or her as a breeding individual.
+    source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/gorillas
 jaguar:
   title: Jaguar
-  speciesIds: [15953]
+  subSpeciesIds: [15953]
+  summary:
+    text: Jaguars need large spaces to hunt an intact prey base. The home range of this top predator, across parts of North, Central, and South America, is determined by the density and biomass of its prey. Thus, its status can serve as a signal of the conservation status of the larger landscape. Ideally, jaguars have room to safely roam, but human encroachment has meant that forests are being cleared, their natural prey is being depleted, and the land is being fenced off.
+    source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/jaguars
 lion:
   title: Lion
-  speciesIds: [15951]
+  subSpeciesIds: [15951]
+  summary:
+    text: In Africa, lion numbers are falling fast, due mostly to hunting by humans. Lions usually hunt at dusk or dawn and play an important role in savannas, removing sick and diseased ungulates from the population and keeping their populations healthy as a result. But human population growth is a serious threat, as more and more of the lions' habitat outside national parks is taken for farmland and livestock production, and populations of prey, like antelopes, buffaloes, and zebras, dwindle.
+    source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/lions
 orangutan:
   title: Orangutan
-  speciesIds: [120588639, 121097935, 17975]
-  urls: 
+  subSpeciesIds: [120588639, 121097935, 17975]
+  summary:
+    text: As more of the organgutan's habitat is logged or converted to palm oil plantations, orangutans continue to decline. Adding to their vulnerability, these apes produce only one offspring every five years or so, live at low densities, and require large home territories—a problem as human activities increasingly fragment their jungle habitats.
+    source: wcs
+  urls:
     wcs: https://www.wcs.org/our-work/species/orangutans
 
 

@@ -1,13 +1,36 @@
-require("dotenv").config();
-const fs = require("fs-extra");
-const yaml = require("js-yaml");
-const uniq = require("lodash.uniq");
-const mostCommon = require("most-common");
-const turf = require("@turf/turf");
+import dotenv from "dotenv";
 
-const roundLatLng = val => {
-  return parseFloat(val.toFixed(4));
-};
+import fs from "fs-extra";
+import yaml from "js-yaml";
+import * as turf from "@turf/turf";
+import { countBy, entries, uniq } from "lodash";
+import { Geometry, Feature, FeatureCollection } from "geojson";
+import { AllGeoJSON } from "@turf/turf";
+
+import { Species, SubSpecies, SpeciesInfo, GeoJsonProperties } from "../types";
+
+dotenv.config({ path: process.cwd + "/.env.local" });
+
+type SpeciesMetadata = Pick<
+  Species,
+  "title" | "summary" | "urls" | "subSpeciesIds"
+>;
+
+const MAP_COLORS: string[] = [
+  "#f7fbff",
+  "#deebf7",
+  "#c6dbef",
+  "#9ecae1",
+  "#6baed6",
+  "#4292c6",
+  "#2171b5",
+  "#08519c",
+  "#08306b",
+].reverse();
+
+// const roundLatLng = val => {
+//   return parseFloat(val.toFixed(4));
+// };
 
 // const convertFeature = feature => {
 //   let minLatitude;
@@ -66,9 +89,17 @@ const roundLatLng = val => {
 //     }
 //   };
 // };
+const mostCommon = (values: string[], num: number): string[] => {
+  const orderedValues = entries(countBy(values)).map(e => e[0]);
+  return orderedValues.slice(0, num);
+};
 
-const loadRedListData = async speciesId => {
-  const file = `${__dirname}/${speciesId}.json`;
+const loadSubSpecies = async (
+  subSpeciesId: number,
+  mapColor: string
+): Promise<SubSpecies> => {
+  console.log(`Load sub-species ${subSpeciesId}`);
+  const file = `data/${subSpeciesId}.json`;
 
   const json = await fs.readJSON(file);
 
@@ -80,26 +111,38 @@ const loadRedListData = async speciesId => {
     geographicRange: json.geographicrange,
     population: json.population,
     threats: uniq(
-      json.threats.filter(t => t.code.split(".").length === 2).map(t => t.title)
+      json.threats
+        .filter((t: any) => t.code.split(".").length === 2)
+        .map((t: any) => t.title)
     ),
     commonName: json.main_common_name,
     countries: json.countries
-      .filter(c => c.presence === "Extant")
-      .map(c => c.country),
+      .filter((c: any) => c.presence === "Extant")
+      .map((c: any) => c.country),
+    mapColor,
   };
 };
 
 // Load the GeoJSON features that describe the polygons where this species lives
-const loadGeoFeatures = async subSpeciesId => {
-  const geoFile = `${__dirname}/${subSpeciesId}.geojson`;
-  const json = await fs.readJSON(geoFile);
+const loadGeoFeatures = async (
+  subSpeciesId: number
+): Promise<Feature<Geometry, GeoJsonProperties>[]> => {
+  const geoFile = `data/${subSpeciesId}.geojson`;
+  const json = (await fs.readJSON(geoFile)) as FeatureCollection<
+    Geometry,
+    GeoJsonProperties
+  >;
   return json.features.map(f => ({ ...f, properties: { subSpeciesId } }));
 };
 
-const generateSpeciesJson = async (slug, speciesMetadata, imagesList) => {
+const generateSpeciesJson = async (
+  slug: string,
+  speciesMetadata: SpeciesMetadata,
+  imagesList: any[]
+): Promise<SpeciesInfo> => {
   console.log(`Processing species ${slug}`);
 
-  const geoJson = {
+  const geoJson: FeatureCollection<Geometry, GeoJsonProperties> = {
     type: "FeatureCollection",
     features: [],
   };
@@ -111,36 +154,47 @@ const generateSpeciesJson = async (slug, speciesMetadata, imagesList) => {
     if (!featuredImage) featuredImage = images[0];
   }
 
-  const subSpeciesIds = speciesMetadata[slug].speciesIds;
-  const subSpecies = [];
+  const subSpeciesIds = speciesMetadata.subSpeciesIds;
+  const subSpecies: SubSpecies[] = [];
 
   // Load the RedList api result file for each species in the family
-  for (const subSpeciesId of subSpeciesIds) {
+  for (let i = 0; i < subSpeciesIds.length; i += 1) {
+    const subSpeciesId = subSpeciesIds[i];
+
     const [speciesRedListInfo, speciesGeoFeatures] = await Promise.all([
-      loadRedListData(subSpeciesId),
+      loadSubSpecies(subSpeciesId, MAP_COLORS[i]),
       loadGeoFeatures(subSpeciesId),
     ]);
 
-    subSpecies.push(speciesRedListInfo);
+    subSpecies.push({ ...speciesRedListInfo, mapColor: MAP_COLORS[i] });
     geoJson.features.push(...speciesGeoFeatures);
   }
 
-  const speciesInfo = {
+  // Gather the top most common threats across all sub-species
+  const threats = mostCommon(
+    subSpecies.reduce<string[]>(
+      (allThreats, json) => [...allThreats, ...json.threats],
+      []
+    ),
+    5
+  );
+
+  const speciesInfo: SpeciesInfo = {
     slug,
-    ...speciesMetadata[slug],
+    title: speciesMetadata.title,
     featuredImage: featuredImage ? featuredImage.public_id : undefined,
     populationTrend: mostCommon(
       subSpecies.map(json => json.populationTrend),
       1
-    )[0].token,
+    )[0],
   };
 
-  geoJson.bbox = turf.bbox(geoJson);
-  // geoJson.bbox = geojsonExtent.bboxify(geoJson);
+  geoJson.bbox = turf.bbox(geoJson as AllGeoJSON);
 
   // Write the species json file.
-  const speciesDetails = {
+  const speciesDetails: Species = {
     ...speciesInfo,
+    ...speciesMetadata,
     images: images.map(img => ({
       url: img.public_id,
       width: img.width,
@@ -148,10 +202,12 @@ const generateSpeciesJson = async (slug, speciesMetadata, imagesList) => {
     })),
     geoJson,
     subSpecies,
+    subSpeciesIds,
+    threats,
   };
 
   await fs.writeFile(
-    __dirname + "/../public/data/" + slug + ".json",
+    "public/data/" + slug + ".json",
     JSON.stringify(speciesDetails, null, 2)
   );
 
@@ -159,18 +215,18 @@ const generateSpeciesJson = async (slug, speciesMetadata, imagesList) => {
 };
 
 const main = async () => {
-  const imagesList = await fs.readJson(__dirname + "/images.json");
+  const imagesList = await fs.readJson("data/images.json");
   const speciesMetadata = yaml.safeLoad(
-    fs.readFileSync(__dirname + "/species.yml", "utf-8")
-  );
+    fs.readFileSync("data/species.yml", "utf-8")
+  ) as { [slug: string]: SpeciesMetadata };
 
   const speciesSlugs = Object.keys(speciesMetadata);
-  const speciesList = [];
+  const speciesList: SpeciesInfo[] = [];
 
   for (const slug of speciesSlugs) {
     const speciesInfo = await generateSpeciesJson(
       slug,
-      speciesMetadata,
+      speciesMetadata[slug],
       imagesList
     );
 
@@ -178,7 +234,7 @@ const main = async () => {
   }
 
   await fs.writeFile(
-    __dirname + "/../public/data/species.json",
+    "public/data/species.json",
     JSON.stringify(speciesList, null, 2)
   );
 };

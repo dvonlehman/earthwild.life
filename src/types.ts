@@ -3,8 +3,7 @@ import { GeoJsonObject } from "geojson";
 export interface SpeciesInfo {
   title: string;
   slug: string;
-  speciesIds: string[];
-  urls: { [key: string]: string };
+
   featuredImage: string;
   populationTrend: string;
 }
@@ -25,12 +24,24 @@ export interface SubSpecies {
   threats: string[];
   commonName: string;
   countries: string[];
+  mapColor: string;
 }
 
 export interface Species extends SpeciesInfo {
+  threats: string[];
   images: Image[];
+  subSpeciesIds: number[];
   subSpecies: SubSpecies[];
   geoJson: GeoJsonObject;
+  summary: {
+    text: string;
+    source: "wcs" | "redlist";
+  };
+  urls: { [site: string]: string };
+}
+
+export interface GeoJsonProperties {
+  subSpeciesId: number;
 }
 
 export interface AppContextProviderProps {

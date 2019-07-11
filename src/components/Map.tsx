@@ -3,6 +3,8 @@ import * as MapboxGL from "mapbox-gl";
 import { Species } from "../types";
 import { BBox } from "geojson";
 
+import "mapbox-gl/dist/mapbox-gl.css";
+
 const MAPBOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN || "";
 
 (MapboxGL as any).accessToken = MAPBOX_TOKEN;
@@ -39,8 +41,9 @@ class Map extends Component<Props> {
         type: "fill",
         source: GEOJSON_SOURCE,
         paint: {
-          "fill-opacity": 0.5,
-          "fill-color": "blue",
+          "fill-opacity": 0.7,
+          "fill-color": subSpecies.mapColor,
+          "fill-outline-color": subSpecies.mapColor,
         },
         filter: ["==", ["get", "subSpeciesId"], subSpecies.id],
       });
@@ -53,9 +56,11 @@ class Map extends Component<Props> {
 
     const map = new MapboxGL.Map({
       container: "mapboxMap", // container id
-      style: "mapbox://styles/mapbox/basic-v9", // stylesheet location
+      style: "mapbox://styles/mapbox/outdoors-v10", // stylesheet location
       bounds: getMaxBounds(this.props.species.geoJson.bbox as BBox),
       fitBoundsOptions: { padding: 20 },
+      scrollZoom: false,
+      boxZoom: false,
     });
 
     this.map = map;

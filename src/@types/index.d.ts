@@ -1,3 +1,10 @@
+declare module "most-common" {
+  export default function(
+    values: string[],
+    count: number
+  ): { token: string; count: number }[];
+}
+
 namespace mapboxgl {
   export interface MapboxOptions {
     /** If true, an attribution control will be added to the map. */
