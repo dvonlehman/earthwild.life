@@ -7,7 +7,13 @@ import { countBy, entries, uniq } from "lodash";
 import { Geometry, Feature, FeatureCollection } from "geojson";
 import { AllGeoJSON } from "@turf/turf";
 
-import { Species, SubSpecies, SpeciesInfo, GeoJsonProperties } from "../types";
+import {
+  Species,
+  SubSpecies,
+  SpeciesInfo,
+  GeoJsonProperties,
+  RedListCategory
+} from "../types";
 
 dotenv.config({ path: process.cwd + "/.env.local" });
 
@@ -25,7 +31,7 @@ const MAP_COLORS: string[] = [
   "#4292c6",
   "#2171b5",
   "#08519c",
-  "#08306b",
+  "#08306b"
 ].reverse();
 
 // const roundLatLng = val => {
@@ -94,6 +100,25 @@ const mostCommon = (values: string[], num: number): string[] => {
   return orderedValues.slice(0, num);
 };
 
+const normalizeCategory = (value: string): RedListCategory => {
+  switch (value.toLowerCase()) {
+    case "cr":
+    case "critically endangered":
+      return "Critically Endangered";
+    case "en":
+    case "endangered":
+      return "Endangered";
+    case "vu":
+    case "vulnerable":
+    case "lower risk/near threatened":
+      return "Vulnerable";
+    case "near threatened":
+      return "Near Threatened";
+    default:
+      return "Unknown";
+  }
+};
+
 const loadSubSpecies = async (
   subSpeciesId: number,
   mapColor: string
@@ -109,17 +134,21 @@ const loadSubSpecies = async (
     populationTrend: json.populationtrend,
     habitat: json.habitat,
     geographicRange: json.geographicrange,
+    category: normalizeCategory(json.historical[0].category),
     population: json.population,
     threats: uniq(
       json.threats
-        .filter((t: any) => t.code.split(".").length === 2)
+        // .filter((t: any) => t.)
+        .filter(
+          (t: any) => t.timing === "Ongoing" && t.code.split(".").length === 2
+        )
         .map((t: any) => t.title)
     ),
     commonName: json.main_common_name,
     countries: json.countries
       .filter((c: any) => c.presence === "Extant")
       .map((c: any) => c.country),
-    mapColor,
+    mapColor
   };
 };
 
@@ -144,7 +173,7 @@ const generateSpeciesJson = async (
 
   const geoJson: FeatureCollection<Geometry, GeoJsonProperties> = {
     type: "FeatureCollection",
-    features: [],
+    features: []
   };
 
   const images = imagesList.filter(image => image.tags.includes(slug));
@@ -163,7 +192,7 @@ const generateSpeciesJson = async (
 
     const [speciesRedListInfo, speciesGeoFeatures] = await Promise.all([
       loadSubSpecies(subSpeciesId, MAP_COLORS[i]),
-      loadGeoFeatures(subSpeciesId),
+      loadGeoFeatures(subSpeciesId)
     ]);
 
     subSpecies.push({ ...speciesRedListInfo, mapColor: MAP_COLORS[i] });
@@ -183,10 +212,10 @@ const generateSpeciesJson = async (
     slug,
     title: speciesMetadata.title,
     featuredImage: featuredImage ? featuredImage.public_id : undefined,
-    populationTrend: mostCommon(
-      subSpecies.map(json => json.populationTrend),
+    category: mostCommon(
+      subSpecies.map(json => json.category),
       1
-    )[0],
+    )[0] as RedListCategory
   };
 
   geoJson.bbox = turf.bbox(geoJson as AllGeoJSON);
@@ -195,15 +224,19 @@ const generateSpeciesJson = async (
   const speciesDetails: Species = {
     ...speciesInfo,
     ...speciesMetadata,
+    populationTrend: mostCommon(
+      subSpecies.map(json => json.populationTrend),
+      1
+    )[0],
     images: images.map(img => ({
       url: img.public_id,
       width: img.width,
-      height: img.height,
+      height: img.height
     })),
     geoJson,
     subSpecies,
     subSpeciesIds,
-    threats,
+    threats
   };
 
   await fs.writeFile(

@@ -3,9 +3,8 @@ import { GeoJsonObject } from "geojson";
 export interface SpeciesInfo {
   title: string;
   slug: string;
-
   featuredImage: string;
-  populationTrend: string;
+  category: RedListCategory;
 }
 
 export interface Image {
@@ -14,9 +13,17 @@ export interface Image {
   height: number;
 }
 
+export type RedListCategory =
+  | "Near Threatened"
+  | "Vulnerable"
+  | "Endangered"
+  | "Critically Endangered"
+  | "Unknown";
+
 export interface SubSpecies {
   id: number;
   rationale: string;
+  category: RedListCategory;
   populationTrend: string;
   habitat: string;
   geographicRange: string;
@@ -32,6 +39,7 @@ export interface Species extends SpeciesInfo {
   images: Image[];
   subSpeciesIds: number[];
   subSpecies: SubSpecies[];
+  populationTrend: string;
   geoJson: GeoJsonObject;
   summary: {
     text: string;
