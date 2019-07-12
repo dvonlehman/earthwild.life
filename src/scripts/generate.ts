@@ -215,6 +215,8 @@ const generateSpeciesJson = async (
 };
 
 const main = async () => {
+  await fs.ensureDir("public/data");
+
   const imagesList = await fs.readJson("data/images.json");
   const speciesMetadata = yaml.safeLoad(
     fs.readFileSync("data/species.yml", "utf-8")
