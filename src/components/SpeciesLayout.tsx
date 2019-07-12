@@ -3,7 +3,7 @@ import { makeStyles } from "@material-ui/styles";
 import { useContext } from "../context";
 import SpeciesNav from "./SpeciesNav";
 import SpeciesDetails from "./SpeciesDetails";
-import { colors } from "../styles";
+import { colors, dimensions } from "../styles";
 import MapBoxMap from "./Map";
 
 const useStyles = makeStyles({
@@ -20,10 +20,9 @@ const useStyles = makeStyles({
   },
   left: {
     height: "100%",
-    width: "400px",
+    width: dimensions.leftColumnWidth,
     backgroundColor: colors.white,
     overflowY: "scroll",
-    padding: "20px",
   },
   center: {
     flexGrow: 1,
