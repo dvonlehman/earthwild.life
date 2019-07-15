@@ -1,5 +1,5 @@
 import React, { FC, useEffect, useState, useCallback } from "react";
-import throttle from "lodash.throttle";
+import { throttle } from "lodash";
 import { AppContext, AppContextProviderProps } from "./types";
 import { fetchSpecies } from "./api";
 

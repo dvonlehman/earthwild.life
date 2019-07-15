@@ -12,7 +12,8 @@ import {
   SubSpecies,
   SpeciesInfo,
   GeoJsonProperties,
-  RedListCategory
+  RedListCategory,
+  PopulationTrend,
 } from "../types";
 
 dotenv.config({ path: process.cwd + "/.env.local" });
@@ -31,7 +32,7 @@ const MAP_COLORS: string[] = [
   "#4292c6",
   "#2171b5",
   "#08519c",
-  "#08306b"
+  "#08306b",
 ].reverse();
 
 // const roundLatLng = val => {
@@ -131,7 +132,7 @@ const loadSubSpecies = async (
   return {
     id: json.species_id,
     rationale: json.rationale,
-    populationTrend: json.populationtrend,
+    populationTrend: json.population_trend,
     habitat: json.habitat,
     geographicRange: json.geographicrange,
     category: normalizeCategory(json.historical[0].category),
@@ -148,7 +149,7 @@ const loadSubSpecies = async (
     countries: json.countries
       .filter((c: any) => c.presence === "Extant")
       .map((c: any) => c.country),
-    mapColor
+    mapColor,
   };
 };
 
@@ -173,7 +174,7 @@ const generateSpeciesJson = async (
 
   const geoJson: FeatureCollection<Geometry, GeoJsonProperties> = {
     type: "FeatureCollection",
-    features: []
+    features: [],
   };
 
   const images = imagesList.filter(image => image.tags.includes(slug));
@@ -192,7 +193,7 @@ const generateSpeciesJson = async (
 
     const [speciesRedListInfo, speciesGeoFeatures] = await Promise.all([
       loadSubSpecies(subSpeciesId, MAP_COLORS[i]),
-      loadGeoFeatures(subSpeciesId)
+      loadGeoFeatures(subSpeciesId),
     ]);
 
     subSpecies.push({ ...speciesRedListInfo, mapColor: MAP_COLORS[i] });
@@ -215,7 +216,7 @@ const generateSpeciesJson = async (
     category: mostCommon(
       subSpecies.map(json => json.category),
       1
-    )[0] as RedListCategory
+    )[0] as RedListCategory,
   };
 
   geoJson.bbox = turf.bbox(geoJson as AllGeoJSON);
@@ -227,16 +228,16 @@ const generateSpeciesJson = async (
     populationTrend: mostCommon(
       subSpecies.map(json => json.populationTrend),
       1
-    )[0],
+    )[0] as PopulationTrend,
     images: images.map(img => ({
       url: img.public_id,
       width: img.width,
-      height: img.height
+      height: img.height,
     })),
     geoJson,
     subSpecies,
     subSpeciesIds,
-    threats
+    threats,
   };
 
   await fs.writeFile(

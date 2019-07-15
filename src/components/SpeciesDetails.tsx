@@ -3,7 +3,11 @@ import React, { FC } from "react";
 import { makeStyles } from "@material-ui/styles";
 import { dimensions } from "../styles";
 import { useContext } from "../context";
+import { colors } from "../styles";
 import CloudinaryImage from "./CloudinaryImage";
+import SummaryQuote from "./SummaryQuote";
+import SpeciesStatus from "./SpeciesStatus";
+import SubSpeciesList from "./SubSpeciesList";
 
 const IMAGE_DIMS = [dimensions.leftColumnWidth, 200];
 
@@ -18,27 +22,12 @@ const useStyles = makeStyles({
     height: IMAGE_DIMS[1],
   },
   content: {
-    padding: 20,
+    padding: "15px 20px",
   },
   title: {
+    color: colors.black,
     marginTop: 0,
-  },
-  blockquote: {
-    margin: 0,
-    zIndex: 1,
-    position: "relative",
-    fontSize: 16,
-    lineHeight: "1.2em",
-    fontStyle: "italic",
-    "&:before": {
-      content: "DDD",
-      position: "absolute",
-      top: 0,
-      left: 0,
-      color: "#000",
-      fontSize: "6em",
-      zIndex: -1,
-    },
+    marginBottom: 10,
   },
 });
 
@@ -64,31 +53,24 @@ const SpeciesNav: FC = props => {
         path={currentSpecies.featuredImage}
         crop="fill"
       />
-      <section className={classes.content}>
-        <h2 className={classes.title}>{currentSpecies.title}</h2>
-        <div>{currentSpecies.populationTrend}</div>
+      <section>
+        <div className={classes.content}>
+          <h2 className={classes.title}>{currentSpecies.title}</h2>
+          <SpeciesStatus species={currentSpecies} />
+        </div>
+        <SummaryQuote species={currentSpecies} />
 
-        <blockquote className={classes.blockquote}>
-          {currentSpecies.summary.text}
-        </blockquote>
-
-        {currentSpecies.subSpecies.length > 1 && (
-          <>
-            <h4>Sub-Species</h4>
-            <ul>
-              {currentSpecies.subSpecies.map(subSpecies => (
-                <li key={subSpecies.id}>{subSpecies.commonName}</li>
-              ))}
-            </ul>
-          </>
-        )}
-
-        <h4>Threats</h4>
-        <ul>
-          {currentSpecies.threats.map(t => (
-            <li key={t}>{t}</li>
-          ))}
-        </ul>
+        <div className={classes.content}>
+          {currentSpecies.subSpecies.length > 1 && (
+            <SubSpeciesList species={currentSpecies} />
+          )}
+          <h4>Threats</h4>
+          <ul>
+            {currentSpecies.threats.map(t => (
+              <li key={t}>{t}</li>
+            ))}
+          </ul>
+        </div>
       </section>
 
       {/* {currentSpecies.subSpecies.map(subSpecies => (

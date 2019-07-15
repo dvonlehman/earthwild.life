@@ -20,7 +20,13 @@ interface Props {
 const GEOJSON_SOURCE = "species-geojson";
 
 class Map extends Component<Props> {
+  constructor(props: Props) {
+    super(props);
+    this.mapRef = React.createRef();
+  }
+
   map?: MapboxGL.Map;
+  mapRef: React.RefObject<HTMLDivElement>;
 
   loadSpeciesMapSource(species: Species) {
     const map = this.map;
@@ -51,16 +57,17 @@ class Map extends Component<Props> {
   }
 
   componentDidMount() {
-    // Create the mapbox map
-    document.getElementById("mapboxMap");
+    if (!this.mapRef.current) return;
 
+    // Create the mapbox map
     const map = new MapboxGL.Map({
-      container: "mapboxMap", // container id
-      style: "mapbox://styles/mapbox/outdoors-v10", // stylesheet location
+      container: this.mapRef.current,
+      style: "mapbox://styles/mapbox/outdoors-v10",
       bounds: getMaxBounds(this.props.species.geoJson.bbox as BBox),
       fitBoundsOptions: { padding: 20 },
       scrollZoom: false,
       boxZoom: false,
+      failIfMajorPerformanceCaveat: true,
     });
 
     this.map = map;
@@ -74,6 +81,7 @@ class Map extends Component<Props> {
   componentDidUpdate(prevProps: Props) {
     const map = this.map;
     if (!map) return;
+
     if (
       this.props.species &&
       this.props.species.slug !== prevProps.species.slug
@@ -92,7 +100,18 @@ class Map extends Component<Props> {
   }
 
   render() {
-    return <div id="mapboxMap" style={{ width: "100%", height: "100%" }} />;
+    return (
+      <div
+        ref={this.mapRef}
+        style={{
+          position: "absolute",
+          width: "100%",
+          height: "100%",
+          top: 0,
+          bottom: 0,
+        }}
+      />
+    );
   }
 }
 

@@ -1,0 +1,5 @@
+<svg width="30" height="30" version="1">
+  <title>Near Threatened</title>
+  <path d="M30 15c0 8.284-6.716 15-15 15-8.284 0-15-6.716-15-15C0 6.716 6.716 0 15 0c8.284 0 15 6.716 15 15z" style="marker:none" fill="#066" overflow="visible"/>
+  <path d="M6.402 20.272V10.164h2.045l4.26 6.75v-6.75h1.952v10.108h-2.108L8.355 13.68v6.592H6.402zm12.83 0v-8.398h-3.089v-1.71h8.271v1.71h-3.081v8.398H19.23z" style="text-align:center;line-height:125%" font-size="11.874" font-weight="700" text-anchor="middle" fill="#fff" font-family="FreeSans"/>
+</svg>

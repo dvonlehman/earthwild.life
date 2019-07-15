@@ -20,11 +20,13 @@ export type RedListCategory =
   | "Critically Endangered"
   | "Unknown";
 
+export type PopulationTrend = "Decreasing" | "Increasing" | "Stable";
+
 export interface SubSpecies {
   id: number;
   rationale: string;
   category: RedListCategory;
-  populationTrend: string;
+  populationTrend: PopulationTrend;
   habitat: string;
   geographicRange: string;
   population: string;
@@ -39,11 +41,11 @@ export interface Species extends SpeciesInfo {
   images: Image[];
   subSpeciesIds: number[];
   subSpecies: SubSpecies[];
-  populationTrend: string;
+  populationTrend: PopulationTrend;
   geoJson: GeoJsonObject;
   summary: {
     text: string;
-    source: "wcs" | "redlist";
+    source: "wcs" | "redList";
   };
   urls: { [site: string]: string };
 }
@@ -61,4 +63,8 @@ export interface AppContextProviderProps {
 
 export interface AppContext extends AppContextProviderProps {
   isLoading: boolean;
+}
+
+export interface SpeciesProps {
+  species: Species;
 }

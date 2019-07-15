@@ -10,7 +10,7 @@ asian-elephant:
   title: Asian Elephant
   subSpeciesIds: [7140]
   summary:
-    text: The greatest threats to Asian elephants are habitat loss, fragmentation, and degradation; illegal killing (e.g. for their ivory and other products or in retaliation for human-elephant conflicts); and the loss of genetic viability resulting from small population size and isolation. As a result, Asian elephants now occur on only about 10% of their historical range and many of the remaining populations are both small and isolated.
+    text: The greatest threats to Asian elephants are habitat loss, fragmentation, and degradation, illegal killing, and the loss of genetic viability resulting from small population size and isolation. As a result, Asian elephants now occur on only about 10% of their historical range and many of the remaining populations are both small and isolated.
     source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/african-elephants
@@ -42,7 +42,7 @@ chimpanzee:
   title: Chimpanzee
   subSpeciesIds: [15933]
   summary:
-    text: Chimpanzees, our close relatives, play a vital role in maintaing the diversity of Central Africa's forests. The large seeds they eat and disperse are too big for most other animals. Without them, and their fellow great apes and elephants, these forests would be irreversibly changed. Yet today, all four chimpanzee subspecies are endangered.
+    text: Chimpanzees, our close relatives, play a vital role in maintaing the diversity of Central Africa's forests. The large seeds they eat and disperse are too big for most other animals. Without them, and their fellow great apes and elephants, these forests would be irreversibly changed.
     source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/chimpanzees
@@ -50,7 +50,7 @@ gibbon:
   title: Gibbon
   subSpeciesIds: [39775, 41643, 10543, 10552, 10550]
   summary:
-    text: Graceful residents of the canopies in many tropical Asian rainforests, gibbons are also wondrous singers whose morning calls fill the forests with sound. Gibbons are under immense threat, both from habitat loss and from hunting for traditional medicines and the pet trade. While one species of gibbon is listed as Vulnerable, the other 15 species are either Endangered or Critically Endangered.
+    text: Graceful residents of the canopies in many tropical Asian rainforests, gibbons are also wondrous singers whose morning calls fill the forests with sound. Gibbons are under immense threat, both from habitat loss and from hunting for traditional medicines and the pet trade.
     source: wcs
   urls:
     wcs: https://www.wcs.org/our-work/species/gibbons
