@@ -3,6 +3,7 @@ import { makeStyles } from "@material-ui/styles";
 import { useContext } from "../context";
 import SpeciesMenu from "./SpeciesMenu";
 import SpeciesDetails from "./SpeciesDetails";
+import ImageList from "./ImageList";
 import { colors, dimensions } from "../styles";
 import MapBoxMap from "./Map";
 
@@ -42,7 +43,9 @@ const useStyles = makeStyles({
     position: "relative",
   },
   images: {
-    height: "20%",
+    height: dimensions.imagesPaneHeight,
+    margin: 0,
+    padding: 0,
     backgroundColor: colors.dark,
   },
 });
@@ -61,7 +64,9 @@ const SpeciesLayout: FC = props => {
         <div className={classes.map}>
           <MapBoxMap species={context.currentSpecies} />
         </div>
-        <div className={classes.images} />
+        <div className={classes.images}>
+          <ImageList />
+        </div>
       </div>
       <div className={classes.right}>
         <SpeciesMenu />

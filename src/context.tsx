@@ -1,12 +1,14 @@
 import React, { FC, useEffect, useState, useCallback } from "react";
 import { throttle } from "lodash";
-import { AppContext, AppContextProviderProps } from "./types";
+import { AppContext, AppContextProviderProps, Image } from "./types";
 import { fetchSpecies } from "./api";
 
 // In order to make TS happy, we need to pass in a defaultValue.
 const Context = React.createContext<AppContext>({
   speciesList: [],
   isLoading: false,
+  selectedImage: undefined,
+  setSelectedImage: () => {},
 });
 
 // Custom hook that components can use to access the AppContext
@@ -16,8 +18,17 @@ export function useContext(): AppContext {
 
 let hashListenerRegistered = false;
 
+interface ContextState extends AppContextProviderProps {
+  isLoading: boolean;
+  selectedImage?: Image;
+}
+
 const AppContextProvider: FC<AppContextProviderProps> = props => {
-  const [state, setState] = useState({ ...props, isLoading: false });
+  const [state, setState] = useState<ContextState>({
+    ...props,
+    isLoading: false,
+    selectedImage: undefined,
+  });
 
   const onHashChange = useCallback(
     async function onHashChange(event: any) {
@@ -53,8 +64,13 @@ const AppContextProvider: FC<AppContextProviderProps> = props => {
     hashListenerRegistered = true;
   }, [onHashChange]);
 
+  const setSelectedImage = (image: Image | undefined) =>
+    setState({ ...state, selectedImage: image });
+
   return (
-    <Context.Provider value={{ ...state }}>{props.children}</Context.Provider>
+    <Context.Provider value={{ ...state, setSelectedImage }}>
+      {props.children}
+    </Context.Provider>
   );
 };
 
