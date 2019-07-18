@@ -12,4 +12,5 @@ export const colors = {
 export const dimensions = {
   leftColumnWidth: 300,
   imagesPaneHeight: 150,
+  rightMenuWidth: 280,
 };

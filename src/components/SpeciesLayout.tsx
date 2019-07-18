@@ -6,6 +6,7 @@ import SpeciesDetails from "./SpeciesDetails";
 import ImageList from "./ImageList";
 import { colors, dimensions } from "../styles";
 import MapBoxMap from "./Map";
+import ImageCarousel from "./ImageCarousel";
 
 const useStyles = makeStyles({
   main: {
@@ -32,7 +33,7 @@ const useStyles = makeStyles({
     height: "100%",
   },
   right: {
-    width: "280px",
+    width: dimensions.rightMenuWidth,
     overflowY: "scroll",
     height: "100%",
     backgroundColor: colors.white,
@@ -62,6 +63,7 @@ const SpeciesLayout: FC = props => {
       </aside>
       <div className={classes.center}>
         <div className={classes.map}>
+          {context.selectedImage && <ImageCarousel />}
           <MapBoxMap species={context.currentSpecies} />
         </div>
         <div className={classes.images}>

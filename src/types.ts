@@ -63,7 +63,7 @@ export interface AppContextProviderProps {
 
 export interface AppContext extends AppContextProviderProps {
   isLoading: boolean;
-  setSelectedImage: (image: Image) => void;
+  setSelectedImage: (image: Image | undefined) => void;
   selectedImage?: Image;
 }
 
