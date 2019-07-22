@@ -7,6 +7,7 @@ import ImageList from "./ImageList";
 import { colors, dimensions } from "../styles";
 import MapBoxMap from "./Map";
 import ImageCarousel from "./ImageCarousel";
+import Welcome from "./Welcome";
 
 const useStyles = makeStyles({
   main: {
@@ -14,52 +15,53 @@ const useStyles = makeStyles({
     width: "100%",
     height: "100%",
     flexDirection: "row",
-    overflow: "hidden",
+    overflow: "hidden"
   },
   loading: {
     flexGrow: 1,
-    height: "100%",
+    height: "100%"
   },
   left: {
     height: "100%",
     width: dimensions.leftColumnWidth,
+    minWidth: dimensions.leftColumnWidth,
     backgroundColor: colors.white,
-    overflowY: "scroll",
+    overflowY: "scroll"
   },
   center: {
     flexGrow: 1,
     display: "flex",
     flexDirection: "column",
-    height: "100%",
+    height: "100%"
   },
   right: {
     width: dimensions.rightMenuWidth,
+    minWidth: dimensions.rightMenuWidth,
     overflowY: "scroll",
     height: "100%",
-    backgroundColor: colors.white,
+    backgroundColor: colors.white
   },
   map: {
     flexGrow: 1,
     backgroundColor: "silver",
-    position: "relative",
+    position: "relative"
   },
   images: {
     height: dimensions.imagesPaneHeight,
     margin: 0,
     padding: 0,
-    backgroundColor: colors.dark,
-  },
+    backgroundColor: colors.dark
+  }
 });
 
 const SpeciesLayout: FC = props => {
   const classes = useStyles();
   const context = useContext();
-  if (!context.currentSpecies) return null;
 
   return (
     <section className={classes.main}>
       <aside className={classes.left}>
-        <SpeciesDetails />
+        {context.currentSpecies ? <SpeciesDetails /> : <Welcome />}
       </aside>
       <div className={classes.center}>
         <div className={classes.map}>

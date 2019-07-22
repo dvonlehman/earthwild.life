@@ -3,6 +3,9 @@ import { makeStyles } from "@material-ui/styles";
 import { SpeciesProps } from "../types";
 
 const useStyles = makeStyles({
+  root: {
+    marginTop: 20
+  },
   header: { margin: "0 0 10px" },
   list: {
     listStyleType: "none",
@@ -11,8 +14,8 @@ const useStyles = makeStyles({
     "& li": {
       display: "flex",
       alignItems: "center",
-      marginBottom: 7,
-    },
+      marginBottom: 7
+    }
   },
   mapColor: {
     display: "block",
@@ -21,15 +24,15 @@ const useStyles = makeStyles({
     borderWidth: 2,
     borderStyle: "solid",
     marginRight: 7,
-    opacity: 0.7,
-  },
+    opacity: 0.7
+  }
 });
 
 const SubSpeciesList: FC<SpeciesProps> = ({ species }) => {
   const classes = useStyles();
 
   return (
-    <>
+    <div className={classes.root}>
       <h4 className={classes.header}>Sub-Species</h4>
       <ul className={classes.list}>
         {species.subSpecies.map(subSpecies => (
@@ -38,14 +41,14 @@ const SubSpeciesList: FC<SpeciesProps> = ({ species }) => {
               className={classes.mapColor}
               style={{
                 backgroundColor: subSpecies.mapColor,
-                borderColor: subSpecies.mapColor,
+                borderColor: subSpecies.mapColor
               }}
             />
             <span>{subSpecies.commonName}</span>
           </li>
         ))}
       </ul>
-    </>
+    </div>
   );
 };
 

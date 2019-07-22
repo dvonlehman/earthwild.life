@@ -8,6 +8,8 @@ import CloudinaryImage from "./CloudinaryImage";
 import SummaryQuote from "./SummaryQuote";
 import SpeciesStatus from "./SpeciesStatus";
 import SubSpeciesList from "./SubSpeciesList";
+import ThreatList from "./ThreatList";
+import WcsHelpLink from "./WcsHelpLink";
 
 const IMAGE_DIMS = [dimensions.leftColumnWidth, 200];
 
@@ -15,20 +17,20 @@ const useStyles = makeStyles({
   main: {
     marginBottom: 20,
     minHeight: "min-content",
-    height: "100%",
+    height: "100%"
   },
   image: {
     width: IMAGE_DIMS[0],
-    height: IMAGE_DIMS[1],
+    height: IMAGE_DIMS[1]
   },
   content: {
-    padding: "15px 20px",
+    padding: "15px 20px"
   },
   title: {
     color: colors.black,
     marginTop: 0,
-    marginBottom: 10,
-  },
+    marginBottom: 10
+  }
 });
 
 const SpeciesNav: FC = props => {
@@ -61,26 +63,14 @@ const SpeciesNav: FC = props => {
         <SummaryQuote species={currentSpecies} />
 
         <div className={classes.content}>
+          <WcsHelpLink url={currentSpecies.urls.wcs} />
+
           {currentSpecies.subSpecies.length > 1 && (
             <SubSpeciesList species={currentSpecies} />
           )}
-          <h4>Threats</h4>
-          <ul>
-            {currentSpecies.threats.map(t => (
-              <li key={t}>{t}</li>
-            ))}
-          </ul>
+          <ThreatList species={currentSpecies} />
         </div>
       </section>
-
-      {/* {currentSpecies.subSpecies.map(subSpecies => (
-        <p
-          key={subSpecies.id}
-          dangerouslySetInnerHTML={{
-            __html: subSpecies.rationale,
-          }}
-        />
-      ))} */}
     </div>
   );
 };
