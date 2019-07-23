@@ -7,10 +7,11 @@ export const colors = {
   secondary: "#00b3a3",
   dark: "#27231d",
   darkBlue: "#08306b",
+  green: "#3d7a5b"
 };
 
 export const dimensions = {
   leftColumnWidth: 300,
   imagesPaneHeight: 150,
-  rightMenuWidth: 280,
+  rightMenuWidth: 280
 };

@@ -1,27 +1,20 @@
 import React, { FC } from "react";
-// import classNames from "classnames";
 import { makeStyles } from "@material-ui/styles";
 import { dimensions } from "../styles";
 import { useContext } from "../context";
 import { colors } from "../styles";
-import CloudinaryImage from "./CloudinaryImage";
 import SummaryQuote from "./SummaryQuote";
 import SpeciesStatus from "./SpeciesStatus";
 import SubSpeciesList from "./SubSpeciesList";
 import ThreatList from "./ThreatList";
 import WcsHelpLink from "./WcsHelpLink";
-
-const IMAGE_DIMS = [dimensions.leftColumnWidth, 200];
+import FeaturedImage from "./FeaturedImage";
 
 const useStyles = makeStyles({
   main: {
     marginBottom: 20,
     minHeight: "min-content",
     height: "100%"
-  },
-  image: {
-    width: IMAGE_DIMS[0],
-    height: IMAGE_DIMS[1]
   },
   content: {
     padding: "15px 20px"
@@ -47,14 +40,12 @@ const SpeciesNav: FC = props => {
 
   return (
     <div className={classes.main}>
-      <CloudinaryImage
-        className={classes.image}
-        alt={currentSpecies.title}
+      <FeaturedImage
         width={dimensions.leftColumnWidth}
-        height={IMAGE_DIMS[1]}
-        path={currentSpecies.featuredImage}
-        crop="fill"
+        height={200}
+        species={currentSpecies}
       />
+
       <section>
         <div className={classes.content}>
           <h2 className={classes.title}>{currentSpecies.title}</h2>
