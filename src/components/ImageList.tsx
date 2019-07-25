@@ -1,9 +1,11 @@
-import React, { useState, MouseEvent } from "react";
+import React, { useState, MouseEvent, FC } from "react";
 import { makeStyles } from "@material-ui/styles";
 import classNames from "classnames";
 import CloudinaryImage from "./CloudinaryImage";
 import { dimensions, colors } from "../styles";
 import { useContext } from "../context";
+import random from "lodash/random";
+import { SpeciesInfo, Image, Species } from "../types";
 
 const IMAGE_HEIGHT = dimensions.imagesPaneHeight - 40;
 const MAX_IMAGE_WIDTH = 150;
@@ -12,7 +14,7 @@ const useStyles = makeStyles({
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
-    height: "100%",
+    height: "100%"
   },
   list: {
     margin: 0,
@@ -24,18 +26,18 @@ const useStyles = makeStyles({
 
     "& li": {
       marginRight: 10,
-      borderBottom: "solid 3px transparent",
+      borderBottom: "solid 3px transparent"
     },
     "& li.inactive": {
-      opacity: 0.7,
+      opacity: 0.7
     },
     "& li.selected": {
       opacity: 1,
-      borderBottomColor: colors.white,
+      borderBottomColor: colors.white
     },
     "& li:last-child": {
-      marginRight: 0,
-    },
+      marginRight: 0
+    }
   },
   image: {
     height: IMAGE_HEIGHT,
@@ -46,15 +48,21 @@ const useStyles = makeStyles({
     outline: "none",
 
     "& img": {
-      height: IMAGE_HEIGHT,
-    },
-  },
+      height: IMAGE_HEIGHT
+    }
+  }
 });
 
-const ImageList = () => {
+interface ImageListProps {
+  species?: Species;
+  speciesList: SpeciesInfo[];
+}
+
+const ImageList: FC<ImageListProps> = props => {
   const classes = useStyles();
   const context = useContext();
 
+  const { currentSpecies, selectedImage, imageList } = context;
   const [mouseIsOver, setMouseIsOver] = useState(false);
 
   const onMouseEnter = (e: MouseEvent) => {
@@ -65,8 +73,14 @@ const ImageList = () => {
     setMouseIsOver(false);
   };
 
-  if (!context.currentSpecies) return null;
-  const { currentSpecies: species, selectedImage } = context;
+  const onImageClick = (image: Image) => {
+    context.setSelectedImage(image);
+
+    // If the image is from a different species than the current one, navigate to that species.
+    if (!currentSpecies || image.speciesSlug !== currentSpecies.slug) {
+      document.location.hash = image.speciesSlug;
+    }
+  };
 
   return (
     <div className={classes.root}>
@@ -75,7 +89,7 @@ const ImageList = () => {
         onMouseEnter={onMouseEnter}
         onMouseLeave={onMouseLeave}
       >
-        {species.images.map((image, i) => {
+        {imageList.map((image, i) => {
           const isSelected = selectedImage && image.url === selectedImage.url;
           const width = Math.min(
             Math.round((image.width / image.height) * IMAGE_HEIGHT),
@@ -87,17 +101,17 @@ const ImageList = () => {
               key={image.url}
               className={classNames({
                 inactive: !isSelected && !mouseIsOver,
-                selected: isSelected,
+                selected: isSelected
               })}
             >
               <button
                 className={classes.image}
                 style={{ width }}
-                onClick={() => context.setSelectedImage(image)}
+                onClick={() => onImageClick(image)}
               >
                 <CloudinaryImage
                   style={{ width }}
-                  alt={`${species.title} ${i}`}
+                  alt={`${image.alt}`}
                   path={image.url}
                   width={width}
                   height={IMAGE_HEIGHT}

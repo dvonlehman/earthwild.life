@@ -69,7 +69,10 @@ const SpeciesLayout: FC = props => {
           <MapBoxMap species={context.currentSpecies} />
         </div>
         <div className={classes.images}>
-          <ImageList />
+          <ImageList
+            species={context.currentSpecies}
+            speciesList={context.speciesList}
+          />
         </div>
       </div>
       <div className={classes.right}>

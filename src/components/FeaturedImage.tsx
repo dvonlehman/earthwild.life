@@ -15,7 +15,7 @@ const FeaturedImage: FC<FeaturedImageProps> = ({ species, width, height }) => {
       width={width}
       height={height}
       style={{ width, height }}
-      path={species.featuredImage}
+      path={species.featuredImage.url}
       crop="fill"
     />
   );

@@ -3,7 +3,7 @@ import { GeoJsonObject } from "geojson";
 export interface SpeciesInfo {
   title: string;
   slug: string;
-  featuredImage: string;
+  featuredImage: Image;
   category: RedListCategory;
 }
 
@@ -11,6 +11,9 @@ export interface Image {
   url: string;
   width: number;
   height: number;
+  speciesSlug: string;
+  featured?: boolean;
+  alt: string;
 }
 
 export type RedListCategory =
@@ -65,6 +68,7 @@ export interface AppContext extends AppContextProviderProps {
   isLoading: boolean;
   setSelectedImage: (image: Image | undefined) => void;
   selectedImage?: Image;
+  imageList: Image[];
 }
 
 export interface SpeciesProps {

@@ -76,7 +76,9 @@ const Welcome: FC = props => {
           you can help.
         </p>
         <div className={classes.standForWildlife}>
-          <img src="/stand-for-wildlife.jpg" alt="Stand for Wildlife" />
+          <a href="https://www.wcs.org">
+            <img src="/stand-for-wildlife.jpg" alt="Stand for Wildlife" />
+          </a>
         </div>
       </div>
     </div>

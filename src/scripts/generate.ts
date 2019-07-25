@@ -8,12 +8,13 @@ import { Geometry, Feature, FeatureCollection } from "geojson";
 import { AllGeoJSON } from "@turf/turf";
 
 import {
+  Image,
   Species,
   SubSpecies,
   SpeciesInfo,
   GeoJsonProperties,
   RedListCategory,
-  PopulationTrend,
+  PopulationTrend
 } from "../types";
 
 dotenv.config({ path: process.cwd + "/.env.local" });
@@ -32,7 +33,7 @@ const MAP_COLORS: string[] = [
   "#4292c6",
   "#2171b5",
   "#08519c",
-  "#08306b",
+  "#08306b"
 ].reverse();
 
 // const roundLatLng = val => {
@@ -139,7 +140,6 @@ const loadSubSpecies = async (
     population: json.population,
     threats: uniq(
       json.threats
-        // .filter((t: any) => t.)
         .filter(
           (t: any) => t.timing === "Ongoing" && t.code.split(".").length === 2
         )
@@ -149,7 +149,7 @@ const loadSubSpecies = async (
     countries: json.countries
       .filter((c: any) => c.presence === "Extant")
       .map((c: any) => c.country),
-    mapColor,
+    mapColor
   };
 };
 
@@ -174,15 +174,19 @@ const generateSpeciesJson = async (
 
   const geoJson: FeatureCollection<Geometry, GeoJsonProperties> = {
     type: "FeatureCollection",
-    features: [],
+    features: []
   };
 
-  const images = imagesList.filter(image => image.tags.includes(slug));
-  let featuredImage;
-  if (images.length > 0) {
-    featuredImage = images.find(image => image.tags.includes("featured"));
-    if (!featuredImage) featuredImage = images[0];
-  }
+  const images: Image[] = imagesList
+    .filter(image => image.tags.includes(slug))
+    .map(img => ({
+      url: img.public_id,
+      width: img.width,
+      height: img.height,
+      speciesSlug: slug,
+      featured: img.tags.includes("featured"),
+      alt: speciesMetadata.title
+    }));
 
   const subSpeciesIds = speciesMetadata.subSpeciesIds;
   const subSpecies: SubSpecies[] = [];
@@ -193,7 +197,7 @@ const generateSpeciesJson = async (
 
     const [speciesRedListInfo, speciesGeoFeatures] = await Promise.all([
       loadSubSpecies(subSpeciesId, MAP_COLORS[i]),
-      loadGeoFeatures(subSpeciesId),
+      loadGeoFeatures(subSpeciesId)
     ]);
 
     subSpecies.push({ ...speciesRedListInfo, mapColor: MAP_COLORS[i] });
@@ -212,11 +216,11 @@ const generateSpeciesJson = async (
   const speciesInfo: SpeciesInfo = {
     slug,
     title: speciesMetadata.title,
-    featuredImage: featuredImage ? featuredImage.public_id : undefined,
+    featuredImage: images.find(img => img.featured === true) as Image,
     category: mostCommon(
       subSpecies.map(json => json.category),
       1
-    )[0] as RedListCategory,
+    )[0] as RedListCategory
   };
 
   geoJson.bbox = turf.bbox(geoJson as AllGeoJSON);
@@ -229,15 +233,11 @@ const generateSpeciesJson = async (
       subSpecies.map(json => json.populationTrend),
       1
     )[0] as PopulationTrend,
-    images: images.map(img => ({
-      url: img.public_id,
-      width: img.width,
-      height: img.height,
-    })),
+    images,
     geoJson,
     subSpecies,
     subSpeciesIds,
-    threats,
+    threats
   };
 
   await fs.writeFile(

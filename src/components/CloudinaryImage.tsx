@@ -1,8 +1,13 @@
 import React, { FC, CSSProperties } from "react";
 
-export const BASE_URL = "http://res.cloudinary.com/dfvygwmml/image/upload/";
+export const BASE_URL = "https://res.cloudinary.com/dfvygwmml/image/upload/";
 
-export function buildUrl(options: {path: string, width?: number, height?: number, crop?: "fill" | "crop"}) {
+export function buildUrl(options: {
+  path: string;
+  width?: number;
+  height?: number;
+  crop?: "fill" | "crop";
+}) {
   const params: string[] = [];
   if (options.width) {
     params.push(`w_${options.width}`);
@@ -28,9 +33,9 @@ interface CloudinaryImageProps {
 }
 
 const CloudinaryImage: FC<CloudinaryImageProps> = props => {
-  const {width, height, crop, path} = props;
-  const src = buildUrl({path, width, height, crop});
-   return (
+  const { width, height, crop, path } = props;
+  const src = buildUrl({ path, width, height, crop });
+  return (
     <img
       alt={props.alt}
       style={props.style}

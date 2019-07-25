@@ -1,5 +1,6 @@
 import React, { FC, useEffect, useState, useCallback } from "react";
-import { throttle } from "lodash";
+import throttle from "lodash/throttle";
+import random from "lodash/random";
 import { AppContext, AppContextProviderProps, Image } from "./types";
 import { fetchSpecies } from "./api";
 
@@ -9,6 +10,7 @@ const Context = React.createContext<AppContext>({
   isLoading: false,
   selectedImage: undefined,
   setSelectedImage: () => {},
+  imageList: []
 });
 
 // Custom hook that components can use to access the AppContext
@@ -21,6 +23,7 @@ let hashListenerRegistered = false;
 interface ContextState extends AppContextProviderProps {
   isLoading: boolean;
   selectedImage?: Image;
+  imageList: Image[];
 }
 
 const AppContextProvider: FC<AppContextProviderProps> = props => {
@@ -28,27 +31,49 @@ const AppContextProvider: FC<AppContextProviderProps> = props => {
     ...props,
     isLoading: false,
     selectedImage: undefined,
+    imageList: []
   });
 
-  const onHashChange = useCallback(
-    async function onHashChange(event: any) {
-      console.log("hash change", document.location.hash);
+  const randomSpeciesImages = (): Image[] => {
+    let available = props.speciesList.map(s => s.featuredImage);
+    const images = [];
+    do {
+      const idx = random(0, available.length - 1);
+      images.push(available[idx]);
+      available.splice(idx, 1);
+    } while (images.length < 5);
+    return images;
+  };
 
-      let hash = document.location.hash;
-      if (hash === "#" || hash.length === 0) {
-        setState({ ...state, currentSpecies: undefined });
-      }
+  const onHashChange = useCallback(async () => {
+    console.log("hash change", document.location.hash);
 
-      hash = hash.substr(1);
-      if (state.speciesList.some(s => s.slug === hash)) {
-        setState({ ...state, isLoading: true });
+    let slug: string | undefined = undefined;
+    let hash = document.location.hash;
+    if (hash.length > 1) {
+      slug = hash.substr(1);
+    }
 
-        const species = await fetchSpecies(hash);
-        setState({ ...state, currentSpecies: species, isLoading: false });
-      }
-    },
-    [state]
-  );
+    if (slug && state.speciesList.some(s => s.slug === slug)) {
+      setState({ ...state, isLoading: true });
+
+      const species = await fetchSpecies(slug);
+      setState({
+        ...state,
+        currentSpecies: species,
+        isLoading: false,
+        selectedImage: undefined,
+        imageList: species.images
+      });
+    } else {
+      setState({
+        ...state,
+        selectedImage: undefined,
+        currentSpecies: undefined,
+        imageList: randomSpeciesImages()
+      });
+    }
+  }, []);
 
   // Monitor for hash changes
   useEffect(() => {
