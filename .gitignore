@@ -26,3 +26,4 @@ yarn-error.log*
 data/MAMMALS.geojson
 public/data
 aero-debug.log
+aero-deploy.tar.gz

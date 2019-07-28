@@ -27,6 +27,7 @@ const GEOJSON_SOURCE = "species-geojson";
 interface Props {
   species?: Species;
   speciesList: SpeciesInfo[];
+  isLoading: boolean;
 }
 
 class Map extends Component<Props> {
@@ -44,18 +45,20 @@ class Map extends Component<Props> {
 
     console.log(`Load map data for species ${species.slug}`);
 
-    const source = {
+    const sourceId = `${GEOJSON_SOURCE}_${species.slug}`;
+
+    const source: MapboxGL.GeoJSONSourceRaw = {
       type: "geojson",
       data: species.geoJson
     } as MapboxGL.GeoJSONSourceRaw;
-    map.addSource(GEOJSON_SOURCE, source);
+    map.addSource(sourceId, source);
 
     species.subSpecies.forEach(subSpecies => {
       console.log(`Add map layer for sub-species ${subSpecies.id}`);
       map.addLayer({
         id: subSpecies.id.toString(),
         type: "fill",
-        source: GEOJSON_SOURCE,
+        source: sourceId,
         paint: {
           "fill-opacity": 0.7,
           "fill-color": subSpecies.mapColor,
@@ -188,19 +191,25 @@ class Map extends Component<Props> {
   }
 
   componentDidUpdate(prevProps: Props) {
+    if (this.props.isLoading) return;
+
     const map = this.map;
     if (!map) return;
 
-    if (prevProps.species) {
-      const prevLayerIds = prevProps.species.subSpecies.map(s =>
-        s.id.toString()
-      );
+    // Remove all existing layers and sources.
+    const layers = map.getStyle().layers;
 
-      prevLayerIds.forEach(layerId => map.removeLayer(layerId));
-      map.removeSource(GEOJSON_SOURCE);
-    } else {
-      map.removeLayer(WORLD_MARKERS_LAYER);
-      map.removeSource(WORLD_MARKERS_LAYER);
+    if (layers) {
+      layers
+        .filter(l => l.source !== "composite")
+        .forEach(l => map.removeLayer(l.id));
+    }
+
+    const sources = map.getStyle().sources;
+    if (sources) {
+      Object.keys(sources)
+        .filter(s => s !== "composite")
+        .forEach(s => map.removeSource(s));
     }
 
     if (this.props.species) {
@@ -216,18 +225,16 @@ class Map extends Component<Props> {
 
   render() {
     return (
-      <>
-        <div
-          ref={this.mapRef}
-          style={{
-            position: "absolute",
-            width: "100%",
-            height: "100%",
-            top: 0,
-            bottom: 0
-          }}
-        />
-      </>
+      <div
+        ref={this.mapRef}
+        style={{
+          position: "absolute",
+          width: "100%",
+          height: "100%",
+          top: 0,
+          bottom: 0
+        }}
+      />
     );
   }
 }
