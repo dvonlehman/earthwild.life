@@ -41,67 +41,6 @@ const MAP_COLORS: string[] = [
   "#08306b"
 ].reverse();
 
-// const roundLatLng = val => {
-//   return parseFloat(val.toFixed(4));
-// };
-
-// const convertFeature = feature => {
-//   let minLatitude;
-//   let maxLatitude;
-//   let minLongitude;
-//   let maxLongitude;
-
-//   const processPoint = (pointArray, index) => {
-//     const latitude = pointArray[index][0];
-//     const longitude = pointArray[index][1];
-
-//     if (!minLatitude || latitude < minLatitude) {
-//       minLatitude = latitude;
-//     }
-//     if (!maxLatitude || latitude > maxLatitude) {
-//       maxLatitude = latitude;
-//     }
-
-//     if (!minLongitude || longitude < minLongitude) {
-//       minLongitude = longitude;
-//     }
-//     if (!maxLongitude || longitude > maxLongitude) {
-//       maxLongitude = longitude;
-//     }
-
-//     pointArray[index] = [roundLatLng(latitude), roundLatLng(longitude)];
-//   };
-
-//   if (feature.geometry.type === "MultiPolygon") {
-//     for (let i = 0; i < feature.geometry.coordinates.length; i += 1) {
-//       for (let j = 0; j < feature.geometry.coordinates[i].length; j += 1) {
-//         for (let k = 0; k < feature.geometry.coordinates[i][j].length; k++) {
-//           processPoint(feature.geometry.coordinates[i][j], k);
-//         }
-//       }
-//     }
-//   } else {
-//     for (let i = 0; i < feature.geometry.coordinates.length; i += 1) {
-//       for (let j = 0; j < feature.geometry.coordinates[i].length; j += 1) {
-//         processPoint(feature.geometry.coordinates[i], j);
-//       }
-//     }
-//   }
-
-//   return {
-//     type: "Feature",
-//     properties: {
-//       bounds: [
-//         [roundLatLng(minLatitude), roundLatLng(minLongitude)],
-//         [roundLatLng(maxLatitude), roundLatLng(maxLongitude)]
-//       ]
-//     },
-//     geometry: {
-//       type: feature.geometry.type,
-//       coordinates: feature.geometry.coordinates
-//     }
-//   };
-// };
 const mostCommon = (values: string[], num: number): string[] => {
   const orderedValues = entries(countBy(values)).map(e => e[0]);
   return orderedValues.slice(0, num);

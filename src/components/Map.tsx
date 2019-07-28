@@ -99,23 +99,12 @@ class Map extends Component<Props> {
       type: "circle",
       source: WORLD_MARKERS_LAYER,
       interactive: true,
-      // cursor: "default",
       paint: {
         "circle-color": colors.red,
         "circle-radius": 6
-        // "icon-color": colors.brightGreen,
-        // "icon-opacity": 0.8
       },
       layout: {
         visibility: "visible"
-        // cursor: "default"
-        // "icon-allow-overlap": true
-        // "icon-image": "circle-15"
-        // "icon-color": "red"
-        // "text-field": "{title}",
-        // "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
-        // "text-offset": [0, 0.6],
-        // "text-anchor": "top"
       }
     });
   }
@@ -129,7 +118,9 @@ class Map extends Component<Props> {
       fitBoundsOptions: { padding: 20 },
       scrollZoom: false,
       boxZoom: false,
-      dragPan: false
+      dragPan: false,
+      customAttribution:
+        "Geospatial data from <a href='https://www.iucnredlist.org/' target='_blank'>IUCN RedList</a>"
     };
 
     if (this.props.species) {
@@ -225,16 +216,18 @@ class Map extends Component<Props> {
 
   render() {
     return (
-      <div
-        ref={this.mapRef}
-        style={{
-          position: "absolute",
-          width: "100%",
-          height: "100%",
-          top: 0,
-          bottom: 0
-        }}
-      />
+      <>
+        <div
+          ref={this.mapRef}
+          style={{
+            position: "absolute",
+            width: "100%",
+            height: "100%",
+            top: 0,
+            bottom: 0
+          }}
+        />
+      </>
     );
   }
 }
