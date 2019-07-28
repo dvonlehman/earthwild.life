@@ -4,7 +4,6 @@ import classNames from "classnames";
 import CloudinaryImage from "./CloudinaryImage";
 import { dimensions, colors } from "../styles";
 import { useContext } from "../context";
-import random from "lodash/random";
 import { SpeciesInfo, Image, Species } from "../types";
 
 const IMAGE_HEIGHT = dimensions.imagesPaneHeight - 40;
@@ -74,11 +73,11 @@ const ImageList: FC<ImageListProps> = props => {
   };
 
   const onImageClick = (image: Image) => {
-    context.setSelectedImage(image);
-
     // If the image is from a different species than the current one, navigate to that species.
     if (!currentSpecies || image.speciesSlug !== currentSpecies.slug) {
       document.location.hash = image.speciesSlug;
+    } else {
+      context.setSelectedImage(image);
     }
   };
 

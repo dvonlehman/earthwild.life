@@ -66,7 +66,10 @@ const SpeciesLayout: FC = props => {
       <div className={classes.center}>
         <div className={classes.map}>
           {context.selectedImage && <ImageCarousel />}
-          <MapBoxMap species={context.currentSpecies} />
+          <MapBoxMap
+            species={context.currentSpecies}
+            speciesList={context.speciesList}
+          />
         </div>
         <div className={classes.images}>
           <ImageList

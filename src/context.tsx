@@ -1,7 +1,12 @@
 import React, { FC, useEffect, useState, useCallback } from "react";
 import throttle from "lodash/throttle";
 import random from "lodash/random";
-import { AppContext, AppContextProviderProps, Image } from "./types";
+import {
+  AppContext,
+  AppContextProviderProps,
+  Image,
+  SpeciesInfo
+} from "./types";
 import { fetchSpecies } from "./api";
 
 // In order to make TS happy, we need to pass in a defaultValue.
@@ -20,6 +25,17 @@ export function useContext(): AppContext {
 
 let hashListenerRegistered = false;
 
+const randomSpeciesImages = (speciesList: SpeciesInfo[]): Image[] => {
+  let available = speciesList.map(s => s.featuredImage);
+  const images = [];
+  do {
+    const idx = random(0, available.length - 1);
+    images.push(available[idx]);
+    available.splice(idx, 1);
+  } while (images.length < 5);
+  return images;
+};
+
 interface ContextState extends AppContextProviderProps {
   isLoading: boolean;
   selectedImage?: Image;
@@ -31,19 +47,10 @@ const AppContextProvider: FC<AppContextProviderProps> = props => {
     ...props,
     isLoading: false,
     selectedImage: undefined,
-    imageList: []
+    imageList: props.currentSpecies
+      ? props.currentSpecies.images
+      : randomSpeciesImages(props.speciesList)
   });
-
-  const randomSpeciesImages = (): Image[] => {
-    let available = props.speciesList.map(s => s.featuredImage);
-    const images = [];
-    do {
-      const idx = random(0, available.length - 1);
-      images.push(available[idx]);
-      available.splice(idx, 1);
-    } while (images.length < 5);
-    return images;
-  };
 
   const onHashChange = useCallback(async () => {
     console.log("hash change", document.location.hash);
@@ -70,7 +77,7 @@ const AppContextProvider: FC<AppContextProviderProps> = props => {
         ...state,
         selectedImage: undefined,
         currentSpecies: undefined,
-        imageList: randomSpeciesImages()
+        imageList: randomSpeciesImages(props.speciesList)
       });
     }
   }, []);

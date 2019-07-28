@@ -1,10 +1,11 @@
-import { GeoJsonObject } from "geojson";
+import { AllGeoJSON, Position } from "@turf/turf";
 
 export interface SpeciesInfo {
   title: string;
   slug: string;
   featuredImage: Image;
   category: RedListCategory;
+  geoCenterOfMass: Position;
 }
 
 export interface Image {
@@ -45,7 +46,7 @@ export interface Species extends SpeciesInfo {
   subSpeciesIds: number[];
   subSpecies: SubSpecies[];
   populationTrend: PopulationTrend;
-  geoJson: GeoJsonObject;
+  geoJson: AllGeoJSON;
   summary: {
     text: string;
     source: "wcs" | "redList";

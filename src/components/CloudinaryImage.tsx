@@ -34,7 +34,12 @@ interface CloudinaryImageProps {
 
 const CloudinaryImage: FC<CloudinaryImageProps> = props => {
   const { width, height, crop, path } = props;
-  const src = buildUrl({ path, width, height, crop });
+  const src = buildUrl({
+    path,
+    width: width ? width * 2 : width,
+    height: height ? height * 2 : height,
+    crop
+  });
   return (
     <img
       alt={props.alt}

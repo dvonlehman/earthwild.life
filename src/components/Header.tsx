@@ -5,7 +5,7 @@ import { colors } from "../styles";
 const useStyles = makeStyles({
   header: {
     padding: "0 20px",
-    height: 70,
+    height: 80,
     backgroundColor: colors.dark,
     display: "flex",
     alignItems: "center",
@@ -13,23 +13,26 @@ const useStyles = makeStyles({
   },
   logo: {
     display: "inline-block",
-    height: 50,
+    height: 60,
     width: "auto"
   },
   donate: {
-    display: "flex",
-    height: 40,
-    padding: "0 20px",
-    fontWeight: 500,
-    fontSize: 18,
-    backgroundColor: colors.green,
-    borderRadius: 3,
     color: colors.white,
     textDecoration: "none",
+    display: "flex",
     alignItems: "center",
-    alignContent: "center",
+    backgroundImage: "url(/wcs-logo.png)",
+    backgroundSize: "auto 30px",
+    backgroundRepeat: "no-repeat",
+    backgroundPosition: "10px center",
+    padding: "12px 10px 12px 60px",
+    borderRadius: 5,
+    borderStyle: "solid",
+    borderColor: colors.white,
+    borderWidth: 1,
     "&:hover": {
-      color: colors.mediumGray
+      color: colors.mediumGray,
+      borderColor: colors.mediumGray
     }
   }
 });

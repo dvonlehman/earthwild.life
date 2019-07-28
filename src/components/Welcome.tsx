@@ -71,9 +71,8 @@ const Welcome: FC = props => {
         <p className={classes.intro}>
           This interactive site highlights many of the global priority species
           the <a href="https://www.wcs.org">Wildlife Conservation Society</a> is
-          working diligently to protect. Click a species in the right menu to
-          find out where they live, what is being done to protect them, and how
-          you can help.
+          working diligently to protect. Drill into the details of a particular
+          species by clicking a dot on the map or using the menu at the right.
         </p>
         <div className={classes.standForWildlife}>
           <a href="https://www.wcs.org">

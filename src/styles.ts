@@ -7,7 +7,8 @@ export const colors = {
   secondary: "#00b3a3",
   dark: "#27231d",
   darkBlue: "#08306b",
-  green: "#3d7a5b"
+  brightGreen: "#9cb84b",
+  red: "#bc403a"
 };
 
 export const dimensions = {

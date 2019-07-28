@@ -4,8 +4,13 @@ import fs from "fs-extra";
 import yaml from "js-yaml";
 import * as turf from "@turf/turf";
 import { countBy, entries, uniq } from "lodash";
-import { Geometry, Feature, FeatureCollection } from "geojson";
-import { AllGeoJSON } from "@turf/turf";
+import {
+  AllGeoJSON,
+  FeatureCollection,
+  Feature,
+  Geometry,
+  Point
+} from "@turf/turf";
 
 import {
   Image,
@@ -172,7 +177,7 @@ const generateSpeciesJson = async (
 ): Promise<SpeciesInfo> => {
   console.log(`Processing species ${slug}`);
 
-  const geoJson: FeatureCollection<Geometry, GeoJsonProperties> = {
+  let geoJson: FeatureCollection<Geometry, GeoJsonProperties> = {
     type: "FeatureCollection",
     features: []
   };
@@ -213,6 +218,8 @@ const generateSpeciesJson = async (
     5
   );
 
+  geoJson = turf.truncate(geoJson, { precision: 4 });
+
   const speciesInfo: SpeciesInfo = {
     slug,
     title: speciesMetadata.title,
@@ -220,7 +227,10 @@ const generateSpeciesJson = async (
     category: mostCommon(
       subSpecies.map(json => json.category),
       1
-    )[0] as RedListCategory
+    )[0] as RedListCategory,
+    geoCenterOfMass: (turf.truncate(turf.centerOfMass(geoJson), {
+      precision: 4
+    }).geometry as Point).coordinates
   };
 
   geoJson.bbox = turf.bbox(geoJson as AllGeoJSON);
