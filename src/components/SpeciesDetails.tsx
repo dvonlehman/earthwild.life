@@ -41,7 +41,7 @@ const SpeciesNav: FC = props => {
   return (
     <div className={classes.main}>
       <FeaturedImage
-        width={dimensions.leftColumnWidth}
+        dimensions={[dimensions.leftColumnWidth * 2, 400]}
         height={200}
         species={currentSpecies}
       />

@@ -7,20 +7,24 @@ import SpeciesStatus from "../SpeciesStatus";
 // import SubSpeciesList from "../SubSpeciesList";
 // import ThreatList from "../ThreatList";
 // import WcsHelpLink from "../WcsHelpLink";
-import FeaturedImage from "../FeaturedImage";
+import CloudinaryImage from "../CloudinaryImage";
 
 const useStyles = makeStyles({
   main: {
-    backgroundColor: colors.white,
+    backgroundColor: colors.white
   },
   content: {
-    padding: "15px 20px",
+    padding: "15px 20px"
+  },
+  featuredImage: {
+    minWidth: "100%",
+    maxWidth: "100%"
   },
   title: {
     color: colors.black,
     marginTop: 0,
-    marginBottom: 10,
-  },
+    marginBottom: 10
+  }
 });
 
 const SpeciesDetails: FC = props => {
@@ -37,10 +41,13 @@ const SpeciesDetails: FC = props => {
 
   return (
     <div className={classes.main}>
-      <FeaturedImage
-        width={window.outerWidth}
-        height={Math.round(0.6 * window.outerWidth)}
-        species={currentSpecies}
+      <CloudinaryImage
+        alt={currentSpecies.title}
+        className={classes.featuredImage}
+        width={600}
+        height={400}
+        path={currentSpecies.featuredImage.url}
+        crop="fill"
       />
 
       <section>

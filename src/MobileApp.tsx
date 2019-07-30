@@ -2,12 +2,12 @@ import React, { FC } from "react";
 import { useContext } from "./context";
 import Header from "./components/Header";
 import { makeStyles } from "@material-ui/styles";
-import Welcome from "./components/Welcome";
+import Welcome from "./components/mobile/Welcome";
 import SpeciesDetails from "./components/mobile/SpeciesDetails";
 
 const useStyles = makeStyles({
   layout: {},
-  main: {},
+  main: {}
 });
 
 const MobileApp: FC = () => {

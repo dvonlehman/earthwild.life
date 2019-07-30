@@ -1,18 +1,17 @@
-import React, { FC, useState, useEffect } from "react";
+import React, { FC } from "react";
 import { makeStyles } from "@material-ui/styles";
-import FeaturedImage from "./FeaturedImage";
-import { dimensions, colors } from "../styles";
-import { useContext } from "../context";
-import shuffle from "lodash/shuffle";
+import FeaturedImage from "../FeaturedImage";
+import { colors } from "../../styles";
+import { useContext } from "../../context";
 
 const useStyles = makeStyles({
   main: {
     marginBottom: 20,
-    minHeight: "min-content",
-    height: "100%"
+    backgroundColor: colors.white
   },
   content: {
-    padding: 20
+    padding: 20,
+    backgroundColor: colors.white
   },
   title: {
     color: colors.black,
@@ -43,28 +42,12 @@ const Welcome: FC = props => {
   const classes = useStyles();
   const context = useContext();
 
-  const [state, setState] = useState({
-    shuffledSpecies: shuffle(context.speciesList),
-    speciesIndex: 0
-  });
-
-  // Rotate through the species
-  useEffect(() => {
-    const timer = setInterval(() => {
-      const index = state.speciesIndex;
-      const speciesIndex =
-        index === state.shuffledSpecies.length - 1 ? 0 : state.speciesIndex + 1;
-      setState({ ...state, speciesIndex });
-    }, 5000);
-    return () => clearTimeout(timer);
-  }, [state]);
-
   return (
     <div className={classes.main}>
       <FeaturedImage
-        dimensions={[dimensions.leftColumnWidth * 2, 400]}
-        height={200}
-        species={state.shuffledSpecies[state.speciesIndex]}
+        dimensions={[800, 600]}
+        height={300}
+        species={context.speciesList[0]}
       />
       <div className={classes.content}>
         <h2 className={classes.title}>Welcome</h2>
@@ -72,7 +55,8 @@ const Welcome: FC = props => {
           This interactive site highlights many of the global priority species
           the <a href="https://www.wcs.org">Wildlife Conservation Society</a> is
           working diligently to protect. Drill into the details of a particular
-          species by clicking a dot on the map or using the menu at the right.
+          species by clicking a dot on the map or using the species selector
+          above.
         </p>
         <div className={classes.standForWildlife}>
           <a href="https://www.wcs.org">
