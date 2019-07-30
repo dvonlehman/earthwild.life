@@ -1,8 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import DesktopApp from "./DesktopApp";
+import MobileApp from "./MobileApp";
 import ContextProvider from "./context";
 import { fetchSpeciesList, fetchSpecies } from "./api";
+import { dimensions } from "./styles";
 
 const main = async () => {
   let currentSpecies;
@@ -23,9 +25,15 @@ const main = async () => {
 
   const rootElement = document.getElementById("root");
 
+  const deviceType =
+    window.outerWidth < dimensions.desktopAppMinWindowWidth
+      ? "mobile"
+      : "desktop";
+  const App = deviceType === "mobile" ? <MobileApp /> : <DesktopApp />;
+
   ReactDOM.render(
-    <ContextProvider {...{ currentSpecies, speciesList }}>
-      <App />
+    <ContextProvider {...{ currentSpecies, speciesList, deviceType }}>
+      {App}
     </ContextProvider>,
     rootElement
   );

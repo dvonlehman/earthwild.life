@@ -8,11 +8,12 @@ export const colors = {
   dark: "#27231d",
   darkBlue: "#08306b",
   brightGreen: "#9cb84b",
-  red: "#bc403a"
+  red: "#bc403a",
 };
 
 export const dimensions = {
   leftColumnWidth: 300,
   imagesPaneHeight: 150,
-  rightMenuWidth: 280
+  rightMenuWidth: 280,
+  desktopAppMinWindowWidth: 1250,
 };

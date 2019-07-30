@@ -63,6 +63,7 @@ export interface AppContextProviderProps {
   // related to the lazy importing. Using a function does the trick.
   speciesList: SpeciesInfo[];
   currentSpecies?: Species;
+  deviceType: "mobile" | "desktop";
 }
 
 export interface AppContext extends AppContextProviderProps {
