@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import { makeStyles } from "@material-ui/styles";
-import { colors } from "../styles";
+import { colors, SMALL_SCREEN_MEDIA_QUERY } from "../styles";
 
 const useStyles = makeStyles({
   header: {
@@ -33,6 +33,11 @@ const useStyles = makeStyles({
     "&:hover": {
       color: colors.mediumGray,
       borderColor: colors.mediumGray
+    }
+  },
+  [SMALL_SCREEN_MEDIA_QUERY]: {
+    donate: {
+      display: "none"
     }
   }
 });
