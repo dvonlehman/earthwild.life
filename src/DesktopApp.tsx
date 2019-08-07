@@ -10,7 +10,7 @@ import ImageCarousel from "./components/ImageCarousel";
 import Welcome from "./components/Welcome";
 
 import { makeStyles } from "@material-ui/styles";
-import { colors, dimensions } from "./styles";
+import { colors, dimensions, mobileStyleSection } from "./styles";
 import { useContext } from "./context";
 
 const useStyles = makeStyles({
@@ -19,6 +19,9 @@ const useStyles = makeStyles({
     height: "100vh",
     flexDirection: "column",
     overflow: "hidden",
+    [mobileStyleSection]: {
+      display: "none",
+    },
   },
   main: {
     flexGrow: 1,
@@ -32,12 +35,7 @@ const useStyles = makeStyles({
     display: "none",
     color: colors.white,
     padding: 40,
-  },
-  [`@media (max-width: ${dimensions.desktopAppMinWindowWidth}px)`]: {
-    layout: {
-      display: "none",
-    },
-    screenSizeWarning: {
+    [mobileStyleSection]: {
       display: "flex",
     },
   },

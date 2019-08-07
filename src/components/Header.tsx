@@ -1,21 +1,25 @@
 import React, { FC } from "react";
 import { makeStyles } from "@material-ui/styles";
-import { colors } from "../styles";
+import { colors, mobileStyleSection } from "../styles";
 
 const useStyles = makeStyles({
   header: {
-    padding: "0 20px",
-    height: 80,
+    padding: "0 10px",
+    height: 60,
     backgroundColor: colors.dark,
     display: "flex",
     alignItems: "center",
-    justifyContent: "space-between"
+    justifyContent: "space-between",
   },
   logo: {
     display: "inline-block",
     height: 60,
-    width: "auto"
+    width: "auto",
+    [mobileStyleSection]: {
+      height: 40,
+    },
   },
+
   donate: {
     color: colors.white,
     textDecoration: "none",
@@ -32,9 +36,12 @@ const useStyles = makeStyles({
     borderWidth: 1,
     "&:hover": {
       color: colors.mediumGray,
-      borderColor: colors.mediumGray
-    }
-  }
+      borderColor: colors.mediumGray,
+    },
+    [mobileStyleSection]: {
+      display: "none",
+    },
+  },
 });
 
 const Header: FC = () => {

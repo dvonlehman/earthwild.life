@@ -17,3 +17,6 @@ export const dimensions = {
   rightMenuWidth: 280,
   desktopAppMinWindowWidth: 1250,
 };
+
+export const mobileStyleSection = `@media (max-width: ${dimensions.desktopAppMinWindowWidth -
+  1}px)`;

@@ -3,39 +3,40 @@ import { makeStyles } from "@material-ui/styles";
 import FeaturedImage from "../FeaturedImage";
 import { colors } from "../../styles";
 import { useContext } from "../../context";
+import SpeciesMenu from "../SpeciesMenu";
 
 const useStyles = makeStyles({
   main: {
     marginBottom: 20,
-    backgroundColor: colors.white
+    backgroundColor: colors.white,
   },
   content: {
     padding: 20,
-    backgroundColor: colors.white
+    backgroundColor: colors.white,
   },
   title: {
     color: colors.black,
     marginTop: 0,
-    marginBottom: 10
+    marginBottom: 10,
   },
   intro: {
     lineHeight: "1.4em",
     "& a": {
       fontWeight: 700,
       color: colors.black,
-      textDecoration: "none"
+      textDecoration: "none",
     },
     "& a:hover": {
-      textDecoration: "underline"
-    }
+      textDecoration: "underline",
+    },
   },
   standForWildlife: {
     textAlign: "center",
     "& img": {
       width: 200,
-      height: 200
-    }
-  }
+      height: 200,
+    },
+  },
 });
 
 const Welcome: FC = props => {
@@ -54,15 +55,16 @@ const Welcome: FC = props => {
         <p className={classes.intro}>
           This interactive site highlights many of the global priority species
           the <a href="https://www.wcs.org">Wildlife Conservation Society</a> is
-          working diligently to protect. Drill into the details of a particular
-          species by clicking a dot on the map or using the species selector
-          above.
+          working diligently to protect. Select a species below to learn more.
         </p>
-        <div className={classes.standForWildlife}>
-          <a href="https://www.wcs.org">
-            <img src="/stand-for-wildlife.jpg" alt="Stand for Wildlife" />
-          </a>
-        </div>
+      </div>
+
+      <SpeciesMenu />
+
+      <div className={classes.standForWildlife}>
+        <a href="https://www.wcs.org">
+          <img src="/stand-for-wildlife.jpg" alt="Stand for Wildlife" />
+        </a>
       </div>
     </div>
   );
