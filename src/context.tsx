@@ -7,6 +7,7 @@ import {
   AppContextProviderProps,
   Image,
   SpeciesInfo,
+  ScreenSize
 } from "./types";
 import { fetchSpecies } from "./api";
 
@@ -15,9 +16,9 @@ const Context = React.createContext<AppContext>({
   speciesList: [],
   isLoading: false,
   selectedImage: undefined,
-  deviceType: "desktop",
+  screenSize: ScreenSize.Large,
   setSelectedImage: () => {},
-  imageList: [],
+  imageList: []
 });
 
 // Custom hook that components can use to access the AppContext
@@ -51,7 +52,7 @@ const AppContextProvider: FC<AppContextProviderProps> = props => {
     selectedImage: undefined,
     imageList: props.currentSpecies
       ? props.currentSpecies.images
-      : randomSpeciesImages(props.speciesList),
+      : randomSpeciesImages(props.speciesList)
   });
 
   const onHashChange = useCallback(async () => {
@@ -72,14 +73,14 @@ const AppContextProvider: FC<AppContextProviderProps> = props => {
         currentSpecies: species,
         isLoading: false,
         selectedImage: undefined,
-        imageList: species.images,
+        imageList: species.images
       });
     } else {
       setState({
         ...state,
         selectedImage: undefined,
         currentSpecies: undefined,
-        imageList: randomSpeciesImages(props.speciesList),
+        imageList: randomSpeciesImages(props.speciesList)
       });
     }
   }, []);

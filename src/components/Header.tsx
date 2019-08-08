@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import { makeStyles } from "@material-ui/styles";
-import { colors, mobileStyleSection } from "../styles";
+import { colors, SMALL_SCREEN_MEDIA_QUERY } from "../styles";
 
 const useStyles = makeStyles({
   header: {
@@ -15,7 +15,7 @@ const useStyles = makeStyles({
     display: "inline-block",
     height: 60,
     width: "auto",
-    [mobileStyleSection]: {
+    [SMALL_SCREEN_MEDIA_QUERY]: {
       height: 40,
     },
   },
@@ -38,7 +38,7 @@ const useStyles = makeStyles({
       color: colors.mediumGray,
       borderColor: colors.mediumGray,
     },
-    [mobileStyleSection]: {
+    [SMALL_SCREEN_MEDIA_QUERY]: {
       display: "none",
     },
   },

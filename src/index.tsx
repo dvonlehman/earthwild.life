@@ -5,6 +5,7 @@ import MobileApp from "./MobileApp";
 import ContextProvider from "./context";
 import { fetchSpeciesList, fetchSpecies } from "./api";
 import { dimensions } from "./styles";
+import { ScreenSize } from "./types";
 
 const main = async () => {
   let currentSpecies;
@@ -25,14 +26,16 @@ const main = async () => {
 
   const rootElement = document.getElementById("root");
 
-  const deviceType =
-    window.outerWidth < dimensions.desktopAppMinWindowWidth
-      ? "mobile"
-      : "desktop";
-  const App = deviceType === "mobile" ? <MobileApp /> : <DesktopApp />;
+  const screenSize =
+    window.outerWidth < dimensions.largeScreenMinWindowWidth
+      ? ScreenSize.Small
+      : ScreenSize.Large;
+
+  console.log(`Initial screen size is ${screenSize}`);
+  const App = screenSize === ScreenSize.Small ? <MobileApp /> : <DesktopApp />;
 
   ReactDOM.render(
-    <ContextProvider {...{ currentSpecies, speciesList, deviceType }}>
+    <ContextProvider {...{ currentSpecies, speciesList, screenSize }}>
       {App}
     </ContextProvider>,
     rootElement

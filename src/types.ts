@@ -58,12 +58,17 @@ export interface GeoJsonProperties {
   subSpeciesId: number;
 }
 
+export enum ScreenSize {
+  Large = "large",
+  Small = "small"
+}
+
 export interface AppContextProviderProps {
   // When using a simple user prop, the value was always undefined. Must be something
   // related to the lazy importing. Using a function does the trick.
   speciesList: SpeciesInfo[];
   currentSpecies?: Species;
-  deviceType: "mobile" | "desktop";
+  screenSize: ScreenSize;
 }
 
 export interface AppContext extends AppContextProviderProps {

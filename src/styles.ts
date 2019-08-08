@@ -15,8 +15,12 @@ export const dimensions = {
   leftColumnWidth: 300,
   imagesPaneHeight: 150,
   rightMenuWidth: 280,
-  desktopAppMinWindowWidth: 1250,
+  largeScreenMinWindowWidth: 1250,
 };
 
-export const mobileStyleSection = `@media (max-width: ${dimensions.desktopAppMinWindowWidth -
+export const LARGE_SCREEN_MEDIA_QUERY = `@media (min-width: ${
+  dimensions.largeScreenMinWindowWidth
+}px)`;
+
+export const SMALL_SCREEN_MEDIA_QUERY = `@media (max-width: ${dimensions.largeScreenMinWindowWidth -
   1}px)`;

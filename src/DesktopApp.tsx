@@ -8,10 +8,12 @@ import ImageList from "./components/ImageList";
 import MapBoxMap from "./components/Map";
 import ImageCarousel from "./components/ImageCarousel";
 import Welcome from "./components/Welcome";
+import ScreenDetect from "./components/ScreenDetect";
 
 import { makeStyles } from "@material-ui/styles";
-import { colors, dimensions, mobileStyleSection } from "./styles";
+import { colors, dimensions } from "./styles";
 import { useContext } from "./context";
+import { ScreenSize } from "./types";
 
 const useStyles = makeStyles({
   layout: {
@@ -19,9 +21,7 @@ const useStyles = makeStyles({
     height: "100vh",
     flexDirection: "column",
     overflow: "hidden",
-    [mobileStyleSection]: {
-      display: "none",
-    },
+    width: "100%",
   },
   main: {
     flexGrow: 1,
@@ -30,14 +30,6 @@ const useStyles = makeStyles({
     height: "100%",
     flexDirection: "row",
     overflow: "hidden",
-  },
-  screenSizeWarning: {
-    display: "none",
-    color: colors.white,
-    padding: 40,
-    [mobileStyleSection]: {
-      display: "flex",
-    },
   },
   left: {
     height: "100%",
@@ -77,16 +69,9 @@ const DesktopApp: FC = () => {
   const context = useContext();
 
   return (
-    <>
-      <div className={classes.screenSizeWarning}>
-        This is the desktop version of the app.
-        <button onClick={() => window.location.reload()}>
-          Go to mobile view
-        </button>
-      </div>
+    <ScreenDetect screenSize={ScreenSize.Large}>
       <div className={classes.layout}>
         <Header />
-
         <section className={classes.main}>
           <aside className={classes.left}>
             {context.currentSpecies ? <SpeciesDetails /> : <Welcome />}
@@ -112,7 +97,7 @@ const DesktopApp: FC = () => {
           </div>
         </section>
       </div>
-    </>
+    </ScreenDetect>
   );
 };
 
