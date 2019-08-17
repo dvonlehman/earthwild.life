@@ -1,13 +1,12 @@
 import React, { FC } from "react";
 import { makeStyles } from "@material-ui/styles";
-import FeaturedImage from "../FeaturedImage";
+import RotatingSpeciesImage from "../RotatingSpeciesImage";
 import { colors } from "../../styles";
 import { useContext } from "../../context";
 import SpeciesMenu from "../SpeciesMenu";
 
 const useStyles = makeStyles({
   main: {
-    marginBottom: 20,
     backgroundColor: colors.white,
   },
   content: {
@@ -33,6 +32,7 @@ const useStyles = makeStyles({
   standForWildlife: {
     textAlign: "center",
     "& img": {
+      margin: "20px 0",
       width: 200,
       height: 200,
     },
@@ -45,11 +45,12 @@ const Welcome: FC = props => {
 
   return (
     <div className={classes.main}>
-      <FeaturedImage
+      <RotatingSpeciesImage
         dimensions={[800, 600]}
-        height={300}
-        species={context.speciesList[0]}
+        height={250}
+        species={context.speciesList}
       />
+
       <div className={classes.content}>
         <h2 className={classes.title}>Welcome</h2>
         <p className={classes.intro}>

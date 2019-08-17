@@ -27,7 +27,7 @@ const main = async () => {
   const rootElement = document.getElementById("root");
 
   const screenSize =
-    window.outerWidth < dimensions.largeScreenMinWindowWidth
+    window.innerWidth < dimensions.largeScreenMinWindowWidth
       ? ScreenSize.Small
       : ScreenSize.Large;
 

@@ -14,16 +14,16 @@ const useStyles = makeStyles({
   main: {
     marginBottom: 20,
     minHeight: "min-content",
-    height: "100%"
+    height: "100%",
   },
   content: {
-    padding: "15px 20px"
+    padding: "15px 20px",
   },
   title: {
     color: colors.black,
     marginTop: 0,
-    marginBottom: 10
-  }
+    marginBottom: 10,
+  },
 });
 
 const SpeciesNav: FC = props => {
@@ -54,7 +54,7 @@ const SpeciesNav: FC = props => {
         <SummaryQuote species={currentSpecies} />
 
         <div className={classes.content}>
-          <WcsHelpLink url={currentSpecies.urls.wcs} />
+          <WcsHelpLink species={currentSpecies} />
 
           {currentSpecies.subSpecies.length > 1 && (
             <SubSpeciesList species={currentSpecies} />

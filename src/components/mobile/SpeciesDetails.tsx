@@ -4,27 +4,34 @@ import { colors } from "../../styles";
 import { useContext } from "../../context";
 import SummaryQuote from "../SummaryQuote";
 import SpeciesStatus from "../SpeciesStatus";
-// import SubSpeciesList from "../SubSpeciesList";
-// import ThreatList from "../ThreatList";
-// import WcsHelpLink from "../WcsHelpLink";
-import CloudinaryImage from "../CloudinaryImage";
+import SubSpeciesList from "../SubSpeciesList";
+import ThreatList from "../ThreatList";
+import WcsHelpLink from "../WcsHelpLink";
+import FeaturedImage from "../FeaturedImage";
+import Map from "../Map";
 
 const useStyles = makeStyles({
   main: {
-    backgroundColor: colors.white
+    backgroundColor: colors.white,
   },
   content: {
-    padding: "15px 20px"
+    padding: "15px 20px",
   },
   featuredImage: {
     minWidth: "100%",
-    maxWidth: "100%"
+    maxWidth: "100%",
   },
   title: {
     color: colors.black,
     marginTop: 0,
-    marginBottom: 10
-  }
+    marginBottom: 10,
+  },
+  map: {
+    width: "100%",
+    height: 400,
+    backgroundColor: "silver",
+    position: "relative",
+  },
 });
 
 const SpeciesDetails: FC = props => {
@@ -41,13 +48,10 @@ const SpeciesDetails: FC = props => {
 
   return (
     <div className={classes.main}>
-      <CloudinaryImage
-        alt={currentSpecies.title}
-        className={classes.featuredImage}
-        width={600}
-        height={400}
-        path={currentSpecies.featuredImage.url}
-        crop="fill"
+      <FeaturedImage
+        dimensions={[800, 600]}
+        height={300}
+        species={currentSpecies}
       />
 
       <section>
@@ -57,14 +61,24 @@ const SpeciesDetails: FC = props => {
         </div>
         <SummaryQuote species={currentSpecies} />
 
-        {/* <div className={classes.content}>
-          <WcsHelpLink url={currentSpecies.urls.wcs} />
-
-          {currentSpecies.subSpecies.length > 1 && (
+        {currentSpecies.subSpecies.length > 1 && (
+          <div className={classes.content}>
             <SubSpeciesList species={currentSpecies} />
-          )}
+          </div>
+        )}
+
+        <div className={classes.map}>
+          <Map
+            species={currentSpecies}
+            speciesList={context.speciesList}
+            isLoading={false}
+          />
+        </div>
+
+        <div className={classes.content}>
+          <WcsHelpLink species={currentSpecies} />
           <ThreatList species={currentSpecies} />
-        </div> */}
+        </div>
       </section>
     </div>
   );

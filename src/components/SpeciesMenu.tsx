@@ -4,6 +4,7 @@ import { makeStyles } from "@material-ui/styles";
 import { useContext } from "../context";
 import { colors } from "../styles";
 import RedListCategoryIcon from "./RedListCategoryIcon";
+import { SpeciesInfo } from "../types";
 
 const useStyles = makeStyles({
   main: {
@@ -39,9 +40,19 @@ const useStyles = makeStyles({
   },
 });
 
-const SpeciesMenu: FC = props => {
+interface SpeciesMenuProps {
+  onClick?: (species: SpeciesInfo) => void;
+}
+
+const SpeciesMenu: FC<SpeciesMenuProps> = props => {
   const context = useContext();
   const classes = useStyles();
+
+  const onClick = (species: SpeciesInfo) => {
+    if (props.onClick) {
+      props.onClick(species);
+    }
+  };
 
   return (
     <nav className={classes.main}>
@@ -54,6 +65,7 @@ const SpeciesMenu: FC = props => {
                   context.currentSpecies &&
                   species.slug === context.currentSpecies.slug,
               })}
+              onClick={() => onClick(species)}
               href={`#${species.slug}`}
             >
               <span>{species.title}</span>

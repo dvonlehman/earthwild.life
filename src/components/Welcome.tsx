@@ -1,70 +1,53 @@
-import React, { FC, useState, useEffect } from "react";
+import React, { FC } from "react";
 import { makeStyles } from "@material-ui/styles";
-import FeaturedImage from "./FeaturedImage";
+import RotatingSpeciesImage from "./RotatingSpeciesImage";
 import { dimensions, colors } from "../styles";
 import { useContext } from "../context";
-import shuffle from "lodash/shuffle";
 
 const useStyles = makeStyles({
   main: {
     marginBottom: 20,
     minHeight: "min-content",
-    height: "100%"
+    height: "100%",
   },
   content: {
-    padding: 20
+    padding: 20,
   },
   title: {
     color: colors.black,
     marginTop: 0,
-    marginBottom: 10
+    marginBottom: 10,
   },
   intro: {
     lineHeight: "1.4em",
     "& a": {
       fontWeight: 700,
       color: colors.black,
-      textDecoration: "none"
+      textDecoration: "none",
     },
     "& a:hover": {
-      textDecoration: "underline"
-    }
+      textDecoration: "underline",
+    },
   },
   standForWildlife: {
     textAlign: "center",
     "& img": {
       width: 200,
-      height: 200
-    }
-  }
+      height: 200,
+    },
+  },
 });
 
 const Welcome: FC = props => {
   const classes = useStyles();
   const context = useContext();
 
-  const [state, setState] = useState({
-    shuffledSpecies: shuffle(context.speciesList),
-    speciesIndex: 0
-  });
-
-  // Rotate through the species
-  useEffect(() => {
-    const timer = setInterval(() => {
-      const index = state.speciesIndex;
-      const speciesIndex =
-        index === state.shuffledSpecies.length - 1 ? 0 : state.speciesIndex + 1;
-      setState({ ...state, speciesIndex });
-    }, 5000);
-    return () => clearTimeout(timer);
-  }, [state]);
-
   return (
     <div className={classes.main}>
-      <FeaturedImage
+      <RotatingSpeciesImage
         dimensions={[dimensions.leftColumnWidth * 2, 400]}
         height={200}
-        species={state.shuffledSpecies[state.speciesIndex]}
+        species={context.speciesList}
       />
       <div className={classes.content}>
         <h2 className={classes.title}>Welcome</h2>

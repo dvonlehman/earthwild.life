@@ -1,10 +1,11 @@
 import React from "react";
 import { makeStyles } from "@material-ui/styles";
 import { colors } from "../styles";
+import { SpeciesProps } from "../types";
 
 const useStyles = makeStyles({
   button: {
-    height: 50,
+    minHeight: 40,
     backgroundColor: colors.black,
     display: "flex",
     textDecoration: "none",
@@ -18,22 +19,25 @@ const useStyles = makeStyles({
     padding: "10px 10px 10px 75px",
     borderRadius: 5,
     "&:hover": {
-      color: colors.mediumGray
-    }
-  }
+      color: colors.mediumGray,
+    },
+  },
 });
 
-const WcsHelpLink = (props: { url: string }) => {
+const WcsHelpLink = (props: SpeciesProps) => {
   const classes = useStyles();
 
   return (
     <a
       className={classes.button}
-      href={props.url}
+      href={props.species.urls.wcs}
       target="_blank"
       rel="noopener noreferrer"
     >
-      <span>Learn how the Wildlife Conservation Society is helping</span>
+      <span>
+        Learn how the Wildlife Conservation Society is helping the{" "}
+        {props.species.title}
+      </span>
     </a>
   );
 };

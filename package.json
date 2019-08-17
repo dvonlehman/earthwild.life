@@ -6,6 +6,7 @@
     "url": "https://github.com/dvonlehman/earthwild.life"
   },
   "dependencies": {
+    "@material-ui/core": "^4.3.1",
     "@material-ui/styles": "^4.1.2",
     "@types/jest": "24.0.13",
     "@types/node": "12.0.2",
@@ -24,6 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "deploy": "npm run build && aero deploy",
     "generate-json": "ts-node --compiler-options '{\"module\":\"commonjs\"}' src/scripts/generate.ts"
   },
   "eslintConfig": {
