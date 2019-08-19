@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 
-import React, { FC } from "react";
+import React, { FC, ReactNode } from "react";
 import Header from "./components/Header";
 import SpeciesMenu from "./components/SpeciesMenu";
 import SpeciesDetails from "./components/SpeciesDetails";
@@ -21,7 +21,7 @@ const useStyles = makeStyles({
     height: "100vh",
     flexDirection: "column",
     overflow: "hidden",
-    width: "100%",
+    width: "100%"
   },
   main: {
     flexGrow: 1,
@@ -29,53 +29,60 @@ const useStyles = makeStyles({
     width: "100%",
     height: "100%",
     flexDirection: "row",
-    overflow: "hidden",
+    overflow: "hidden"
   },
   left: {
     height: "100%",
     width: dimensions.leftColumnWidth,
     minWidth: dimensions.leftColumnWidth,
     backgroundColor: colors.white,
-    overflowY: "scroll",
+    overflowY: "scroll"
   },
   center: {
     flexGrow: 1,
     display: "flex",
     flexDirection: "column",
-    height: "100%",
+    height: "100%"
   },
   right: {
     width: dimensions.rightMenuWidth,
     minWidth: dimensions.rightMenuWidth,
     overflowY: "scroll",
     height: "100%",
-    backgroundColor: colors.white,
+    backgroundColor: colors.white
   },
   map: {
     flexGrow: 1,
     backgroundColor: "silver",
-    position: "relative",
+    position: "relative"
   },
   images: {
     height: dimensions.imagesPaneHeight,
     margin: 0,
     padding: 0,
-    backgroundColor: colors.dark,
-  },
+    backgroundColor: colors.dark
+  }
 });
 
 const DesktopApp: FC = () => {
   const classes = useStyles();
   const context = useContext();
 
+  let leftContent: ReactNode;
+  if (context.isLoading) {
+    leftContent = <div />;
+  } else if (context.currentSpecies) {
+    leftContent = <SpeciesDetails />;
+  } else {
+    leftContent = <Welcome />;
+  }
+
   return (
     <ScreenDetect screenSize={ScreenSize.Large}>
       <div className={classes.layout}>
         <Header />
         <section className={classes.main}>
-          <aside className={classes.left}>
-            {context.currentSpecies ? <SpeciesDetails /> : <Welcome />}
-          </aside>
+          <aside className={classes.left}>{leftContent}</aside>
           <div className={classes.center}>
             <div className={classes.map}>
               {context.selectedImage && <ImageCarousel />}

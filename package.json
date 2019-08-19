@@ -25,7 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && aero deploy",
+    "deploy": "npm run generate-json && npm run build && aero deploy",
     "generate-json": "ts-node --compiler-options '{\"module\":\"commonjs\"}' src/scripts/generate.ts"
   },
   "eslintConfig": {

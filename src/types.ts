@@ -28,12 +28,12 @@ export type PopulationTrend = "Decreasing" | "Increasing" | "Stable";
 
 export interface SubSpecies {
   id: number;
-  rationale: string;
+  // rationale: string;
   category: RedListCategory;
   populationTrend: PopulationTrend;
-  habitat: string;
-  geographicRange: string;
-  population: string;
+  // habitat: string;
+  // geographicRange: string;
+  // population: string;
   threats: string[];
   commonName: string;
   countries: string[];

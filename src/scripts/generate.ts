@@ -76,12 +76,12 @@ const loadSubSpecies = async (
 
   return {
     id: json.species_id,
-    rationale: json.rationale,
+    // rationale: json.rationale,
     populationTrend: json.population_trend,
-    habitat: json.habitat,
-    geographicRange: json.geographicrange,
+    // habitat: json.habitat,
+    // geographicRange: json.geographicrange,
     category: normalizeCategory(json.historical[0].category),
-    population: json.population,
+    // population: json.population,
     threats: uniq(
       json.threats
         .filter(
