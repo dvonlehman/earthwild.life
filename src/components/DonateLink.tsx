@@ -1,6 +1,7 @@
 import React from "react";
 import { makeStyles } from "@material-ui/styles";
 import { colors } from "../styles";
+import { WCS_DONATE_URL } from "../variables";
 
 const useStyles = makeStyles({
   link: {
@@ -30,7 +31,7 @@ const DonateLink = () => {
   return (
     <a
       className={classes.link}
-      href="https://secure.wcs.org/donate/donate-and-help-save-wildlife"
+      href={WCS_DONATE_URL}
       target="_blank"
       rel="noopener noreferrer"
     >
