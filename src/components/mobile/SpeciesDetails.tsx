@@ -50,7 +50,7 @@ const SpeciesDetails: FC = props => {
     <div className={classes.main}>
       <FeaturedImage
         dimensions={[800, 600]}
-        height={300}
+        height={275}
         species={currentSpecies}
       />
 

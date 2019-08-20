@@ -47,7 +47,7 @@ const Welcome: FC = props => {
     <div className={classes.main}>
       <RotatingSpeciesImage
         dimensions={[800, 600]}
-        height={250}
+        height={275}
         species={context.speciesList}
       />
 

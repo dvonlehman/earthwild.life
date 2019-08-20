@@ -16,9 +16,11 @@ const useStyles = makeStyles({
     justifyContent: "space-between",
   },
   logo: {
-    display: "inline-block",
-    height: 40,
-    width: "auto",
+    display: "flex",
+    "& img": {
+      height: 40,
+      width: "auto",
+    },
   },
   menu: {
     border: "none",
@@ -62,7 +64,7 @@ const Header: FC = () => {
   return (
     <>
       <header className={classes.header}>
-        <a href="/#">
+        <a href="/#" className={classes.logo}>
           <img className={classes.logo} src="/logo.png" alt="logo" />
         </a>
         <button className={classes.menu} onClick={() => setDrawerOpen(true)}>

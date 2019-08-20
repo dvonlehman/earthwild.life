@@ -52,6 +52,7 @@ const SpeciesMenu: FC<SpeciesMenuProps> = props => {
     if (props.onClick) {
       props.onClick(species);
     }
+    return true;
   };
 
   return (
