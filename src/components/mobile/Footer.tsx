@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-no-target-blank */
 
 import React from "react";
-import { makeStyles } from "@material-ui/styles";
+import { makeStyles } from "@material-ui/core/styles";
 import { colors } from "../../styles";
 import { WCS_DONATE_URL } from "../../variables";
 

@@ -1,7 +1,7 @@
 import React, { FC } from "react";
 import { buildUrl } from "./CloudinaryImage";
 import { SpeciesInfo } from "../types";
-import { makeStyles } from "@material-ui/styles";
+import { makeStyles } from "@material-ui/core/styles";
 
 interface FeaturedImageProps {
   species: SpeciesInfo;

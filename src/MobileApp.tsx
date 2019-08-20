@@ -3,7 +3,7 @@ import { useContext } from "./context";
 import Header from "./components/mobile/Header";
 import Footer from "./components/mobile/Footer";
 
-import { makeStyles } from "@material-ui/styles";
+import { makeStyles } from "@material-ui/core/styles";
 import Welcome from "./components/mobile/Welcome";
 import SpeciesDetails from "./components/mobile/SpeciesDetails";
 import ScreenDetect from "./components/ScreenDetect";

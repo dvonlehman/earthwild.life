@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import { makeStyles } from "@material-ui/styles";
+import { makeStyles } from "@material-ui/core/styles";
 import {
   colors,
   SMALL_SCREEN_MEDIA_QUERY,

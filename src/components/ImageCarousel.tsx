@@ -1,6 +1,6 @@
 import React from "react";
 import { useContext } from "../context";
-import { makeStyles } from "@material-ui/styles";
+import { makeStyles } from "@material-ui/core/styles";
 import { colors } from "../styles";
 import { buildUrl } from "./CloudinaryImage";
 import { ReactComponent as ArrowBack } from "../icons/arrow-back.svg";

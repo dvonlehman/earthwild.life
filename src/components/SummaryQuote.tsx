@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import { Species } from "../types";
-import { makeStyles } from "@material-ui/styles";
+import { makeStyles } from "@material-ui/core/styles";
 import { colors } from "../styles";
 
 const useStyles = makeStyles({

@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import { makeStyles } from "@material-ui/styles";
+import { makeStyles } from "@material-ui/core/styles";
 import RotatingSpeciesImage from "./RotatingSpeciesImage";
 import { dimensions, colors } from "../styles";
 import { useContext } from "../context";

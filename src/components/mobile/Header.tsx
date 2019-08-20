@@ -1,8 +1,7 @@
 import React, { FC, useState } from "react";
-import { makeStyles } from "@material-ui/styles";
+import { makeStyles } from "@material-ui/core/styles";
 import { ReactComponent as MenuIcon } from "../../icons/menu.svg";
 import SwipeableDrawer from "@material-ui/core/SwipeableDrawer";
-// import { useContext } from "../../context";
 import { colors } from "../../styles";
 import SpeciesMenu from "../SpeciesMenu";
 

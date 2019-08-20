@@ -2,12 +2,12 @@
   "name": "earthwild.life",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://earthwild.life",
   "repository": {
     "url": "https://github.com/dvonlehman/earthwild.life"
   },
   "dependencies": {
     "@material-ui/core": "^4.3.1",
-    "@material-ui/styles": "^4.1.2",
     "@types/jest": "24.0.13",
     "@types/node": "12.0.2",
     "@types/react": "16.8.18",

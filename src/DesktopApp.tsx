@@ -10,7 +10,7 @@ import ImageCarousel from "./components/ImageCarousel";
 import Welcome from "./components/Welcome";
 import ScreenDetect from "./components/ScreenDetect";
 
-import { makeStyles } from "@material-ui/styles";
+import { makeStyles } from "@material-ui/core/styles";
 import { colors, dimensions } from "./styles";
 import { useContext } from "./context";
 import { ScreenSize } from "./types";
