@@ -58,7 +58,7 @@
     "fs-extra": "^8.1.0",
     "js-yaml": "^3.13.1",
     "line-by-line": "^0.1.6",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "ts-node": "^8.3.0"
   }
 }
